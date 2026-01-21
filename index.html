@@ -1,0 +1,967 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Site description">
+  <meta name="author" content="Your Name">
+  <link rel="canonical" href="http://localhost:4000/">
+
+  <title>AlwaysDominatingAcademics</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/custom.css">
+
+
+  <!-- Custom fonts for this template -->
+  <link href="assets/css/all.min.css" rel="stylesheet" type="text/css">
+  
+    
+      <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    
+      <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css">
+    
+      <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    
+      <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css">
+    
+  
+  <!-- Custom styles for this theme -->
+  <!--<link href="assets/css/agency.min.css" rel="stylesheet">-->
+  <link href="assets/css/agency.css" rel="stylesheet" />
+
+  <!-- Page container change top padding when nav shrinks -->
+  
+</head>
+
+
+  <body id="page-top">
+
+        <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+    <div class="container">
+	  <a class="navbar-brand js-scroll-trigger" href="#page-top">AlwaysDominatingAcademics</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav text-uppercase ml-auto">
+        
+        
+          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">The Story</a></li>
+        
+          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Lab Notes</a></li>
+        
+          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#team">Team</a></li>
+        
+          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="https://github.com/raviriley/agency-jekyll-theme/">Theme Source</a></li>
+        
+        
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- End Navigation -->
+  
+  <!-- Header -->
+  
+  <header class="masthead">
+    <div class="container">
+      <div class="intro-text"><div class="intro-lead-in"><p>Integrating CEO Sentiments into MSAR Market Models</p>
+</div><div class="intro-heading text-uppercase"><p>VOICE  x  VOLATILITY</p>
+</div><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#about">Tell Me More</a></div>
+    </div>
+  </header>
+  
+  <!-- End Header -->
+
+<!-- About -->
+
+<section class="page-section" id="about">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">A stock investor's intuition</h2>
+        <h3 class="section-subheading text-muted"></h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        <div class="large text-muted"><p>Bob is a data scientist and an ordinary stock investor who closely monitors the “Semiconductor &amp; Tech Giants” (like NVDA, AMD, and AAPL). He knows these companies sit at the bleeding edge of innovation, where every word from a CEO counts.</p>
+
+<p>Every day, he opens his trading software, watching prices rise, fall, and fluctuate.
+He’s no stranger to numbers—but one question always lingers:</p>
+
+<blockquote>
+  <p><strong>Why does the market suddenly “change its personality” at certain moments?</strong></p>
+</blockquote>
+
+<p>Sometimes, prices seem to be propelled forward by inertia, 
+with gentle fluctuations and clear trends;</p>
+
+<p>Other times, just the slightest disturbance is enough for the market to quickly reverse,
+with amplified volatility and fluctuating sentiment.</p>
+
+<p>As a data analyst, he quickly realized that prices are very good at describing “results”,
+but rarely explain “causes”.</p>
+
+<p>This prompted him to start looking for a way to systematically answer one question—
+<strong>what state is the market actually in?</strong></p>
+
+<p><img src="assets/img/about/regime_c.png" class="about-img" /></p>
+</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- End About -->
+<!-- Section 1 -->
+
+<section class="page-section" id="section_1">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">
+          First tool:<br> Identifying market status using MSAR
+
+        </h2>
+        <h3 class="section-subheading text-muted">
+          
+        </h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        <div class="large text-muted">
+          <p>He chose <strong>Markov-Switching Autoregression (MSAR)</strong>.</p>
+
+<p>The reason is simple: MSAR doesn’t attempt to predict prices, but rather to understand <strong>state transitions</strong>.</p>
+
+<p>In this model, the market is abstracted into several hidden states—
+such as the intuitively understood <strong>Bull</strong> and <strong>Bear</strong>.</p>
+
+<table class="data-table">
+  <thead>
+    <tr>
+      <th>Column</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>date</code></td>
+      <td>Trading day (no weekends or holidays)</td>
+    </tr>
+    <tr>
+      <td><code>close</code></td>
+      <td>NASDAQ closing index value</td>
+    </tr>
+    <tr>
+      <td><code>ret</code>, <code>logret</code></td>
+      <td>Daily simple and log returns</td>
+    </tr>
+    <tr>
+      <td><code>sma</code>, <code>vol</code></td>
+      <td>Moving average (trend) and rolling volatility</td>
+    </tr>
+    <tr>
+      <td><code>drawdown</code></td>
+      <td>Percent drop from the previous maximum (peak)</td>
+    </tr>
+    <tr>
+      <td><code>regime_A</code></td>
+      <td>Trend-based Bull/Bear classification</td>
+    </tr>
+    <tr>
+      <td><code>regime_B</code></td>
+      <td>Trend + Volatility filter</td>
+    </tr>
+    <tr>
+      <td><code>regime_C</code></td>
+      <td>Drawdown-based rule</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The model doesn’t tell you why the market is rising, but it does tell you:</p>
+
+<ul>
+  <li>
+    <p>Which state it’s most like now</p>
+  </li>
+  <li>
+    <p>How stable this state is</p>
+  </li>
+</ul>
+
+<p>What is the probability of a transition occurring?</p>
+
+<p>When he first saw the regime probability output by MSAR smoothly change over time, he realized:</p>
+
+<blockquote>
+  <p><strong>There is indeed some structure beneath the market’s chaos.</strong></p>
+</blockquote>
+
+<p>And the numbers backed him up. The validation results showed that ‘Regime Inertia’ is real—the model’s ‘calm’ state probability accurately aligned with realized low-volatility periods.</p>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- End Section 1 -->
+<!-- Section 2 -->
+
+<section class="page-section" id="section_2">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">
+          A lingering question remains:<br> MSAR looks at the "past", so where is the "expectation"?
+
+        </h2>
+        <h3 class="section-subheading text-muted">
+          
+        </h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        <div class="large text-muted">
+          <p>However, as the model ran more smoothly, a problem began to emerge:</p>
+
+<p>The current MSAR model excels at summarizing history, but it <strong>can only learn from prices themselves</strong>.</p>
+
+<p>It’s like a driver who only looks in the rearview mirror—their judgment of road conditions comes entirely from past experiences.</p>
+
+<p><img src="assets/img/about/output.png" class="about-img about-img--overview" /></p>
+
+<p>But the real market is clearly not just a “price-to-price reaction”.</p>
+
+<p>Beyond trading, he also noticed another thing:</p>
+
+<p><strong>The market’s reaction to a CEO’s speech often doesn’t happen on the same day, but unfolds gradually over a period of time.</strong></p>
+
+<ul>
+  <li>
+    <p>After some speeches, market sentiment gradually cooled.</p>
+  </li>
+  <li>
+    <p>Sometimes, changes in tone preceded price changes.</p>
+  </li>
+</ul>
+
+<p>This made him start to think:</p>
+
+<blockquote>
+  <p><strong>Is there a way to transform “human expectations” into signals that can be understood by the model?</strong></p>
+</blockquote>
+
+<p><img src="assets/img/about/speech_coverage.png" class="about-img" /></p>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- End Section 2 -->
+<!-- Section 3 -->
+
+<section class="page-section" id="section_3">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">
+          Turning point:<br> The CEO's speech wasn't noise, but a "trace of expectation".
+
+        </h2>
+        <h3 class="section-subheading text-muted">
+          
+        </h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        <div class="large text-muted">
+          <p>This became a turning point for the entire project.</p>
+
+<p>He no longer treated CEO speeches as “emotional news”, but rather as a <strong>structured but not yet quantified source of information</strong>.</p>
+
+<p>Thus, the second pipeline gradually took shape:</p>
+
+<ul>
+  <li>
+    <p>Extracting texts from CEO interviews and earnings calls</p>
+  </li>
+  <li>
+    <p>Transforming language into comparable features</p>
+  </li>
+  <li>
+    <p>Focusing not on “how optimistic they were,” but on “whether a change has occurred.”</p>
+  </li>
+</ul>
+
+<p>The key here is: 
+<strong>The nuances in the tone of the same CEO are more important than the differences between different CEOs.</strong></p>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- End Section 3 -->
+<!-- Section 4 -->
+
+<section class="page-section" id="section_4">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">
+          From Language to "Change":<br> Why We Only Look at ΔSpeech
+
+        </h2>
+        <h3 class="section-subheading text-muted">
+          
+        </h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        <div class="large text-muted">
+          <p>He quickly realized a pitfall:</p>
+
+<p>Some CEOs are inherently cautious, others inherently aggressive.</p>
+
+<p>If you directly compare the absolute values of speech features, the model might only learn <strong>personal style</strong>.</p>
+
+<p>So he introduced a key design:</p>
+
+<blockquote>
+  <p><strong>Focusing only on change, not on level.</strong></p>
+</blockquote>
+
+<p>Through a CEO-specific rolling baseline, each speech is transformed into:</p>
+
+<div class="math-line">
+  ΔX<sub>t</sub> = X<sub>t</sub> − X<sub>t−1</sub>
+</div>
+
+<p>This step fundamentally changes the signal—the model no longer cares about <strong>who this CEO is</strong>, but rather:</p>
+
+<p><strong>Has this CEO recently changed?</strong></p>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- End Section 4 -->
+<!-- Section 5 -->
+
+<section class="page-section" id="section_5">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">
+          Time alignment:<br> Language appears first, market reacts later
+
+        </h2>
+        <h3 class="section-subheading text-muted">
+          
+        </h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        <div class="large text-muted">
+          <p>Another practical issue is timing.</p>
+
+<p>A speech might take place over the weekend, after the market closes, but the market can only react during the trading day.</p>
+
+<p>Therefore, he made a seemingly simple but crucial decision:</p>
+
+<ul>
+  <li>
+    <p>Speech signal → <strong>Aligned to the next trading day</strong></p>
+  </li>
+  <li>
+    <p>Then calculate market performance for the next 3/5/10/20 days
+<img src="assets/img/about/cumulative_returns.png" class="about-img" />
+<img src="assets/img/about/correlation.png" class="about-img" /></p>
+  </li>
+</ul>
+
+<p>In this way, every change in language is placed in a logical causal sequence:</p>
+
+<p><img src="assets/img/about/correlation_1.png" class="about-img" /></p>
+
+<blockquote>
+  <p><strong>Information first, then price.</strong></p>
+</blockquote>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- End Section 5 -->
+<!-- Section 6 -->
+
+<section class="page-section" id="section_6">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">
+          Not prediction, but screening:<br> Is a language "worth entering MSAR"?
+
+        </h2>
+        <h3 class="section-subheading text-muted">
+          
+        </h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        <div class="large text-muted">
+          <p>Before truly integrating speech into MSAR, he adopted a very restrained strategy:</p>
+
+<blockquote>
+  <p><strong>Pre-integrate it into the model, perform screening first.</strong></p>
+</blockquote>
+
+<p>Through correlation analysis, he simply wanted to answer a more fundamental question:</p>
+
+<ul>
+  <li>
+    <p>Which changes in speech features</p>
+  </li>
+  <li>
+    <p>are statistically <strong>truly related to future market behavior</strong>?</p>
+  </li>
+</ul>
+
+<p>The results were not dramatic—language cannot consistently predict returns, but in certain windows and certain features, it does <strong>carry information related to regime transitions</strong>.</p>
+
+<p>That was enough.</p>
+
+<p>Because in this project, CEO speech was never a “substitute price”, but rather a <strong>factor that helps MSAR better form regime beliefs</strong>.</p>
+
+<p>However, Bob didn’t stop at the averages.</p>
+
+<p>He noticed that while the general noise was high, <strong>specific signals began to crystalize over longer horizons</strong>.</p>
+
+<p>For certain tech-heavy ETFs, the correlation between ‘Uncertainty shifts’ and ‘20-day returns’ showed surprising resilience. It suggested that CEO sentiment isn’t a trigger for tomorrow’s price, but a slow-burning ‘soft prior’ that shapes the market’s trend over the following month.
+<img src="assets/img/about/ceo_signal_error_comparison.png" class="about-img" /></p>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- End Section 6 -->
+<!-- Section 7 -->
+
+<section class="page-section" id="section_7">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">
+          Returning to the starting point:<br> When language becomes a factor in MSAR
+
+        </h2>
+        <h3 class="section-subheading text-muted">
+          
+        </h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        <div class="large text-muted">
+          <p>Ultimately, the project returned to its initial question:</p>
+
+<p><strong>Why do markets change state at certain times?</strong></p>
+
+<p>MSAR provided the structure, and the CEO’s speech provided the context.</p>
+
+<p>Prices tell the model “what happened”, and language helps the model understand “how people are perceiving the future”.</p>
+
+<p>For this data scientist, this was not just a model improvement problem,</p>
+
+<p>but also a shift in perspective:</p>
+
+<blockquote>
+  <p><strong>The market is not a purely numerical system; it is always composed of people.</strong></p>
+</blockquote>
+
+<p>And language is precisely the trace left by these people’s expectations.</p>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- End Section 7 -->
+<!-- Section 8 -->
+
+<section class="page-section" id="section_8">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">
+          Appendix:<br> Why MSAR? A Benchmark Against LSTM
+
+        </h2>
+        <h3 class="section-subheading text-muted">
+          
+        </h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        <div class="large text-muted">
+          <p>At the conclusion of the project, Bob did not overlook the power of deep learning. To validate the unique value of MSAR, he introduced the <strong>Long Short-Term Memory (LSTM)</strong> network as a benchmark model for comparison.</p>
+
+<p>While LSTM is renowned for its formidable non-linear capture capabilities, Bob discovered significant differences and complementarities between the two when tackling the challenge of “CEO speech impacting markets”:</p>
+
+<p><img src="assets/img/about/stock_error_comparison.png" class="about-img" /></p>
+
+<ul>
+  <li>
+    <p><strong>Black Box vs. Structured Intuition</strong>:
+  LSTM excels at “point prediction,” providing precise numerical forecasts for the next day, but it remains a <strong>black box</strong>. It cannot tell Bob <em>why</em> the market might be shifting. In contrast, <strong>MSAR</strong>, through <strong>Regime Switching</strong>, clearly delineates the logical jumps between market “stability” and “turbulence.”</p>
+  </li>
+  <li><strong>Adaptive Strategy: Motion vs. Stillness</strong>:
+  Bob realized that no single model rules all scenarios.
+    <ul>
+      <li><strong>In High Volatility Environments</strong>: <strong>LSTM</strong> outperforms. Its gating mechanism quickly captures sharp non-linear momentum, providing more robust numerical predictions during extreme market upheavals.</li>
+      <li><strong>In Low Volatility Environments</strong>: <strong>MSAR</strong> holds the edge. When price signals are faint, MSAR integrates <strong>CEO Speech Shifts (ΔSpeech)</strong> to more keenly identify hidden state evolutions and anticipate “undercurrents” beneath a calm surface.</li>
+    </ul>
+  </li>
+  <li><strong>Signal Digestion</strong>:
+  In LSTM, speech features are merely one dimension in a high-dimensional vector. In MSAR, these features directly drive <strong>Transition Probabilities</strong>, transforming language signals from simple features into “catalysts” for understanding market turning points.</li>
+</ul>
+
+<blockquote>
+  <p><strong>Conclusion: Follow LSTM’s sensitivity during high volatility, and listen to MSAR’s logic during low volatility.</strong></p>
+</blockquote>
+
+<p>Through this comparison, Bob became more convinced that combining the predictive tension of AI with the interpretability of financial econometrics is the ultimate weapon for seeing through the market.</p>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- End Section 8 -->
+<!-- Portfolio Grid -->
+
+<section class="bg-light page-section" id="portfolio">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase"><p>Bob’s Lab Notes</p>
+</h2>
+        <h3 class="section-subheading text-muted"><p>Behind the data, there’s always a thought process.</p>
+</h3>
+      </div>
+    </div>
+    <div class="row">
+	
+      <div class="col-md-4 col-sm-6 portfolio-item">
+        <a class="portfolio-link" data-toggle="modal" href="#p1">
+          <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+              <i class="fas fa-plus fa-3x"></i>
+            </div>
+          </div>
+          <img class="img-fluid" src="https://place-hold.it/400x300" alt="">
+        </a>
+        <div class="portfolio-caption">
+          <h4>The Market Map</h4>
+          <p class="text-muted">Regime Detection with MSAR</p>
+        </div>
+      </div>
+	
+      <div class="col-md-4 col-sm-6 portfolio-item">
+        <a class="portfolio-link" data-toggle="modal" href="#p2">
+          <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+              <i class="fas fa-plus fa-3x"></i>
+            </div>
+          </div>
+          <img class="img-fluid" src="https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/srcassets/img/portfolio/01-thumbnail.jpg" alt="">
+        </a>
+        <div class="portfolio-caption">
+          <h4>The Speech Lab</h4>
+          <p class="text-muted">Quantifying Executive Tone</p>
+        </div>
+      </div>
+	
+      <div class="col-md-4 col-sm-6 portfolio-item">
+        <a class="portfolio-link" data-toggle="modal" href="#p3">
+          <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+              <i class="fas fa-plus fa-3x"></i>
+            </div>
+          </div>
+          <img class="img-fluid" src="https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/srcassets/img/portfolio/02-thumbnail.jpg" alt="">
+        </a>
+        <div class="portfolio-caption">
+          <h4>The Reality Check</h4>
+          <p class="text-muted">Statistical Truths & Verdicts</p>
+        </div>
+      </div>
+	
+    </div>
+  </div>
+</section>
+
+<!-- Portfolio Modals -->
+
+
+<div
+  class="portfolio-modal modal fade"
+  id="p1"
+  tabindex="-1"
+  role="dialog"
+  aria-hidden="true"
+>
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="close-modal" data-dismiss="modal">
+        <div class="lr">
+          <div class="rl"></div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <div class="modal-body">
+              <!-- Project Details Go Here -->
+              <h2 class="text-uppercase">Regime Detection with MSAR</h2>
+              <p class="item-intro text-muted">Before listening to what CEOs were saying, I needed to understand the 'texture' of the market itself. I needed a tool that could objectively tell me if the market was in a stable growth phase or a turbulent correction.</p>
+              <img
+                class="img-fluid d-block mx-auto"
+                src=""
+                alt=""
+              />
+              <p><ul>
+  <li><strong>The Technical Core:</strong> We utilized an MSAR model to acknowledge that markets possess hidden “regimes” with distinct statistical behaviors.</li>
+  <li><strong>Regime Identification:</strong> By processing sectoral and ETF data, the model automatically identifies Bull and Bear states without human bias.</li>
+  <li><strong>Verdict:</strong> The MSAR engine successfully decoded chaos into a structured timeline of states.</li>
+</ul>
+
+</p>
+              <button
+                class="btn btn-primary"
+                data-dismiss="modal"
+                type="button"
+              >
+                <i class="fas fa-times"></i>
+                Close
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div
+  class="portfolio-modal modal fade"
+  id="p2"
+  tabindex="-1"
+  role="dialog"
+  aria-hidden="true"
+>
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="close-modal" data-dismiss="modal">
+        <div class="lr">
+          <div class="rl"></div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <div class="modal-body">
+              <!-- Project Details Go Here -->
+              <h2 class="text-uppercase">Quantifying Executive Tone</h2>
+              <p class="item-intro text-muted">Numbers tell you what happened, but language tells you how people feel about the future. My challenge was to turn thousands of hours of CEO earnings calls into a clean, mathematical signal.</p>
+              <img
+                class="img-fluid d-block mx-auto"
+                src=""
+                alt=""
+              />
+              <p><ul>
+  <li><strong>Linguistic Features:</strong> We extracted metrics like <strong>Uncertainty, Optimism, and Hedging</strong> using NLP.</li>
+  <li><strong>The ΔX Strategy:</strong> We calculated the shift in tone relative to each CEO’s history. We care about <em>change</em>, not absolute levels.</li>
+  <li><strong>Verdict:</strong> We transformed “corporate speak” into a standardized factor library ready for testing.</li>
+</ul>
+</p>
+              <button
+                class="btn btn-primary"
+                data-dismiss="modal"
+                type="button"
+              >
+                <i class="fas fa-times"></i>
+                Close
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div
+  class="portfolio-modal modal fade"
+  id="p3"
+  tabindex="-1"
+  role="dialog"
+  aria-hidden="true"
+>
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="close-modal" data-dismiss="modal">
+        <div class="lr">
+          <div class="rl"></div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <div class="modal-body">
+              <!-- Project Details Go Here -->
+              <h2 class="text-uppercase">Statistical Truths & Verdicts</h2>
+              <p class="item-intro text-muted">Beyond the numbers, which model truly 'understands' the market's pulse? I compared AI's raw power with econometric logic to find the adaptive truth.</p>
+              <img
+                class="img-fluid d-block mx-auto"
+                src=""
+                alt=""
+              />
+              <p><ul>
+  <li><strong>Signal-to-Noise:</strong> CEO speech is highly “lawyer-proofed”—consistently cautious. This makes direct return prediction extremely difficult.</li>
+  <li><strong>Reframing the Factor:</strong> Linguistic shifts are not “price predictors” but <strong>“Belief Shapers”</strong> that inform how the market infers a change in regime.</li>
+  <li><strong>Adaptive Strategy:</strong> - <strong>In High Volatility</strong>: We lean on <strong>LSTM</strong> to capture non-linear momentum and provide robust numerical tracking during market upheavals.
+    <ul>
+      <li><strong>In Low Volatility</strong>: We favor <strong>MSAR</strong> to integrate <strong>ΔSpeech shifts</strong>, deciphering the structural transitions that pure price models miss.</li>
+    </ul>
+  </li>
+  <li><strong>Verdict:</strong> Speech acts as a vital <strong>Soft Prior</strong>—it tells the MSAR “why” a state might change, while LSTM handles the “how fast” during the storm.
+<img src="assets/img/about/decision.png" class="about-img" /></li>
+</ul>
+</p>
+              <button
+                class="btn btn-primary"
+                data-dismiss="modal"
+                type="button"
+              >
+                <i class="fas fa-times"></i>
+                Close
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- End Portfolio Modals -->
+
+
+<!-- Team -->
+
+<section class="page-section" id="team">
+<div class="container">
+  <div class="row">
+	<div class="col-lg-12 text-center">
+	  <h2 class="section-heading text-uppercase">TEAM AlwaysDominatingAcademics</h2>
+	  <h3 class="section-subheading text-muted"></h3>
+	</div>
+  </div>
+  <div class="row d-flex justify-content-center">
+  
+	<div class="col-sm-4">
+	  <div class="team-member">
+		<img class="mx-auto rounded-circle team-avatar"
+     		src="assets/img/team/yuekai.png" alt="">
+		<h4>Yuekai Yan</h4>
+		<p class="text-muted">Applied Mathematics</p>
+		<ul class="list-inline social-buttons">
+		
+		</ul>
+	  </div>
+	</div>
+  
+	<div class="col-sm-4">
+	  <div class="team-member">
+		<img class="mx-auto rounded-circle team-avatar"
+     		src="assets/img/team/di.png" alt="">
+		<h4>Di Xiao</h4>
+		<p class="text-muted">Robotics</p>
+		<ul class="list-inline social-buttons">
+		
+		</ul>
+	  </div>
+	</div>
+  
+	<div class="col-sm-4">
+	  <div class="team-member">
+		<img class="mx-auto rounded-circle team-avatar"
+     		src="assets/img/team/haowei.png" alt="">
+		<h4>Haowei Zhang</h4>
+		<p class="text-muted">Mechanical Engineering</p>
+		<ul class="list-inline social-buttons">
+		
+		</ul>
+	  </div>
+	</div>
+  
+	<div class="col-sm-4">
+	  <div class="team-member">
+		<img class="mx-auto rounded-circle team-avatar"
+     		src="assets/img/team/luyao.png" alt="">
+		<h4>Luyao Tang</h4>
+		<p class="text-muted">Environmental Sciences and Engineering</p>
+		<ul class="list-inline social-buttons">
+		
+		</ul>
+	  </div>
+	</div>
+  
+	<div class="col-sm-4">
+	  <div class="team-member">
+		<img class="mx-auto rounded-circle team-avatar"
+     		src="assets/img/team/Thibaut.png" alt="">
+		<h4>Thibaut Peiffer</h4>
+		<p class="text-muted">Data Science</p>
+		<ul class="list-inline social-buttons">
+		
+		</ul>
+	  </div>
+	</div>
+  
+  </div>
+  <div class="row">
+	<div class="col-lg-8 mx-auto text-center">
+	  <div class="large text-muted">
+</div>
+	</div>
+  </div>
+</div>
+</section>
+
+<!-- End Team -->
+
+<!-- Clients -->
+
+  <section class="py-5" id="clients">
+    <div class="container">
+      <div class="row" >
+	    
+      </div>
+    </div>
+  </section>
+
+
+
+	  <!-- Footer -->
+<footer class="footer" id="footer" style="background-color: white">
+  <div class="container">
+    
+    <div class="row align-items-center">
+      <div class="col-md-4">
+        <span class="copyright"
+          >Copyright &copy; AlwaysDominatingAcademics 2025</span
+        >
+      </div>
+      <!-- Social Media -->
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          
+          <li class="list-inline-item">
+            
+            <a href="https://github.com/epfl-ada/ada-2025-project-alwaysdominatingacademics" class="social-link">
+              <i class="fab fa-github"></i>
+              
+                <span class="social-text">GitHub</span>
+              
+            </a>
+            
+          </li>
+          
+        </ul>
+      </div>
+      <!-- Legal -->
+      <div class="col-md-4">
+        <ul class="list-inline quicklinks">
+          <li class="list-inline-item">
+            <a href="legal"
+              >Privacy Policy</a
+            >
+          </li>
+        </ul>
+      </div>
+    </div>
+    
+  </div>
+</footer>
+
+<!-- End Footer -->
+
+
+	  <!-- Bootstrap core JavaScript -->
+	  <script src="assets/js/jquery.min.js"></script>
+	  <script src="assets/js/bootstrap.bundle.min.js"></script>
+
+	  <!-- Plugin JavaScript -->
+	  <script src="assets/js/jquery.easing.min.js"></script>
+
+	  <!-- Contact form JavaScript -->
+	  <script src="assets/js/jqBootstrapValidation.js"></script>
+	  <script src="assets/js/contact_me.js"></script>
+
+	  <!-- Custom scripts for this template -->
+	  <script src="assets/js/agency.min.js"></script>
+
+  </body>
+</html>

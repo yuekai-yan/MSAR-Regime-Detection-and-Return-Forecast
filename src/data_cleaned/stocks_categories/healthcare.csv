@@ -1,0 +1,597 @@
+Nasdaq Traded,Symbol,Security Name,Listing Exchange,Market Category,ETF,Round Lot Size,Test Issue,Financial Status,CQS Symbol,NASDAQ Symbol,NextShares,Industry,Source
+Y,A,"Agilent Technologies, Inc. Common Stock",N, ,N,100.0,N,,A,A,N,Healthcare,Yahoo Finance
+Y,ABBV,AbbVie Inc. Common Stock,N, ,N,100.0,N,,ABBV,ABBV,N,Healthcare,Yahoo Finance
+Y,ABEO,Abeona Therapeutics Inc. - Common Stock,Q,S,N,100.0,N,N,,ABEO,N,Healthcare,Yahoo Finance
+Y,ABT,Abbott Laboratories Common Stock,N, ,N,100.0,N,,ABT,ABT,N,Healthcare,Yahoo Finance
+Y,ABUS,Arbutus Biopharma Corporation - Common Stock,Q,Q,N,100.0,N,N,,ABUS,N,Healthcare,Yahoo Finance
+Y,ACAD,ACADIA Pharmaceuticals Inc. - Common Stock,Q,Q,N,100.0,N,N,,ACAD,N,Healthcare,Yahoo Finance
+Y,ACB,Aurora Cannabis Inc. Common Shares,N, ,N,100.0,N,,ACB,ACB,N,Healthcare,Yahoo Finance
+Y,ACHC,"Acadia Healthcare Company, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ACHC,N,Healthcare,Yahoo Finance
+Y,ACHV,"Achieve Life Sciences, Inc.  - Common Shares",Q,S,N,100.0,N,D,,ACHV,N,Healthcare,Yahoo Finance
+Y,ACIU,AC Immune SA - Common Stock,Q,G,N,100.0,N,N,,ACIU,N,Healthcare,Yahoo Finance
+Y,ACRS,"Aclaris Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ACRS,N,Healthcare,Yahoo Finance
+Y,ADAP,Adaptimmune Therapeutics plc - American Depositary Shares,Q,Q,N,100.0,N,N,,ADAP,N,Healthcare,Yahoo Finance
+Y,ADIL,"Adial Pharmaceuticals, Inc - Common Stock",Q,S,N,100.0,N,N,,ADIL,N,Healthcare,Yahoo Finance
+Y,ADMA,ADMA Biologics Inc - Common Stock,Q,G,N,100.0,N,N,,ADMA,N,Healthcare,Yahoo Finance
+Y,ADPT,Adaptive Biotechnologies Corporation - Common Stock,Q,Q,N,100.0,N,N,,ADPT,N,Healthcare,Yahoo Finance
+Y,ADUS,Addus HomeCare Corporation - Common Stock,Q,Q,N,100.0,N,E,,ADUS,N,Healthcare,Yahoo Finance
+Y,ADVM,"Adverum Biotechnologies, Inc. - Common Stock",Q,G,N,100.0,N,N,,ADVM,N,Healthcare,Yahoo Finance
+Y,ADXN,Addex Therapeutics Ltd - American Depositary Shares,Q,S,N,100.0,N,N,,ADXN,N,Healthcare,Yahoo Finance
+Y,ADXS,"Advaxis, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ADXS,N,Healthcare,Yahoo Finance
+Y,AEMD,"Aethlon Medical, Inc. - Common Stock",Q,S,N,100.0,N,N,,AEMD,N,Healthcare,Yahoo Finance
+Y,AGEN,Agenus Inc. - Common Stock,Q,S,N,100.0,N,N,,AGEN,N,Healthcare,Yahoo Finance
+Y,AGIO,"Agios Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AGIO,N,Healthcare,Yahoo Finance
+Y,AHCO,AdaptHealth Corp.  - Class A Common Stock,Q,S,N,100.0,N,N,,AHCO,N,Healthcare,Yahoo Finance
+Y,AIM,AIM ImmunoTech Inc. Common Stock,A, ,N,100.0,N,,AIM,AIM,N,Healthcare,Yahoo Finance
+Y,AKBA,"Akebia Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,AKBA,N,Healthcare,Yahoo Finance
+Y,AKRO,"Akero Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AKRO,N,Healthcare,Yahoo Finance
+Y,AKTX,Akari Therapeutics Plc - American Depositary Shares,Q,S,N,100.0,N,N,,AKTX,N,Healthcare,Yahoo Finance
+Y,ALC,Alcon Inc. Ordinary Shares,N, ,N,100.0,N,,ALC,ALC,N,Healthcare,Yahoo Finance
+Y,ALDX,"Aldeyra Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,N,,ALDX,N,Healthcare,Yahoo Finance
+Y,ALEC,"Alector, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ALEC,N,Healthcare,Yahoo Finance
+Y,ALGN,"Align Technology, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ALGN,N,Healthcare,Yahoo Finance
+Y,ALKS,Alkermes plc - Ordinary Shares,Q,Q,N,100.0,N,N,,ALKS,N,Healthcare,Yahoo Finance
+Y,ALLO,"Allogene Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ALLO,N,Healthcare,Yahoo Finance
+Y,ALNY,"Alnylam Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ALNY,N,Healthcare,Yahoo Finance
+Y,ALT,"Altimmune, Inc. - Common Stock",Q,G,N,100.0,N,N,,ALT,N,Healthcare,Yahoo Finance
+Y,AMGN,Amgen Inc. - Common Stock,Q,Q,N,100.0,N,N,,AMGN,N,Healthcare,Yahoo Finance
+Y,AMN,AMN Healthcare Services Inc AMN Healthcare Services Inc,N, ,N,100.0,N,,AMN,AMN,N,Healthcare,Yahoo Finance
+Y,AMPE,"Ampio Pharmaceuticals, Inc.",A, ,N,100.0,N,,AMPE,AMPE,N,Healthcare,Yahoo Finance
+Y,AMPH,"Amphastar Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AMPH,N,Healthcare,Yahoo Finance
+Y,AMRN,"Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share",Q,G,N,100.0,N,N,,AMRN,N,Healthcare,Yahoo Finance
+Y,AMRX,"Amneal Pharmaceuticals, Inc. Class A Common Stock",N, ,N,100.0,N,,AMRX,AMRX,N,Healthcare,Yahoo Finance
+Y,AMS,American Shared Hospital Services Common Stock,A, ,N,100.0,N,,AMS,AMS,N,Healthcare,Yahoo Finance
+Y,ANAB,"AnaptysBio, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ANAB,N,Healthcare,Yahoo Finance
+Y,ANGO,"AngioDynamics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ANGO,N,Healthcare,Yahoo Finance
+Y,ANIK,Anika Therapeutics Inc. - Common Stock,Q,Q,N,100.0,N,N,,ANIK,N,Healthcare,Yahoo Finance
+Y,ANIP,"ANI Pharmaceuticals, Inc. - Common Stock",Q,G,N,100.0,N,N,,ANIP,N,Healthcare,Yahoo Finance
+Y,ANIX,"Anixa Biosciences, Inc. - Common Stock",Q,S,N,100.0,N,N,,ANIX,N,Healthcare,Yahoo Finance
+Y,ANVS,"Annovis Bio, Inc. Common Stock",A, ,N,100.0,N,,ANVS,ANVS,N,Healthcare,Yahoo Finance
+Y,APDN,"Applied DNA Sciences, Inc. - Common Stock",Q,S,N,100.0,N,N,,APDN,N,Healthcare,Yahoo Finance
+Y,APLS,"Apellis Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,APLS,N,Healthcare,Yahoo Finance
+Y,APLT,"Applied Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,APLT,N,Healthcare,Yahoo Finance
+Y,APM,Aptorum Group Limited - Class A Ordinary Shares,Q,G,N,100.0,N,N,,APM,N,Healthcare,Yahoo Finance
+Y,APRE,"Aprea Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,APRE,N,Healthcare,Yahoo Finance
+Y,APVO,Aptevo Therapeutics Inc. - Common Stock,Q,S,N,100.0,N,D,,APVO,N,Healthcare,Yahoo Finance
+Y,APYX,Apyx Medical Corporation - Common Stock,Q,Q,N,100.0,N,N,,APYX,N,Healthcare,Yahoo Finance
+Y,AQST,"Aquestive Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,AQST,N,Healthcare,Yahoo Finance
+Y,ARAY,Accuray Incorporated - Common Stock,Q,Q,N,100.0,N,N,,ARAY,N,Healthcare,Yahoo Finance
+Y,ARCT,Arcturus Therapeutics Holdings Inc. - Common Stock,Q,G,N,100.0,N,N,,ARCT,N,Healthcare,Yahoo Finance
+Y,ARDS,Aridis Pharmaceuticals Inc. - Common Stock,Q,S,N,100.0,N,N,,ARDS,N,Healthcare,Yahoo Finance
+Y,ARDX,"Ardelyx, Inc. - Common Stock",Q,G,N,100.0,N,N,,ARDX,N,Healthcare,Yahoo Finance
+Y,ARGX,argenx SE - American Depositary Shares,Q,Q,N,100.0,N,N,,ARGX,N,Healthcare,Yahoo Finance
+Y,ARMP,"Armata Pharmaceuticals, Inc. Common Stock",A, ,N,100.0,N,,ARMP,ARMP,N,Healthcare,Yahoo Finance
+Y,ARQT,"Arcutis Biotherapeutics, Inc. - Common stock",Q,Q,N,100.0,N,N,,ARQT,N,Healthcare,Yahoo Finance
+Y,ARTL,"Artelo Biosciences, Inc. - Common Stock",Q,S,N,100.0,N,N,,ARTL,N,Healthcare,Yahoo Finance
+Y,ARVN,"Arvinas, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ARVN,N,Healthcare,Yahoo Finance
+Y,ARWR,"Arrowhead Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ARWR,N,Healthcare,Yahoo Finance
+Y,ASMB,"Assembly Biosciences, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ASMB,N,Healthcare,Yahoo Finance
+Y,ASND,Ascendis Pharma A/S - American Depositary Shares,Q,Q,N,100.0,N,N,,ASND,N,Healthcare,Yahoo Finance
+Y,ASRT,"Assertio Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ASRT,N,Healthcare,Yahoo Finance
+Y,ATEC,"Alphatec Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ATEC,N,Healthcare,Yahoo Finance
+Y,ATHE,Alterity Therapeutics Limited - American Depositary Shares,Q,S,N,100.0,N,D,,ATHE,N,Healthcare,Yahoo Finance
+Y,ATNM,"Actinium Pharmaceuticals, Inc. (Delaware) Common Stock",A, ,N,100.0,N,,ATNM,ATNM,N,Healthcare,Yahoo Finance
+Y,ATOS,"Atossa Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,N,,ATOS,N,Healthcare,Yahoo Finance
+Y,ATR,"AptarGroup, Inc. Common Stock",N, ,N,100.0,N,,ATR,ATR,N,Healthcare,Yahoo Finance
+Y,ATRA,"Atara Biotherapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ATRA,N,Healthcare,Yahoo Finance
+Y,ATRC,"AtriCure, Inc. - Common Stock",Q,G,N,100.0,N,N,,ATRC,N,Healthcare,Yahoo Finance
+Y,ATXI,"Avenue Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,N,,ATXI,N,Healthcare,Yahoo Finance
+Y,AUPH,Aurinia Pharmaceuticals Inc - Common Shares,Q,G,N,100.0,N,N,,AUPH,N,Healthcare,Yahoo Finance
+Y,AUTL,Autolus Therapeutics plc - American Depositary Shares,Q,Q,N,100.0,N,N,,AUTL,N,Healthcare,Yahoo Finance
+Y,AVDL,Avadel Pharmaceuticals plc - American Depositary Shares each representing one Ordinary Share,Q,G,N,100.0,N,N,,AVDL,N,Healthcare,Yahoo Finance
+Y,AVNS,"Avanos Medical, Inc. Common Stock",N, ,N,100.0,N,,AVNS,AVNS,N,Healthcare,Yahoo Finance
+Y,AVTR,"Avantor, Inc. Common Stock",N, ,N,100.0,N,,AVTR,AVTR,N,Healthcare,Yahoo Finance
+Y,AVXL,Anavex Life Sciences Corp. - Common Stock,Q,S,N,100.0,N,N,,AVXL,N,Healthcare,Yahoo Finance
+Y,AXGN,"Axogen, Inc. - Common Stock",Q,S,N,100.0,N,N,,AXGN,N,Healthcare,Yahoo Finance
+Y,AXSM,"Axsome Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,AXSM,N,Healthcare,Yahoo Finance
+Y,AYTU,"Aytu BioScience, Inc. - Common Stock",Q,S,N,100.0,N,N,,AYTU,N,Healthcare,Yahoo Finance
+Y,AZN,Astrazeneca PLC Common Stock,N, ,N,100.0,N,,AZN,AZN,N,Healthcare,Yahoo Finance
+Y,BAX,Baxter International Inc. Common Stock,N, ,N,100.0,N,,BAX,BAX,N,Healthcare,Yahoo Finance
+Y,BBIO,"BridgeBio Pharma, Inc. - Common Stock",Q,Q,N,100.0,N,N,,BBIO,N,Healthcare,Yahoo Finance
+Y,BCDA,"BioCardia, Inc. - Common Stock",Q,S,N,100.0,N,N,,BCDA,N,Healthcare,Yahoo Finance
+Y,BCLI,Brainstorm Cell Therapeutics Inc. - Common Stock,Q,S,N,100.0,N,N,,BCLI,N,Healthcare,Yahoo Finance
+Y,BCRX,"BioCryst Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,BCRX,N,Healthcare,Yahoo Finance
+Y,BCYC,Bicycle Therapeutics plc - American Depositary Shares,Q,Q,N,100.0,N,N,,BCYC,N,Healthcare,Yahoo Finance
+Y,BDTX,"Black Diamond Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,BDTX,N,Healthcare,Yahoo Finance
+Y,BDX,"Becton, Dickinson and Company Common Stock",N, ,N,100.0,N,,BDX,BDX,N,Healthcare,Yahoo Finance
+Y,BEAM,Beam Therapeutics Inc. - Common Stock,Q,Q,N,100.0,N,N,,BEAM,N,Healthcare,Yahoo Finance
+Y,BEAT,"BioTelemetry, Inc. - Common Stock",Q,Q,N,100.0,N,N,,BEAT,N,Healthcare,Yahoo Finance
+Y,BHC,Bausch Health Companies Inc. Common Stock,N, ,N,100.0,N,,BHC,BHC,N,Healthcare,Yahoo Finance
+Y,BHVN,Biohaven Pharmaceutical Holding Company Ltd. Common Shares,N, ,N,100.0,N,,BHVN,BHVN,N,Healthcare,Yahoo Finance
+Y,BIIB,Biogen Inc. - Common Stock,Q,Q,N,100.0,N,N,,BIIB,N,Healthcare,Yahoo Finance
+Y,BIMI,BOQI International Medical Inc. - Common Stock,Q,S,N,100.0,N,N,,BIMI,N,Healthcare,Yahoo Finance
+Y,BIO,"Bio-Rad Laboratories, Inc. Class A Common Stock",N, ,N,100.0,N,,BIO,BIO,N,Healthcare,Yahoo Finance
+Y,BKD,Brookdale Senior Living Inc. Common Stock,N, ,N,100.0,N,,BKD,BKD,N,Healthcare,Yahoo Finance
+Y,BLFS,"BioLife Solutions, Inc. - Common Stock",Q,S,N,100.0,N,N,,BLFS,N,Healthcare,Yahoo Finance
+Y,BLRX,BioLineRx Ltd. - American Depositary Shares,Q,S,N,100.0,N,N,,BLRX,N,Healthcare,Yahoo Finance
+Y,BMRA,"Biomerica, Inc. - Common Stock",Q,S,N,100.0,N,N,,BMRA,N,Healthcare,Yahoo Finance
+Y,BMRN,BioMarin Pharmaceutical Inc. - Common Stock,Q,Q,N,100.0,N,N,,BMRN,N,Healthcare,Yahoo Finance
+Y,BMY,Bristol-Myers Squibb Company Common Stock,N, ,N,100.0,N,,BMY,BMY,N,Healthcare,Yahoo Finance
+Y,BNGO,"Bionano Genomics, Inc. - Common Stock",Q,S,N,100.0,N,N,,BNGO,N,Healthcare,Yahoo Finance
+Y,BNTC,Benitec Biopharma Limited - American Depositary Shares,Q,S,N,100.0,N,N,,BNTC,N,Healthcare,Yahoo Finance
+Y,BNTX,BioNTech SE - American Depositary Shares,Q,Q,N,100.0,N,N,,BNTX,N,Healthcare,Yahoo Finance
+Y,BPTH,"Bio-Path Holdings, Inc. - Common Stock",Q,S,N,100.0,N,N,,BPTH,N,Healthcare,Yahoo Finance
+Y,BRKR,Bruker Corporation - Common Stock,Q,Q,N,100.0,N,N,,BRKR,N,Healthcare,Yahoo Finance
+Y,BSGM,"BioSig Technologies, Inc. - Common Stock",Q,S,N,100.0,N,N,,BSGM,N,Healthcare,Yahoo Finance
+Y,BSX,Boston Scientific Corporation Common Stock,N, ,N,100.0,N,,BSX,BSX,N,Healthcare,Yahoo Finance
+Y,BTAI,"BioXcel Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,N,,BTAI,N,Healthcare,Yahoo Finance
+Y,BWAY,Brainsway Ltd. - American Depositary Shares,Q,G,N,100.0,N,N,,BWAY,N,Healthcare,Yahoo Finance
+Y,BYSI,"BeyondSpring, Inc. - Ordinary Shares",Q,S,N,100.0,N,N,,BYSI,N,Healthcare,Yahoo Finance
+Y,CABA,"Cabaletta Bio, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CABA,N,Healthcare,Yahoo Finance
+Y,CAH,"Cardinal Health, Inc. Common Stock",N, ,N,100.0,N,,CAH,CAH,N,Healthcare,Yahoo Finance
+Y,CAI,"CAI International, Inc. Common Stock",N, ,N,100.0,N,,CAI,CAI,N,Healthcare,Yahoo Finance
+Y,CAMP,CalAmp Corp. - Common Stock,Q,Q,N,100.0,N,N,,CAMP,N,Healthcare,Yahoo Finance
+Y,CANF,Can-Fite Biopharma Ltd Sponsored ADR (Israel),A, ,N,100.0,N,,CANF,CANF,N,Healthcare,Yahoo Finance
+Y,CAPR,"Capricor Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,N,,CAPR,N,Healthcare,Yahoo Finance
+Y,CASI,"CASI Pharmaceuticals, Inc. - Common Stock",Q,S,N,100.0,N,N,,CASI,N,Healthcare,Yahoo Finance
+Y,CBIO,"Catalyst Biosciences, Inc.  - Common Stock",Q,S,N,100.0,N,N,,CBIO,N,Healthcare,Yahoo Finance
+Y,CCM,Concord Medical Services Holdings Limited ADS (Each represents three ordinary shares),N, ,N,100.0,N,,CCM,CCM,N,Healthcare,Yahoo Finance
+Y,CCRN,"Cross Country Healthcare, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CCRN,N,Healthcare,Yahoo Finance
+Y,CDNA,"CareDx, Inc. - Common Stock",Q,G,N,100.0,N,N,,CDNA,N,Healthcare,Yahoo Finance
+Y,CDTX,"Cidara Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,CDTX,N,Healthcare,Yahoo Finance
+Y,CDXS,"Codexis, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CDXS,N,Healthcare,Yahoo Finance
+Y,CELC,Celcuity Inc. - Common Stock,Q,S,N,100.0,N,N,,CELC,N,Healthcare,Yahoo Finance
+Y,CERS,Cerus Corporation - Common Stock,Q,G,N,100.0,N,N,,CERS,N,Healthcare,Yahoo Finance
+Y,CGC,Canopy Growth Corporation Common Stock,N, ,N,100.0,N,,CGC,CGC,N,Healthcare,Yahoo Finance
+Y,CGEN,Compugen Ltd. - Ordinary Shares,Q,G,N,100.0,N,N,,CGEN,N,Healthcare,Yahoo Finance
+Y,CHE,Chemed Corp,N, ,N,100.0,N,,CHE,CHE,N,Healthcare,Yahoo Finance
+Y,CHEK,Check-Cap Ltd. - Ordinary Share,Q,S,N,100.0,N,N,,CHEK,N,Healthcare,Yahoo Finance
+Y,CHRS,"Coherus BioSciences, Inc. - Common Stock",Q,G,N,100.0,N,N,,CHRS,N,Healthcare,Yahoo Finance
+Y,CI,Cigna Corporation Common Stock,N, ,N,100.0,N,,CI,CI,N,Healthcare,Yahoo Finance
+Y,CLDX,"Celldex Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,N,,CLDX,N,Healthcare,Yahoo Finance
+Y,CLGN,CollPlant Biotechnologies Ltd. - American Depositary Shares,Q,S,N,100.0,N,N,,CLGN,N,Healthcare,Yahoo Finance
+Y,CLLS,Cellectis S.A. - American Depositary Shares,Q,G,N,100.0,N,N,,CLLS,N,Healthcare,Yahoo Finance
+Y,CLPT,ClearPoint Neuro Inc. - Common Stock,Q,S,N,100.0,N,N,,CLPT,N,Healthcare,Yahoo Finance
+Y,CLRB,"Cellectar Biosciences, Inc. - Common Stock",Q,S,N,100.0,N,N,,CLRB,N,Healthcare,Yahoo Finance
+Y,CLSD,"Clearside Biomedical, Inc. - Common Stock",Q,G,N,100.0,N,N,,CLSD,N,Healthcare,Yahoo Finance
+Y,CNC,Centene Corporation Common Stock,N, ,N,100.0,N,,CNC,CNC,N,Healthcare,Yahoo Finance
+Y,CNMD,CONMED Corporation Common Stock,N, ,N,100.0,N,,CNMD,CNMD,N,Healthcare,Yahoo Finance
+Y,CNSP,"CNS Pharmaceuticals, Inc. - Common Stock",Q,S,N,100.0,N,N,,CNSP,N,Healthcare,Yahoo Finance
+Y,COCP,"Cocrystal Pharma, Inc. - Common Stock",Q,S,N,100.0,N,N,,COCP,N,Healthcare,Yahoo Finance
+Y,CODX,"Co-Diagnostics, Inc. - Common Stock",Q,S,N,100.0,N,N,,CODX,N,Healthcare,Yahoo Finance
+Y,COLL,"Collegium Pharmaceutical, Inc. - Common Stock",Q,Q,N,100.0,N,N,,COLL,N,Healthcare,Yahoo Finance
+Y,COO,"The Cooper Companies, Inc. Common Stock",N, ,N,100.0,N,,COO,COO,N,Healthcare,Yahoo Finance
+Y,COR,CoreSite Realty Corporation Common Stock,N, ,N,100.0,N,,COR,COR,N,Healthcare,Yahoo Finance
+Y,CORT,Corcept Therapeutics Incorporated - Common Stock,Q,S,N,100.0,N,N,,CORT,N,Healthcare,Yahoo Finance
+Y,CPHI,"China Pharma Holdings, Inc. Common Stock",A, ,N,100.0,N,,CPHI,CPHI,N,Healthcare,Yahoo Finance
+Y,CPIX,Cumberland Pharmaceuticals Inc. - Common Stock,Q,Q,N,100.0,N,N,,CPIX,N,Healthcare,Yahoo Finance
+Y,CPRX,"Catalyst Pharmaceuticals, Inc. - Common Stock",Q,S,N,100.0,N,N,,CPRX,N,Healthcare,Yahoo Finance
+Y,CRBP,"Corbus Pharmaceuticals Holdings, Inc. - Common Stock",Q,G,N,100.0,N,N,,CRBP,N,Healthcare,Yahoo Finance
+Y,CRIS,"Curis, Inc. - Common Stock",Q,G,N,100.0,N,N,,CRIS,N,Healthcare,Yahoo Finance
+Y,CRL,"Charles River Laboratories International, Inc. Common Stock",N, ,N,100.0,N,,CRL,CRL,N,Healthcare,Yahoo Finance
+Y,CRMD,CorMedix Inc. Common Stock,A, ,N,100.0,N,,CRMD,CRMD,N,Healthcare,Yahoo Finance
+Y,CRNX,"Crinetics Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CRNX,N,Healthcare,Yahoo Finance
+Y,CRON,Cronos Group Inc. - Common Share,Q,G,N,100.0,N,N,,CRON,N,Healthcare,Yahoo Finance
+Y,CRSP,CRISPR Therapeutics AG - Common Shares,Q,G,N,100.0,N,N,,CRSP,N,Healthcare,Yahoo Finance
+Y,CRVS,"Corvus Pharmaceuticals, Inc. - Common Stock",Q,G,N,100.0,N,N,,CRVS,N,Healthcare,Yahoo Finance
+Y,CSBR,"Champions Oncology, Inc. - Common Stock",Q,S,N,100.0,N,N,,CSBR,N,Healthcare,Yahoo Finance
+Y,CSTL,"Castle Biosciences, Inc. - Common stock",Q,G,N,100.0,N,N,,CSTL,N,Healthcare,Yahoo Finance
+Y,CTMX,"CytomX Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CTMX,N,Healthcare,Yahoo Finance
+Y,CTSO,Cytosorbents Corporation - Common Stock,Q,S,N,100.0,N,N,,CTSO,N,Healthcare,Yahoo Finance
+Y,CTXR,"Citius Pharmaceuticals, Inc. - Common Stock",Q,S,N,100.0,N,N,,CTXR,N,Healthcare,Yahoo Finance
+Y,CUE,"Cue Biopharma, Inc. - Common Stock",Q,S,N,100.0,N,N,,CUE,N,Healthcare,Yahoo Finance
+Y,CVM,Cel-Sci Corporation Common Stock,A, ,N,100.0,N,,CVM,CVM,N,Healthcare,Yahoo Finance
+Y,CVS,CVS Health Corporation Common Stock,N, ,N,100.0,N,,CVS,CVS,N,Healthcare,Yahoo Finance
+Y,CYCC,"Cyclacel Pharmaceuticals, Inc. - Common Stock",Q,S,N,100.0,N,D,,CYCC,N,Healthcare,Yahoo Finance
+Y,CYCCP,"Cyclacel Pharmaceuticals, Inc. - 6% Convertible Preferred Stock",Q,S,N,100.0,N,N,,CYCCP,N,Healthcare,Yahoo Finance
+Y,CYCN,"Cyclerion Therapeutics, Inc. - Common Stock ",Q,Q,N,100.0,N,N,,CYCN,N,Healthcare,Yahoo Finance
+Y,CYH,"Community Health Systems, Inc. Common Stock",N, ,N,100.0,N,,CYH,CYH,N,Healthcare,Yahoo Finance
+Y,CYTK,"Cytokinetics, Incorporated - Common Stock",Q,Q,N,100.0,N,N,,CYTK,N,Healthcare,Yahoo Finance
+Y,DARE,"Dare Bioscience, Inc. - Common Stock",Q,S,N,100.0,N,N,,DARE,N,Healthcare,Yahoo Finance
+Y,DBVT,DBV Technologies S.A. - American Depositary Shares,Q,Q,N,100.0,N,N,,DBVT,N,Healthcare,Yahoo Finance
+Y,DGX,Quest Diagnostics Incorporated Common Stock,N, ,N,100.0,N,,DGX,DGX,N,Healthcare,Yahoo Finance
+Y,DHR,Danaher Corporation Common Stock,N, ,N,100.0,N,,DHR,DHR,N,Healthcare,Yahoo Finance
+Y,DMAC,DiaMedica Therapeutics Inc. - Common Stock,Q,S,N,100.0,N,N,,DMAC,N,Healthcare,Yahoo Finance
+Y,DNLI,Denali Therapeutics Inc. - Common Stock,Q,Q,N,100.0,N,N,,DNLI,N,Healthcare,Yahoo Finance
+Y,DRIO,DarioHealth Corp. - Common Stock,Q,S,N,100.0,N,N,,DRIO,N,Healthcare,Yahoo Finance
+Y,DRRX,DURECT Corporation - Common Stock,Q,S,N,100.0,N,N,,DRRX,N,Healthcare,Yahoo Finance
+Y,DTIL,"Precision BioSciences, Inc. - Common Stock",Q,Q,N,100.0,N,N,,DTIL,N,Healthcare,Yahoo Finance
+Y,DVA,DaVita Inc. Common Stock,N, ,N,100.0,N,,DVA,DVA,N,Healthcare,Yahoo Finance
+Y,DVAX,Dynavax Technologies Corporation - Common Stock,Q,S,N,100.0,N,N,,DVAX,N,Healthcare,Yahoo Finance
+Y,DXCM,"DexCom, Inc. - Common Stock",Q,Q,N,100.0,N,N,,DXCM,N,Healthcare,Yahoo Finance
+Y,DXR,Daxor Corporation Common Stock,A, ,N,100.0,N,,DXR,DXR,N,Healthcare,Yahoo Finance
+Y,DYAI,"Dyadic International, Inc. - Common Stock",Q,S,N,100.0,N,N,,DYAI,N,Healthcare,Yahoo Finance
+Y,DYNT,Dynatronics Corporation - Common Stock,Q,S,N,100.0,N,N,,DYNT,N,Healthcare,Yahoo Finance
+Y,EBS,"Emergent Biosolutions, Inc. Common Stock",N, ,N,100.0,N,,EBS,EBS,N,Healthcare,Yahoo Finance
+Y,ECOR,"electroCore, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ECOR,N,Healthcare,Yahoo Finance
+Y,EDAP,"EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",Q,G,N,100.0,N,N,,EDAP,N,Healthcare,Yahoo Finance
+Y,EDIT,"Editas Medicine, Inc. - Common Stock",Q,Q,N,100.0,N,N,,EDIT,N,Healthcare,Yahoo Finance
+Y,EDSA,"Edesa Biotech, Inc. - Common Shares",Q,S,N,100.0,N,N,,EDSA,N,Healthcare,Yahoo Finance
+Y,EGRX,"Eagle Pharmaceuticals, Inc. - Common Stock",Q,G,N,100.0,N,N,,EGRX,N,Healthcare,Yahoo Finance
+Y,EHC,Encompass Health Corporation Common Stock,N, ,N,100.0,N,,EHC,EHC,N,Healthcare,Yahoo Finance
+Y,EKSO,"Ekso Bionics Holdings, Inc. - Common Stock",Q,S,N,100.0,N,D,,EKSO,N,Healthcare,Yahoo Finance
+Y,ELAN,Elanco Animal Health Incorporated Common Stock,N, ,N,100.0,N,,ELAN,ELAN,N,Healthcare,Yahoo Finance
+Y,ELMD,"Electromed, Inc. Common Stock",A, ,N,100.0,N,,ELMD,ELMD,N,Healthcare,Yahoo Finance
+Y,ELOX,"Eloxx Pharmaceuticals, Inc. - Common Stock",Q,G,N,100.0,N,N,,ELOX,N,Healthcare,Yahoo Finance
+Y,ENLV,Enlivex Therapeutics Ltd. - Ordinary Shares,Q,S,N,100.0,N,N,,ENLV,N,Healthcare,Yahoo Finance
+Y,ENSG,"The Ensign Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ENSG,N,Healthcare,Yahoo Finance
+Y,ENTA,"Enanta Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ENTA,N,Healthcare,Yahoo Finance
+Y,ENTX,Entera Bio Ltd. - Ordinary Shares,Q,S,N,100.0,N,N,,ENTX,N,Healthcare,Yahoo Finance
+Y,EOLS,"Evolus, Inc. - Common Stock",Q,G,N,100.0,N,N,,EOLS,N,Healthcare,Yahoo Finance
+Y,EPIX,ESSA Pharma Inc. - Common Stock,Q,S,N,100.0,N,N,,EPIX,N,Healthcare,Yahoo Finance
+Y,EQ,"Equillium, Inc. - Common Stock",Q,G,N,100.0,N,N,,EQ,N,Healthcare,Yahoo Finance
+Y,ESPR,"Esperion Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,ESPR,N,Healthcare,Yahoo Finance
+Y,ESTA,Establishment Labs Holdings Inc. - Common Shares,Q,S,N,100.0,N,N,,ESTA,N,Healthcare,Yahoo Finance
+Y,ETNB,"89bio, Inc. - Common Stock",Q,G,N,100.0,N,N,,ETNB,N,Healthcare,Yahoo Finance
+Y,ETON,"Eton Pharmaceuticals, Inc. - Common Stock",Q,G,N,100.0,N,N,,ETON,N,Healthcare,Yahoo Finance
+Y,EVFM,"Evofem Biosciences, Inc. - Common Stock",Q,S,N,100.0,N,N,,EVFM,N,Healthcare,Yahoo Finance
+Y,EVGN,Evogene Ltd. - Ordinary Shares,Q,G,N,100.0,N,N,,EVGN,N,Healthcare,Yahoo Finance
+Y,EVH,"Evolent Health, Inc Class A Common Stock",N, ,N,100.0,N,,EVH,EVH,N,Healthcare,Yahoo Finance
+Y,EVLO,"Evelo Biosciences, Inc. - Common Stock",Q,Q,N,100.0,N,N,,EVLO,N,Healthcare,Yahoo Finance
+Y,EVOK,"Evoke Pharma, Inc. - Common Stock",Q,S,N,100.0,N,N,,EVOK,N,Healthcare,Yahoo Finance
+Y,EW,Edwards Lifesciences Corporation Common Stock,N, ,N,100.0,N,,EW,EW,N,Healthcare,Yahoo Finance
+Y,EXAS,Exact Sciences Corporation - Common Stock,Q,S,N,100.0,N,N,,EXAS,N,Healthcare,Yahoo Finance
+Y,EXEL,"Exelixis, Inc. - Common Stock",Q,Q,N,100.0,N,N,,EXEL,N,Healthcare,Yahoo Finance
+Y,EYPT,"EyePoint Pharmaceuticals, Inc. - Common Stock",Q,G,N,100.0,N,N,,EYPT,N,Healthcare,Yahoo Finance
+Y,FATE,"Fate Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,FATE,N,Healthcare,Yahoo Finance
+Y,FBIO,"Fortress Biotech, Inc. - Common Stock",Q,S,N,100.0,N,N,,FBIO,N,Healthcare,Yahoo Finance
+Y,FBIOP,"Fortress Biotech, Inc. - 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock",Q,S,N,100.0,N,N,,FBIOP,N,Healthcare,Yahoo Finance
+Y,FENC,Fennec Pharmaceuticals Inc. - Common Stock,Q,S,N,100.0,N,N,,FENC,N,Healthcare,Yahoo Finance
+Y,FGEN,"FibroGen, Inc - Common Stock",Q,Q,N,100.0,N,N,,FGEN,N,Healthcare,Yahoo Finance
+Y,FLGT,"Fulgent Genetics, Inc. - Common Stock",Q,G,N,100.0,N,N,,FLGT,N,Healthcare,Yahoo Finance
+Y,FMS,Fresenius Medical Care AG Common Stock,N, ,N,100.0,N,,FMS,FMS,N,Healthcare,Yahoo Finance
+Y,FOLD,"Amicus Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,FOLD,N,Healthcare,Yahoo Finance
+Y,FONR,Fonar Corporation - Common Stock,Q,S,N,100.0,N,N,,FONR,N,Healthcare,Yahoo Finance
+Y,FULC,"Fulcrum Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,FULC,N,Healthcare,Yahoo Finance
+Y,GALT,Galectin Therapeutics Inc. - Common Stock,Q,S,N,100.0,N,N,,GALT,N,Healthcare,Yahoo Finance
+Y,GERN,Geron Corporation - Common Stock,Q,Q,N,100.0,N,N,,GERN,N,Healthcare,Yahoo Finance
+Y,GH,"Guardant Health, Inc. - Common Stock",Q,Q,N,100.0,N,N,,GH,N,Healthcare,Yahoo Finance
+Y,GILD,"Gilead Sciences, Inc. - Common Stock",Q,Q,N,100.0,N,N,,GILD,N,Healthcare,Yahoo Finance
+Y,GKOS,Glaukos Corporation Common Stock,N, ,N,100.0,N,,GKOS,GKOS,N,Healthcare,Yahoo Finance
+Y,GLMD,Galmed Pharmaceuticals Ltd. - Ordinary Shares,Q,S,N,100.0,N,N,,GLMD,N,Healthcare,Yahoo Finance
+Y,GLPG,Galapagos NV - American Depositary Shares,Q,Q,N,100.0,N,N,,GLPG,N,Healthcare,Yahoo Finance
+Y,GMAB,Genmab A/S - American Depositary Shares,Q,Q,N,100.0,N,N,,GMAB,N,Healthcare,Yahoo Finance
+Y,GMED,"Globus Medical, Inc. Class A Common Stock",N, ,N,100.0,N,,GMED,GMED,N,Healthcare,Yahoo Finance
+Y,GNFT,GENFIT S.A. - American Depositary Shares,Q,Q,N,100.0,N,N,,GNFT,N,Healthcare,Yahoo Finance
+Y,GNPX,"Genprex, Inc. - Common Stock",Q,S,N,100.0,N,N,,GNPX,N,Healthcare,Yahoo Finance
+Y,GOSS,"Gossamer Bio, Inc. - Common Stock",Q,Q,N,100.0,N,N,,GOSS,N,Healthcare,Yahoo Finance
+Y,GRFS,"Grifols, S.A. - American Depositary Shares",Q,Q,N,100.0,N,N,,GRFS,N,Healthcare,Yahoo Finance
+Y,GRTX,"Galera Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,GRTX,N,Healthcare,Yahoo Finance
+Y,GSK,GlaxoSmithKline PLC Common Stock,N, ,N,100.0,N,,GSK,GSK,N,Healthcare,Yahoo Finance
+Y,HAE,Haemonetics Corporation Common Stock,N, ,N,100.0,N,,HAE,HAE,N,Healthcare,Yahoo Finance
+Y,HALO,"Halozyme Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,HALO,N,Healthcare,Yahoo Finance
+Y,HBIO,"Harvard Bioscience, Inc. - Common Stock",Q,G,N,100.0,N,N,,HBIO,N,Healthcare,Yahoo Finance
+Y,HCA,"HCA Healthcare, Inc. Common Stock",N, ,N,100.0,N,,HCA,HCA,N,Healthcare,Yahoo Finance
+Y,HCAT,"Health Catalyst, Inc - Common stock",Q,Q,N,100.0,N,N,,HCAT,N,Healthcare,Yahoo Finance
+Y,HCM,Hutchison China MediTech Limited - American Depositary Shares,Q,Q,N,100.0,N,N,,HCM,N,Healthcare,Yahoo Finance
+Y,HCSG,"Healthcare Services Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,HCSG,N,Healthcare,Yahoo Finance
+Y,HEPA,"Hepion Pharmaceuticals, Inc. - Common Stock",Q,S,N,100.0,N,N,,HEPA,N,Healthcare,Yahoo Finance
+Y,HOLX,"Hologic, Inc. - Common Stock",Q,Q,N,100.0,N,N,,HOLX,N,Healthcare,Yahoo Finance
+Y,HOOK,HOOKIPA Pharma Inc. - Common Stock,Q,Q,N,100.0,N,N,,HOOK,N,Healthcare,Yahoo Finance
+Y,HOTH,"Hoth Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,N,,HOTH,N,Healthcare,Yahoo Finance
+Y,HQY,"HealthEquity, Inc. - Common Stock",Q,Q,N,100.0,N,N,,HQY,N,Healthcare,Yahoo Finance
+Y,HROW,"Harrow Health, Inc. - Common Stock",Q,S,N,100.0,N,N,,HROW,N,Healthcare,Yahoo Finance
+Y,HRTX,"Heron Therapeutics, Inc.   - Common Stock",Q,S,N,100.0,N,N,,HRTX,N,Healthcare,Yahoo Finance
+Y,HSIC,"Henry Schein, Inc. - Common Stock",Q,Q,N,100.0,N,N,,HSIC,N,Healthcare,Yahoo Finance
+Y,HSTM,"HealthStream, Inc. - Common Stock",Q,Q,N,100.0,N,N,,HSTM,N,Healthcare,Yahoo Finance
+Y,HUM,Humana Inc. Common Stock,N, ,N,100.0,N,,HUM,HUM,N,Healthcare,Yahoo Finance
+Y,IART,Integra LifeSciences Holdings Corporation - Common Stock,Q,Q,N,100.0,N,N,,IART,N,Healthcare,Yahoo Finance
+Y,IBIO,"iBio, Inc. Common Stock",A, ,N,100.0,N,,IBIO,IBIO,N,Healthcare,Yahoo Finance
+Y,ICCC,ImmuCell Corporation - Common Stock,Q,S,N,100.0,N,N,,ICCC,N,Healthcare,Yahoo Finance
+Y,ICLR,ICON plc - Ordinary Shares,Q,Q,N,100.0,N,N,,ICLR,N,Healthcare,Yahoo Finance
+Y,ICUI,"ICU Medical, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ICUI,N,Healthcare,Yahoo Finance
+Y,IDXG,"Interpace Biosciences, Inc. - Common Stock",Q,S,N,100.0,N,N,,IDXG,N,Healthcare,Yahoo Finance
+Y,IDXX,"IDEXX Laboratories, Inc. - Common Stock",Q,Q,N,100.0,N,N,,IDXX,N,Healthcare,Yahoo Finance
+Y,IDYA,"IDEAYA Biosciences, Inc. - Common Stock",Q,Q,N,100.0,N,N,,IDYA,N,Healthcare,Yahoo Finance
+Y,IFRX,InflaRx N.V. - Common Stock,Q,Q,N,100.0,N,N,,IFRX,N,Healthcare,Yahoo Finance
+Y,IGC,India Globalization Capital Inc. Common Stock,A, ,N,100.0,N,,IGC,IGC,N,Healthcare,Yahoo Finance
+Y,ILMN,"Illumina, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ILMN,N,Healthcare,Yahoo Finance
+Y,IMAB,I-MAB - American Depositary Shares,Q,G,N,100.0,N,N,,IMAB,N,Healthcare,Yahoo Finance
+Y,IMMP,Immutep Limited - American Depositary Shares,Q,G,N,100.0,N,N,,IMMP,N,Healthcare,Yahoo Finance
+Y,IMRN,Immuron Limited - American Depositary Shares,Q,S,N,100.0,N,N,,IMRN,N,Healthcare,Yahoo Finance
+Y,IMUX,"Immunic, Inc.  - Common Stock",Q,S,N,100.0,N,N,,IMUX,N,Healthcare,Yahoo Finance
+Y,IMVT,"Immunovant, Inc.  - Common Stock",Q,S,N,100.0,N,N,,IMVT,N,Healthcare,Yahoo Finance
+Y,INCY,Incyte Corporation - Common Stock,Q,Q,N,100.0,N,N,,INCY,N,Healthcare,Yahoo Finance
+Y,INFU,"InfuSystems Holdings, Inc. Common Stock",A, ,N,100.0,N,,INFU,INFU,N,Healthcare,Yahoo Finance
+Y,INGN,"Inogen, Inc - Common Stock",Q,Q,N,100.0,N,N,,INGN,N,Healthcare,Yahoo Finance
+Y,INMB,INmune Bio Inc. - Common stock,Q,S,N,100.0,N,N,,INMB,N,Healthcare,Yahoo Finance
+Y,INMD,InMode Ltd.  - Ordinary Shares,Q,Q,N,100.0,N,N,,INMD,N,Healthcare,Yahoo Finance
+Y,INO,"Inovio Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,INO,N,Healthcare,Yahoo Finance
+Y,INSM,"Insmed, Inc. - Common Stock",Q,Q,N,100.0,N,N,,INSM,N,Healthcare,Yahoo Finance
+Y,INSP,"Inspire Medical Systems, Inc. Common Stock",N, ,N,100.0,N,,INSP,INSP,N,Healthcare,Yahoo Finance
+Y,INVA,"Innoviva, Inc. - Common Stock",Q,Q,N,100.0,N,N,,INVA,N,Healthcare,Yahoo Finance
+Y,IONS,"Ionis Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,IONS,N,Healthcare,Yahoo Finance
+Y,IOVA,"Iovance Biotherapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,IOVA,N,Healthcare,Yahoo Finance
+Y,IPHA,Innate Pharma S.A. - American Depositary Shares,Q,Q,N,100.0,N,N,,IPHA,N,Healthcare,Yahoo Finance
+Y,IQV,"IQVIA Holdings, Inc. Common Stock",N, ,N,100.0,N,,IQV,IQV,N,Healthcare,Yahoo Finance
+Y,IRIX,IRIDEX Corporation - Common Stock,Q,G,N,100.0,N,N,,IRIX,N,Healthcare,Yahoo Finance
+Y,IRMD,iRadimed Corporation - Common Stock,Q,S,N,100.0,N,N,,IRMD,N,Healthcare,Yahoo Finance
+Y,IRTC,"iRhythm Technologies, Inc. - Common Stock",Q,Q,N,100.0,N,N,,IRTC,N,Healthcare,Yahoo Finance
+Y,IRWD,"Ironwood Pharmaceuticals, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,IRWD,N,Healthcare,Yahoo Finance
+Y,ISRG,"Intuitive Surgical, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ISRG,N,Healthcare,Yahoo Finance
+Y,ITGR,Integer Holdings Corporation Common Stock,N, ,N,100.0,N,,ITGR,ITGR,N,Healthcare,Yahoo Finance
+Y,ITRM,Iterum Therapeutics plc - Ordinary Share,Q,G,N,100.0,N,D,,ITRM,N,Healthcare,Yahoo Finance
+Y,JAGX,"Jaguar Health, Inc. - Common Stock",Q,S,N,100.0,N,D,,JAGX,N,Healthcare,Yahoo Finance
+Y,JAZZ,Jazz Pharmaceuticals plc - Ordinary Shares,Q,Q,N,100.0,N,N,,JAZZ,N,Healthcare,Yahoo Finance
+Y,JNJ,Johnson & Johnson Common Stock,N, ,N,100.0,N,,JNJ,JNJ,N,Healthcare,Yahoo Finance
+Y,JYNT,The Joint Corp. - Common Stock,Q,S,N,100.0,N,N,,JYNT,N,Healthcare,Yahoo Finance
+Y,KALA,"Kala Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,KALA,N,Healthcare,Yahoo Finance
+Y,KALV,"KalVista Pharmaceuticals, Inc. - Common Stock",Q,G,N,100.0,N,N,,KALV,N,Healthcare,Yahoo Finance
+Y,KIDS,OrthoPediatrics Corp. - Common Stock,Q,G,N,100.0,N,N,,KIDS,N,Healthcare,Yahoo Finance
+Y,KLDO,"Kaleido Biosciences, Inc. - Common Stock",Q,Q,N,100.0,N,N,,KLDO,N,Healthcare,Yahoo Finance
+Y,KMDA,Kamada Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,KMDA,N,Healthcare,Yahoo Finance
+Y,KNSA,"Kiniksa Pharmaceuticals, Ltd. - Class A Common Stock",Q,Q,N,100.0,N,N,,KNSA,N,Healthcare,Yahoo Finance
+Y,KOD,Kodiak Sciences Inc - Common Stock,Q,G,N,100.0,N,N,,KOD,N,Healthcare,Yahoo Finance
+Y,KPTI,Karyopharm Therapeutics Inc. - Common Stock,Q,Q,N,100.0,N,N,,KPTI,N,Healthcare,Yahoo Finance
+Y,KRMD,"Repro Med Systems, Inc. - Common Stock",Q,S,N,100.0,N,N,,KRMD,N,Healthcare,Yahoo Finance
+Y,KRYS,"Krystal Biotech, Inc. - Common Stock",Q,G,N,100.0,N,N,,KRYS,N,Healthcare,Yahoo Finance
+Y,KURA,"Kura Oncology, Inc. - Common Stock",Q,Q,N,100.0,N,N,,KURA,N,Healthcare,Yahoo Finance
+Y,KZIA,Kazia Therapeutics Limited - American Depositary Shares,Q,S,N,100.0,N,N,,KZIA,N,Healthcare,Yahoo Finance
+Y,KZR,"Kezar Life Sciences, Inc. - Common Stock",Q,Q,N,100.0,N,N,,KZR,N,Healthcare,Yahoo Finance
+Y,LCTX,"Lineage Cell Therapeutics, Inc. Common Stock",A, ,N,100.0,N,,LCTX,LCTX,N,Healthcare,Yahoo Finance
+Y,LGND,Ligand Pharmaceuticals Incorporated - Common Stock,Q,G,N,100.0,N,N,,LGND,N,Healthcare,Yahoo Finance
+Y,LH,Laboratory Corporation of America Holdings Common Stock,N, ,N,100.0,N,,LH,LH,N,Healthcare,Yahoo Finance
+Y,LIVN,LivaNova PLC - Ordinary Shares,Q,Q,N,100.0,N,N,,LIVN,N,Healthcare,Yahoo Finance
+Y,LLY,Eli Lilly and Company Common Stock,N, ,N,100.0,N,,LLY,LLY,N,Healthcare,Yahoo Finance
+Y,LMAT,"LeMaitre Vascular, Inc. - Common Stock",Q,G,N,100.0,N,N,,LMAT,N,Healthcare,Yahoo Finance
+Y,LNTH,"Lantheus Holdings, Inc. - Common Stock",Q,G,N,100.0,N,N,,LNTH,N,Healthcare,Yahoo Finance
+Y,LPCN,Lipocine Inc. - Common Stock,Q,S,N,100.0,N,D,,LPCN,N,Healthcare,Yahoo Finance
+Y,LPTX,"Leap Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,LPTX,N,Healthcare,Yahoo Finance
+Y,LQDA,"Liquidia Technologies, Inc. - Common Stock",Q,S,N,100.0,N,N,,LQDA,N,Healthcare,Yahoo Finance
+Y,LXRX,"Lexicon Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,LXRX,N,Healthcare,Yahoo Finance
+Y,MASI,Masimo Corporation - Common Stock,Q,Q,N,100.0,N,N,,MASI,N,Healthcare,Yahoo Finance
+Y,MBIO,"Mustang Bio, Inc. - Common Stock",Q,G,N,100.0,N,N,,MBIO,N,Healthcare,Yahoo Finance
+Y,MBOT,Microbot Medical Inc.  - Common Stock,Q,S,N,100.0,N,N,,MBOT,N,Healthcare,Yahoo Finance
+Y,MBRX,"Moleculin Biotech, Inc. - Common Stock",Q,S,N,100.0,N,D,,MBRX,N,Healthcare,Yahoo Finance
+Y,MCK,McKesson Corporation Common Stock,N, ,N,100.0,N,,MCK,MCK,N,Healthcare,Yahoo Finance
+Y,MCRB,"Seres Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MCRB,N,Healthcare,Yahoo Finance
+Y,MD,"Mednax, Inc. Common Stock",N, ,N,100.0,N,,MD,MD,N,Healthcare,Yahoo Finance
+Y,MDGL,"Madrigal Pharmaceuticals, Inc. - Common Stock",Q,S,N,100.0,N,N,,MDGL,N,Healthcare,Yahoo Finance
+Y,MDRX,"Allscripts Healthcare Solutions, Inc. - common stock",Q,Q,N,100.0,N,N,,MDRX,N,Healthcare,Yahoo Finance
+Y,MDT,Medtronic plc. Ordinary Shares,N, ,N,100.0,N,,MDT,MDT,N,Healthcare,Yahoo Finance
+Y,MDWD,MediWound Ltd. - Ordinary Shares,Q,G,N,100.0,N,N,,MDWD,N,Healthcare,Yahoo Finance
+Y,MEDP,"Medpace Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MEDP,N,Healthcare,Yahoo Finance
+Y,MEIP,"MEI Pharma, Inc. - Common Stock",Q,S,N,100.0,N,N,,MEIP,N,Healthcare,Yahoo Finance
+Y,MESO,Mesoblast Limited - American Depositary Shares,Q,Q,N,100.0,N,N,,MESO,N,Healthcare,Yahoo Finance
+Y,MGNX,"MacroGenics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MGNX,N,Healthcare,Yahoo Finance
+Y,MGTX,MeiraGTx Holdings plc - Ordinary Shares,Q,Q,N,100.0,N,N,,MGTX,N,Healthcare,Yahoo Finance
+Y,MICR,"Micron Solutions, Inc. Common Stock",A, ,N,100.0,N,,MICR,MICR,N,Healthcare,Yahoo Finance
+Y,MIRM,"Mirum Pharmaceuticals, Inc. - common stock",Q,G,N,100.0,N,N,,MIRM,N,Healthcare,Yahoo Finance
+Y,MIST,Milestone Pharmaceuticals Inc. - Common Shares,Q,Q,N,100.0,N,N,,MIST,N,Healthcare,Yahoo Finance
+Y,MLSS,"Milestone Scientific, Inc. Common Stock",A, ,N,100.0,N,,MLSS,MLSS,N,Healthcare,Yahoo Finance
+Y,MMSI,"Merit Medical Systems, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MMSI,N,Healthcare,Yahoo Finance
+Y,MNKD,MannKind Corporation - Common Stock,Q,G,N,100.0,N,N,,MNKD,N,Healthcare,Yahoo Finance
+Y,MNOV,"MediciNova, Inc. - Common Stock",Q,G,N,100.0,N,N,,MNOV,N,Healthcare,Yahoo Finance
+Y,MNPR,Monopar Therapeutics Inc. - Common Stock,Q,S,N,100.0,N,N,,MNPR,N,Healthcare,Yahoo Finance
+Y,MOH,Molina Healthcare Inc Common Stock,N, ,N,100.0,N,,MOH,MOH,N,Healthcare,Yahoo Finance
+Y,MOTS,"Motus GI Holdings, Inc. - Common Stock",Q,S,N,100.0,N,N,,MOTS,N,Healthcare,Yahoo Finance
+Y,MREO,Mereo BioPharma Group plc - American Depositary Shares,Q,G,N,100.0,N,N,,MREO,N,Healthcare,Yahoo Finance
+Y,MRK,"Merck & Company, Inc. Common Stock (new)",N, ,N,100.0,N,,MRK,MRK,N,Healthcare,Yahoo Finance
+Y,MRKR,"Marker Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,MRKR,N,Healthcare,Yahoo Finance
+Y,MRNA,"Moderna, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MRNA,N,Healthcare,Yahoo Finance
+Y,MRSN,"Mersana Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MRSN,N,Healthcare,Yahoo Finance
+Y,MRUS,Merus N.V. - Common Shares,Q,G,N,100.0,N,N,,MRUS,N,Healthcare,Yahoo Finance
+Y,MTD,"Mettler-Toledo International, Inc. Common Stock",N, ,N,100.0,N,,MTD,MTD,N,Healthcare,Yahoo Finance
+Y,MTNB,"Matinas Biopharma Holdings, Inc. Common Stock",A, ,N,100.0,N,,MTNB,MTNB,N,Healthcare,Yahoo Finance
+Y,MYGN,"Myriad Genetics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MYGN,N,Healthcare,Yahoo Finance
+Y,MYO,Myomo Inc. Common Stock,A, ,N,100.0,N,,MYO,MYO,N,Healthcare,Yahoo Finance
+Y,NAOV,"NanoVibronix, Inc. - Common Stock",Q,S,N,100.0,N,D,,NAOV,N,Healthcare,Yahoo Finance
+Y,NAVB,"Navidea Biopharmaceuticals, Inc. Common Stock",A, ,N,100.0,N,,NAVB,NAVB,N,Healthcare,Yahoo Finance
+Y,NBIX,"Neurocrine Biosciences, Inc. - Common Stock",Q,Q,N,100.0,N,N,,NBIX,N,Healthcare,Yahoo Finance
+Y,NBY,"NovaBay Pharmaceuticals, Inc. Common Stock",A, ,N,100.0,N,,NBY,NBY,N,Healthcare,Yahoo Finance
+Y,NCNA,NuCana plc - American Depositary Shares,Q,Q,N,100.0,N,N,,NCNA,N,Healthcare,Yahoo Finance
+Y,NDRA,ENDRA Life Sciences Inc. - Common Stock,Q,S,N,100.0,N,N,,NDRA,N,Healthcare,Yahoo Finance
+Y,NEO,"NeoGenomics, Inc. - Common Stock",Q,S,N,100.0,N,N,,NEO,N,Healthcare,Yahoo Finance
+Y,NEOG,Neogen Corporation - Common Stock,Q,Q,N,100.0,N,N,,NEOG,N,Healthcare,Yahoo Finance
+Y,NEPH,"Nephros, Inc. - Common Stock",Q,S,N,100.0,N,N,,NEPH,N,Healthcare,Yahoo Finance
+Y,NERV,"Minerva Neurosciences, Inc - Common Stock",Q,G,N,100.0,N,N,,NERV,N,Healthcare,Yahoo Finance
+Y,NHC,National HealthCare Corporation Common Stock,A, ,N,100.0,N,,NHC,NHC,N,Healthcare,Yahoo Finance
+Y,NKTR,Nektar Therapeutics - Common Stock,Q,Q,N,100.0,N,N,,NKTR,N,Healthcare,Yahoo Finance
+Y,NMRD,Nemaura Medical Inc. - Common Stock,Q,S,N,100.0,N,N,,NMRD,N,Healthcare,Yahoo Finance
+Y,NNVC,"NanoViricides, Inc. Common Stock",A, ,N,100.0,N,,NNVC,NNVC,N,Healthcare,Yahoo Finance
+Y,NRC,National Research Corporation - Common Stock,Q,Q,N,100.0,N,N,,NRC,N,Healthcare,Yahoo Finance
+Y,NSPR,InspireMD Inc. Common Stock,A, ,N,100.0,N,,NSPR,NSPR,N,Healthcare,Yahoo Finance
+Y,NSYS,Nortech Systems Incorporated - Common Stock,Q,S,N,100.0,N,N,,NSYS,N,Healthcare,Yahoo Finance
+Y,NTLA,"Intellia Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,NTLA,N,Healthcare,Yahoo Finance
+Y,NTRA,"Natera, Inc. - Common Stock",Q,Q,N,100.0,N,N,,NTRA,N,Healthcare,Yahoo Finance
+Y,NVAX,"Novavax, Inc. - Common Stock",Q,Q,N,100.0,N,N,,NVAX,N,Healthcare,Yahoo Finance
+Y,NVCR,NovoCure Limited - Ordinary Shares,Q,Q,N,100.0,N,N,,NVCR,N,Healthcare,Yahoo Finance
+Y,NVO,Novo Nordisk A/S Common Stock,N, ,N,100.0,N,,NVO,NVO,N,Healthcare,Yahoo Finance
+Y,NVS,Novartis AG Common Stock,N, ,N,100.0,N,,NVS,NVS,N,Healthcare,Yahoo Finance
+Y,NVST,Envista Holdings Corporation Common Stock,N, ,N,100.0,N,,NVST,NVST,N,Healthcare,Yahoo Finance
+Y,NXTC,"NextCure, Inc. - Common Stock",Q,Q,N,100.0,N,N,,NXTC,N,Healthcare,Yahoo Finance
+Y,OCGN,"Ocugen, Inc. - Common Stock",Q,S,N,100.0,N,D,,OCGN,N,Healthcare,Yahoo Finance
+Y,OCUL,"Ocular Therapeutix, Inc. - Common Stock",Q,G,N,100.0,N,N,,OCUL,N,Healthcare,Yahoo Finance
+Y,OFIX,Orthofix Medical Inc.  - Common Stock,Q,Q,N,100.0,N,N,,OFIX,N,Healthcare,Yahoo Finance
+Y,OGEN,Oragenics Inc. Common Stock,A, ,N,100.0,N,,OGEN,OGEN,N,Healthcare,Yahoo Finance
+Y,OGI,Organigram Holdings Inc. - Common Shares,Q,Q,N,100.0,N,N,,OGI,N,Healthcare,Yahoo Finance
+Y,OMCL,"Omnicell, Inc. - Common Stock",Q,Q,N,100.0,N,N,,OMCL,N,Healthcare,Yahoo Finance
+Y,OMER,Omeros Corporation - Common Stock,Q,G,N,100.0,N,N,,OMER,N,Healthcare,Yahoo Finance
+Y,OMI,"Owens & Minor, Inc. Common Stock",N, ,N,100.0,N,,OMI,OMI,N,Healthcare,Yahoo Finance
+Y,ONCY,Oncolytics Biotech Inc. - Common Shares,Q,S,N,100.0,N,N,,ONCY,N,Healthcare,Yahoo Finance
+Y,OPCH,"Option Care Health, Inc. - Common Stock",Q,Q,N,100.0,N,N,,OPCH,N,Healthcare,Yahoo Finance
+Y,OPGN,"OpGen, Inc. - Common Stock",Q,S,N,100.0,N,N,,OPGN,N,Healthcare,Yahoo Finance
+Y,OPK,"Opko Health, Inc. - Common Stock",Q,Q,N,100.0,N,N,,OPK,N,Healthcare,Yahoo Finance
+Y,OPRX,OptimizeRx Corporation - Common Stock,Q,S,N,100.0,N,N,,OPRX,N,Healthcare,Yahoo Finance
+Y,ORGO,Organogenesis Holdings Inc.  - Class A ,Q,S,N,100.0,N,N,,ORGO,N,Healthcare,Yahoo Finance
+Y,ORGS,Orgenesis Inc. - Common Stock,Q,S,N,100.0,N,N,,ORGS,N,Healthcare,Yahoo Finance
+Y,ORMP,Oramed Pharmaceuticals Inc. - Common Stock,Q,S,N,100.0,N,N,,ORMP,N,Healthcare,Yahoo Finance
+Y,OSUR,"OraSure Technologies, Inc. - Common Stock",Q,Q,N,100.0,N,N,,OSUR,N,Healthcare,Yahoo Finance
+Y,OTLK,"Outlook Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,N,,OTLK,N,Healthcare,Yahoo Finance
+Y,OVID,Ovid Therapeutics Inc. - Common Stock,Q,Q,N,100.0,N,N,,OVID,N,Healthcare,Yahoo Finance
+Y,PACB,"Pacific Biosciences of California, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PACB,N,Healthcare,Yahoo Finance
+Y,PAHC,Phibro Animal Health Corporation - Class A Common Stock,Q,G,N,100.0,N,N,,PAHC,N,Healthcare,Yahoo Finance
+Y,PASG,"Passage Bio, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PASG,N,Healthcare,Yahoo Finance
+Y,PAVM,PAVmed Inc. - Common Stock,Q,S,N,100.0,N,N,,PAVM,N,Healthcare,Yahoo Finance
+Y,PBH,Prestige Consumer Healthcare Inc. Common Stock,N, ,N,100.0,N,,PBH,PBH,N,Healthcare,Yahoo Finance
+Y,PBYI,Puma Biotechnology Inc - Common Stock,Q,Q,N,100.0,N,N,,PBYI,N,Healthcare,Yahoo Finance
+Y,PCRX,"Pacira BioSciences, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PCRX,N,Healthcare,Yahoo Finance
+Y,PDEX,"Pro-Dex, Inc. - Common Stock",Q,S,N,100.0,N,N,,PDEX,N,Healthcare,Yahoo Finance
+Y,PDSB,PDS Biotechnology Corporation - Common Stock,Q,S,N,100.0,N,N,,PDSB,N,Healthcare,Yahoo Finance
+Y,PEN,"Penumbra, Inc. Common Stock",N, ,N,100.0,N,,PEN,PEN,N,Healthcare,Yahoo Finance
+Y,PETS,"PetMed Express, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PETS,N,Healthcare,Yahoo Finance
+Y,PFE,"Pfizer, Inc. Common Stock",N, ,N,100.0,N,,PFE,PFE,N,Healthcare,Yahoo Finance
+Y,PGEN,"Precigen, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PGEN,N,Healthcare,Yahoo Finance
+Y,PGNY,"Progyny, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PGNY,N,Healthcare,Yahoo Finance
+Y,PHAT,"Phathom Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PHAT,N,Healthcare,Yahoo Finance
+Y,PHG,Koninklijke Philips N.V. NY Registry Shares,N, ,N,100.0,N,,PHG,PHG,N,Healthcare,Yahoo Finance
+Y,PHGE,BiomX Inc. COmmon Stock,A, ,N,100.0,N,,PHGE,PHGE,N,Healthcare,Yahoo Finance
+Y,PHIO,Phio Pharmaceuticals Corp. - Common Stock,Q,S,N,100.0,N,N,,PHIO,N,Healthcare,Yahoo Finance
+Y,PHR,"Phreesia, Inc. Common Stock",N, ,N,100.0,N,,PHR,PHR,N,Healthcare,Yahoo Finance
+Y,PINC,"Premier, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,PINC,N,Healthcare,Yahoo Finance
+Y,PLSE,"Pulse Biosciences, Inc - Common Stock",Q,S,N,100.0,N,N,,PLSE,N,Healthcare,Yahoo Finance
+Y,PLX,"Protalix BioTherapeutics, Inc. (DE) Common Stock",A, ,N,100.0,N,,PLX,PLX,N,Healthcare,Yahoo Finance
+Y,PNTG,"The Pennant Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PNTG,N,Healthcare,Yahoo Finance
+Y,POAI,Predictive Oncology Inc. - Common Stock,Q,S,N,100.0,N,N,,POAI,N,Healthcare,Yahoo Finance
+Y,PODD,Insulet Corporation - Common Stock,Q,Q,N,100.0,N,N,,PODD,N,Healthcare,Yahoo Finance
+Y,PRGO,Perrigo Company plc Ordinary Shares,N, ,N,100.0,N,,PRGO,PRGO,N,Healthcare,Yahoo Finance
+Y,PROF,Profound Medical Corp. - common stock,Q,S,N,100.0,N,N,,PROF,N,Healthcare,Yahoo Finance
+Y,PRPH,"ProPhase Labs, Inc. - Common Stock",Q,S,N,100.0,N,N,,PRPH,N,Healthcare,Yahoo Finance
+Y,PRPO,"Precipio, Inc. - Common Stock",Q,S,N,100.0,N,N,,PRPO,N,Healthcare,Yahoo Finance
+Y,PRQR,ProQR Therapeutics N.V. - Ordinary Shares,Q,G,N,100.0,N,N,,PRQR,N,Healthcare,Yahoo Finance
+Y,PRTA,Prothena Corporation plc - Ordinary Shares,Q,Q,N,100.0,N,N,,PRTA,N,Healthcare,Yahoo Finance
+Y,PSNL,"Personalis, Inc. - Common Stock",Q,G,N,100.0,N,N,,PSNL,N,Healthcare,Yahoo Finance
+Y,PSTV,"PLUS THERAPEUTICS, Inc. - Common Stock",Q,S,N,100.0,N,N,,PSTV,N,Healthcare,Yahoo Finance
+Y,PTCT,"PTC Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PTCT,N,Healthcare,Yahoo Finance
+Y,PTGX,"Protagonist Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,PTGX,N,Healthcare,Yahoo Finance
+Y,PULM,"Pulmatrix, Inc. - Common Stock",Q,S,N,100.0,N,N,,PULM,N,Healthcare,Yahoo Finance
+Y,QDEL,Quidel Corporation - Common Stock,Q,Q,N,100.0,N,N,,QDEL,N,Healthcare,Yahoo Finance
+Y,QGEN,Qiagen N.V. Common Shares ,N, ,N,100.0,N,,QGEN,QGEN,N,Healthcare,Yahoo Finance
+Y,QTRX,Quanterix Corporation - Common Stock,Q,G,N,100.0,N,N,,QTRX,N,Healthcare,Yahoo Finance
+Y,QURE,uniQure N.V. - Ordinary Shares,Q,Q,N,100.0,N,N,,QURE,N,Healthcare,Yahoo Finance
+Y,RAPT,"RAPT Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,RAPT,N,Healthcare,Yahoo Finance
+Y,RARE,Ultragenyx Pharmaceutical Inc. - Common Stock,Q,Q,N,100.0,N,N,,RARE,N,Healthcare,Yahoo Finance
+Y,RCEL,Avita Medical Limited - American Depositary Shares,Q,S,N,100.0,N,N,,RCEL,N,Healthcare,Yahoo Finance
+Y,RCKT,"Rocket Pharmaceuticals, Inc. - Common Stock",Q,G,N,100.0,N,D,,RCKT,N,Healthcare,Yahoo Finance
+Y,RCUS,"Arcus Biosciences, Inc. Common Stock",N, ,N,100.0,N,,RCUS,RCUS,N,Healthcare,Yahoo Finance
+Y,RDHL,Redhill Biopharma Ltd. - American Depositary Shares,Q,G,N,100.0,N,N,,RDHL,N,Healthcare,Yahoo Finance
+Y,RDNT,"RadNet, Inc. - Common Stock",Q,G,N,100.0,N,N,,RDNT,N,Healthcare,Yahoo Finance
+Y,RDY,Dr. Reddy's Laboratories Ltd Common Stock,N, ,N,100.0,N,,RDY,RDY,N,Healthcare,Yahoo Finance
+Y,REGN,"Regeneron Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,REGN,N,Healthcare,Yahoo Finance
+Y,REPL,"Replimune Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,REPL,N,Healthcare,Yahoo Finance
+Y,RGEN,Repligen Corporation - Common Stock,Q,Q,N,100.0,N,N,,RGEN,N,Healthcare,Yahoo Finance
+Y,RGNX,REGENXBIO Inc. - Common Stock,Q,Q,N,100.0,N,N,,RGNX,N,Healthcare,Yahoo Finance
+Y,RIGL,"Rigel Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,RIGL,N,Healthcare,Yahoo Finance
+Y,RLMD,"Relmada Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,N,,RLMD,N,Healthcare,Yahoo Finance
+Y,RMD,ResMed Inc. Common Stock,N, ,N,100.0,N,,RMD,RMD,N,Healthcare,Yahoo Finance
+Y,RMTI,"Rockwell Medical, Inc. - Common Stock",Q,G,N,100.0,N,N,,RMTI,N,Healthcare,Yahoo Finance
+Y,RVP,"Retractable Technologies, Inc. Common Stock",A, ,N,100.0,N,,RVP,RVP,N,Healthcare,Yahoo Finance
+Y,RYTM,"Rhythm Pharmaceuticals, Inc. - Common Stock",Q,G,N,100.0,N,N,,RYTM,N,Healthcare,Yahoo Finance
+Y,SAVA,"Cassava Sciences, Inc. - Common Stock",Q,S,N,100.0,N,N,,SAVA,N,Healthcare,Yahoo Finance
+Y,SCPH,scPharmaceuticals Inc. - Common Stock,Q,Q,N,100.0,N,N,,SCPH,N,Healthcare,Yahoo Finance
+Y,SCYX,"SCYNEXIS, Inc. - Common Stock",Q,G,N,100.0,N,N,,SCYX,N,Healthcare,Yahoo Finance
+Y,SDGR,"Schrodinger, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SDGR,N,Healthcare,Yahoo Finance
+Y,SEM,Select Medical Holdings Corporation Common Stock,N, ,N,100.0,N,,SEM,SEM,N,Healthcare,Yahoo Finance
+Y,SENS,"Senseonics Holdings, Inc. Common Stock",A, ,N,100.0,N,,SENS,SENS,N,Healthcare,Yahoo Finance
+Y,SGMO,"Sangamo Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SGMO,N,Healthcare,Yahoo Finance
+Y,SGRY,"Surgery Partners, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SGRY,N,Healthcare,Yahoo Finance
+Y,SIBN,"SI-BONE, Inc. - Common Stock",Q,G,N,100.0,N,N,,SIBN,N,Healthcare,Yahoo Finance
+Y,SIGA,SIGA Technologies Inc. - Common Stock,Q,G,N,100.0,N,N,,SIGA,N,Healthcare,Yahoo Finance
+Y,SINT,"SiNtx Technologies, Inc. - Common Stock",Q,S,N,100.0,N,D,,SINT,N,Healthcare,Yahoo Finance
+Y,SLDB,Solid Biosciences Inc. - Common Stock,Q,Q,N,100.0,N,N,,SLDB,N,Healthcare,Yahoo Finance
+Y,SLGL,Sol-Gel Technologies Ltd. - Common Stock,Q,G,N,100.0,N,N,,SLGL,N,Healthcare,Yahoo Finance
+Y,SLNO,"Soleno Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,N,,SLNO,N,Healthcare,Yahoo Finance
+Y,SLP,"Simulations Plus, Inc. - Common Stock",Q,S,N,100.0,N,N,,SLP,N,Healthcare,Yahoo Finance
+Y,SLRX,"Salarius Pharmaceuticals, Inc. - Common Stock",Q,S,N,100.0,N,N,,SLRX,N,Healthcare,Yahoo Finance
+Y,SLS,"SELLAS Life Sciences Group, Inc.  - Common Stock",Q,S,N,100.0,N,N,,SLS,N,Healthcare,Yahoo Finance
+Y,SMMT,Summit Therapeutics plc - American Depositary Shares,Q,G,N,100.0,N,N,,SMMT,N,Healthcare,Yahoo Finance
+Y,SNDX,"Syndax Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SNDX,N,Healthcare,Yahoo Finance
+Y,SNGX,"Soligenix, Inc. - Common Stock",Q,S,N,100.0,N,N,,SNGX,N,Healthcare,Yahoo Finance
+Y,SNN,"Smith & Nephew SNATS, Inc. Common Stock",N, ,N,100.0,N,,SNN,SNN,N,Healthcare,Yahoo Finance
+Y,SNOA,"Sonoma Pharmaceuticals, Inc. - Common Stock",Q,S,N,100.0,N,N,,SNOA,N,Healthcare,Yahoo Finance
+Y,SNY,Sanofi - American Depositary Shares,Q,Q,N,100.0,N,N,,SNY,N,Healthcare,Yahoo Finance
+Y,SPOK,"Spok Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SPOK,N,Healthcare,Yahoo Finance
+Y,SPRO,"Spero Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SPRO,N,Healthcare,Yahoo Finance
+Y,SRDX,"Surmodics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SRDX,N,Healthcare,Yahoo Finance
+Y,SRNE,"Sorrento Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,N,,SRNE,N,Healthcare,Yahoo Finance
+Y,SRPT,"Sarepta Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SRPT,N,Healthcare,Yahoo Finance
+Y,SRRK,Scholar Rock Holding Corporation - Common Stock,Q,Q,N,100.0,N,N,,SRRK,N,Healthcare,Yahoo Finance
+Y,SRTS,"Sensus Healthcare, Inc. - Common Stock",Q,S,N,100.0,N,N,,SRTS,N,Healthcare,Yahoo Finance
+Y,SSKN,"Strata Skin Sciences, Inc. - Common Stock",Q,S,N,100.0,N,N,,SSKN,N,Healthcare,Yahoo Finance
+Y,STAA,STAAR Surgical Company - Common Stock,Q,G,N,100.0,N,N,,STAA,N,Healthcare,Yahoo Finance
+Y,STE,STERIS plc (Ireland) Ordinary Shares,N, ,N,100.0,N,,STE,STE,N,Healthcare,Yahoo Finance
+Y,STIM,"Neuronetics, Inc. - Common Stock",Q,G,N,100.0,N,N,,STIM,N,Healthcare,Yahoo Finance
+Y,STOK,"Stoke Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,STOK,N,Healthcare,Yahoo Finance
+Y,STRO,"Sutro Biopharma, Inc. - Common Stock",Q,G,N,100.0,N,N,,STRO,N,Healthcare,Yahoo Finance
+Y,STXS,"Stereotaxis, Inc. Common Stock",A, ,N,100.0,N,,STXS,STXS,N,Healthcare,Yahoo Finance
+Y,SUPN,"Supernus Pharmaceuticals, Inc. - Common Stock",Q,G,N,100.0,N,N,,SUPN,N,Healthcare,Yahoo Finance
+Y,SVRA,"Savara, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SVRA,N,Healthcare,Yahoo Finance
+Y,SXTC,"China SXT Pharmaceuticals, Inc. - Common Stock",Q,S,N,100.0,N,D,,SXTC,N,Healthcare,Yahoo Finance
+Y,SY,So-Young International Inc. - American Depository Shares,Q,G,N,100.0,N,N,,SY,N,Healthcare,Yahoo Finance
+Y,SYBX,"Synlogic, Inc. - Common Stock",Q,G,N,100.0,N,N,,SYBX,N,Healthcare,Yahoo Finance
+Y,SYK,Stryker Corporation Common Stock,N, ,N,100.0,N,,SYK,SYK,N,Healthcare,Yahoo Finance
+Y,SYRS,"Syros Pharmaceuticals, Inc. - common stock",Q,Q,N,100.0,N,N,,SYRS,N,Healthcare,Yahoo Finance
+Y,TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock),N, ,N,100.0,N,,TAK,TAK,N,Healthcare,Yahoo Finance
+Y,TARA,"ArTara Therapeutics, Inc.  - Common Stock",Q,S,N,100.0,N,N,,TARA,N,Healthcare,Yahoo Finance
+Y,TBIO,"Translate Bio, Inc. - Common Stock",Q,Q,N,100.0,N,N,,TBIO,N,Healthcare,Yahoo Finance
+Y,TBPH,"Theravance Biopharma, Inc. - Ordinary Shares",Q,G,N,100.0,N,N,,TBPH,N,Healthcare,Yahoo Finance
+Y,TCMD,"Tactile Systems Technology, Inc. - Common Stock",Q,G,N,100.0,N,N,,TCMD,N,Healthcare,Yahoo Finance
+Y,TDOC,"Teladoc Health, Inc. Common Stock",N, ,N,100.0,N,,TDOC,TDOC,N,Healthcare,Yahoo Finance
+Y,TECH,Bio-Techne Corp - Common Stock,Q,Q,N,100.0,N,N,,TECH,N,Healthcare,Yahoo Finance
+Y,TELA,"TELA Bio, Inc. - Common stock",Q,G,N,100.0,N,N,,TELA,N,Healthcare,Yahoo Finance
+Y,TENX,"Tenax Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,N,,TENX,N,Healthcare,Yahoo Finance
+Y,TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,N, ,N,100.0,N,,TEVA,TEVA,N,Healthcare,Yahoo Finance
+Y,TFX,Teleflex Incorporated Common Stock,N, ,N,100.0,N,,TFX,TFX,N,Healthcare,Yahoo Finance
+Y,TGTX,"TG Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,N,,TGTX,N,Healthcare,Yahoo Finance
+Y,THC,Tenet Healthcare Corporation Common Stock,N, ,N,100.0,N,,THC,THC,N,Healthcare,Yahoo Finance
+Y,THMO,"ThermoGenesis Holdings, Inc. - Common Stock",Q,S,N,100.0,N,N,,THMO,N,Healthcare,Yahoo Finance
+Y,THTX,Theratechnologies Inc. - Common Shares,Q,S,N,100.0,N,N,,THTX,N,Healthcare,Yahoo Finance
+Y,TLRY,"Tilray, Inc. - Class 2 Common Stock",Q,Q,N,100.0,N,N,,TLRY,N,Healthcare,Yahoo Finance
+Y,TLSA,Tiziana Life Sciences plc - American Depository Share,Q,G,N,100.0,N,N,,TLSA,N,Healthcare,Yahoo Finance
+Y,TMDX,"TransMedics Group, Inc. - Common Stock",Q,G,N,100.0,N,N,,TMDX,N,Healthcare,Yahoo Finance
+Y,TMO,Thermo Fisher Scientific Inc Common Stock,N, ,N,100.0,N,,TMO,TMO,N,Healthcare,Yahoo Finance
+Y,TNDM,"Tandem Diabetes Care, Inc. - Common Stock",Q,G,N,100.0,N,N,,TNDM,N,Healthcare,Yahoo Finance
+Y,TNXP,Tonix Pharmaceuticals Holding Corp. - Common Stock,Q,G,N,100.0,N,N,,TNXP,N,Healthcare,Yahoo Finance
+Y,TRIB,Trinity Biotech plc - American Depositary Shares each representing 4 A Ordinary Shares,Q,Q,N,100.0,N,N,,TRIB,N,Healthcare,Yahoo Finance
+Y,TRVI,"Trevi Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,TRVI,N,Healthcare,Yahoo Finance
+Y,TRVN,"Trevena, Inc. - Common Stock",Q,S,N,100.0,N,D,,TRVN,N,Healthcare,Yahoo Finance
+Y,TTNP,"Titan Pharmaceuticals, Inc. - Common Stock",Q,S,N,100.0,N,D,,TTNP,N,Healthcare,Yahoo Finance
+Y,TTOO,"T2 Biosystems, Inc. - Common Stock",Q,G,N,100.0,N,N,,TTOO,N,Healthcare,Yahoo Finance
+Y,TWST,Twist Bioscience Corporation - Common Stock,Q,Q,N,100.0,N,N,,TWST,N,Healthcare,Yahoo Finance
+Y,TXG,"10x Genomics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,TXG,N,Healthcare,Yahoo Finance
+Y,TXMD,"TherapeuticsMD, Inc. - Common Stock",Q,Q,N,100.0,N,N,,TXMD,N,Healthcare,Yahoo Finance
+Y,UFPT,"UFP Technologies, Inc. - Common Stock",Q,S,N,100.0,N,N,,UFPT,N,Healthcare,Yahoo Finance
+Y,UHS,"Universal Health Services, Inc. Common Stock",N, ,N,100.0,N,,UHS,UHS,N,Healthcare,Yahoo Finance
+Y,UNH,UnitedHealth Group Incorporated Common Stock (DE),N, ,N,100.0,N,,UNH,UNH,N,Healthcare,Yahoo Finance
+Y,URGN,UroGen Pharma Ltd. - Ordinary Shares,Q,G,N,100.0,N,N,,URGN,N,Healthcare,Yahoo Finance
+Y,USPH,"U.S. Physical Therapy, Inc. Common Stock",N, ,N,100.0,N,,USPH,USPH,N,Healthcare,Yahoo Finance
+Y,UTHR,United Therapeutics Corporation - Common Stock,Q,Q,N,100.0,N,N,,UTHR,N,Healthcare,Yahoo Finance
+Y,UTMD,"Utah Medical Products, Inc. - Common Stock",Q,Q,N,100.0,N,N,,UTMD,N,Healthcare,Yahoo Finance
+Y,VCEL,Vericel Corporation - Common Stock,Q,S,N,100.0,N,N,,VCEL,N,Healthcare,Yahoo Finance
+Y,VCNX,"Vaccinex, Inc. - Common Stock",Q,S,N,100.0,N,N,,VCNX,N,Healthcare,Yahoo Finance
+Y,VCYT,"Veracyte, Inc. - Common Stock",Q,G,N,100.0,N,N,,VCYT,N,Healthcare,Yahoo Finance
+Y,VEEV,Veeva Systems Inc. Class A Common Stock,N, ,N,100.0,N,,VEEV,VEEV,N,Healthcare,Yahoo Finance
+Y,VERO,Venus Concept Inc.  - Common Stock,Q,G,N,100.0,N,N,,VERO,N,Healthcare,Yahoo Finance
+Y,VERU,Veru Inc. - Common Stock,Q,S,N,100.0,N,N,,VERU,N,Healthcare,Yahoo Finance
+Y,VIR,"Vir Biotechnology, Inc. - Common Stock",Q,Q,N,100.0,N,N,,VIR,N,Healthcare,Yahoo Finance
+Y,VIVE,"Viveve Medical, Inc. - Common Stock",Q,S,N,100.0,N,N,,VIVE,N,Healthcare,Yahoo Finance
+Y,VKTX,"Viking Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,N,,VKTX,N,Healthcare,Yahoo Finance
+Y,VMD,"Viemed Healthcare, Inc. - Common Shares",Q,S,N,100.0,N,N,,VMD,N,Healthcare,Yahoo Finance
+Y,VNDA,Vanda Pharmaceuticals Inc. - Common Stock,Q,G,N,100.0,N,N,,VNDA,N,Healthcare,Yahoo Finance
+Y,VNRX,VolitionRX Limited Common Stock,A, ,N,100.0,N,,VNRX,VNRX,N,Healthcare,Yahoo Finance
+Y,VRCA,Verrica Pharmaceuticals Inc. - Common Stock,Q,G,N,100.0,N,D,,VRCA,N,Healthcare,Yahoo Finance
+Y,VREX,Varex Imaging Corporation - Common Stock,Q,Q,N,100.0,N,N,,VREX,N,Healthcare,Yahoo Finance
+Y,VRNA,Verona Pharma plc - American Depositary Shares,Q,G,N,100.0,N,N,,VRNA,N,Healthcare,Yahoo Finance
+Y,VRTX,Vertex Pharmaceuticals Incorporated - Common Stock,Q,Q,N,100.0,N,N,,VRTX,N,Healthcare,Yahoo Finance
+Y,VSTM,"Verastem, Inc. - Common Stock",Q,G,N,100.0,N,N,,VSTM,N,Healthcare,Yahoo Finance
+Y,VTGN,"VistaGen Therapeutics, Inc. - Common Stock",Q,S,N,100.0,N,D,,VTGN,N,Healthcare,Yahoo Finance
+Y,VTVT,vTv Therapeutics Inc. - Class A Common Stock,Q,S,N,100.0,N,N,,VTVT,N,Healthcare,Yahoo Finance
+Y,VXRT,"Vaxart, Inc. - Common Stock",Q,S,N,100.0,N,N,,VXRT,N,Healthcare,Yahoo Finance
+Y,VYGR,"Voyager Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,VYGR,N,Healthcare,Yahoo Finance
+Y,WAT,Waters Corporation Common Stock,N, ,N,100.0,N,,WAT,WAT,N,Healthcare,Yahoo Finance
+Y,WORX,SCWorx Corp. - Common Stock,Q,S,N,100.0,N,N,,WORX,N,Healthcare,Yahoo Finance
+Y,WST,"West Pharmaceutical Services, Inc. Common Stock",N, ,N,100.0,N,,WST,WST,N,Healthcare,Yahoo Finance
+Y,WVE,Wave Life Sciences Ltd. - Ordinary Shares,Q,G,N,100.0,N,N,,WVE,N,Healthcare,Yahoo Finance
+Y,XAIR,"Beyond Air, Inc. - Common Stock",Q,S,N,100.0,N,N,,XAIR,N,Healthcare,Yahoo Finance
+Y,XBIO,"Xenetic Biosciences, Inc. - Common Stock",Q,S,N,100.0,N,N,,XBIO,N,Healthcare,Yahoo Finance
+Y,XBIOW,"Xenetic Biosciences, Inc. - Warrants",Q,S,N,100.0,N,N,,XBIOW,N,Healthcare,Yahoo Finance
+Y,XBIT,XBiotech Inc. - Common Stock,Q,Q,N,100.0,N,N,,XBIT,N,Healthcare,Yahoo Finance
+Y,XCUR,"Exicure, Inc. - Common Stock",Q,S,N,100.0,N,N,,XCUR,N,Healthcare,Yahoo Finance
+Y,XENE,Xenon Pharmaceuticals Inc. - Common Shares,Q,G,N,100.0,N,N,,XENE,N,Healthcare,Yahoo Finance
+Y,XERS,"Xeris Pharmaceuticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,XERS,N,Healthcare,Yahoo Finance
+Y,XFOR,"X4 Pharmaceuticals, Inc. - Common Stock",Q,S,N,100.0,N,N,,XFOR,N,Healthcare,Yahoo Finance
+Y,XGN,Exagen Inc. - Common Stock,Q,G,N,100.0,N,N,,XGN,N,Healthcare,Yahoo Finance
+Y,XNCR,"Xencor, Inc. - Common Stock",Q,G,N,100.0,N,N,,XNCR,N,Healthcare,Yahoo Finance
+Y,XOMA,XOMA Corporation - Common Stock,Q,G,N,100.0,N,N,,XOMA,N,Healthcare,Yahoo Finance
+Y,XRAY,DENTSPLY SIRONA Inc. - Common Stock,Q,Q,N,100.0,N,N,,XRAY,N,Healthcare,Yahoo Finance
+Y,XTLB,XTL Biopharmaceuticals Ltd. - American Depositary Shares,Q,S,N,100.0,N,N,,XTLB,N,Healthcare,Yahoo Finance
+Y,XTNT,"Xtant Medical Holdings, Inc. Common Stock",A, ,N,100.0,N,,XTNT,XTNT,N,Healthcare,Yahoo Finance
+Y,YCBD,"cbdMD, Inc. Common Stock",A, ,N,100.0,N,,YCBD,YCBD,N,Healthcare,Yahoo Finance
+Y,YI,"111, Inc. - American Depositary Shares",Q,G,N,100.0,N,N,,YI,N,Healthcare,Yahoo Finance
+Y,YMAB,"Y-mAbs Therapeutics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,YMAB,N,Healthcare,Yahoo Finance
+Y,ZBH,"Zimmer Biomet Holdings, Inc. Common Stock",N, ,N,100.0,N,,ZBH,ZBH,N,Healthcare,Yahoo Finance
+Y,ZCMD,Zhongchao Inc. - Class A Ordinary Shares,Q,S,N,100.0,N,N,,ZCMD,N,Healthcare,Yahoo Finance
+Y,ZLAB,Zai Lab Limited - American Depositary Shares,Q,G,N,100.0,N,N,,ZLAB,N,Healthcare,Yahoo Finance
+Y,ZTS,Zoetis Inc. Class A Common Stock,N, ,N,100.0,N,,ZTS,ZTS,N,Healthcare,Yahoo Finance
+Y,ZYME,Zymeworks Inc. Common Shares,N, ,N,100.0,N,,ZYME,ZYME,N,Healthcare,Yahoo Finance
+Y,ZYXI,"Zynex, Inc. - Common Stock",Q,S,N,100.0,N,N,,ZYXI,N,Healthcare,Yahoo Finance

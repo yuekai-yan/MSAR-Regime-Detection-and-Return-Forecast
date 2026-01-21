@@ -1,0 +1,188 @@
+Nasdaq Traded,Symbol,Security Name,Listing Exchange,Market Category,ETF,Round Lot Size,Test Issue,Financial Status,CQS Symbol,NASDAQ Symbol,NextShares,Industry,Source
+Y,AM,Antero Midstream Corporation Common Stock,N, ,N,100.0,N,,AM,AM,N,Energy,Yahoo Finance
+Y,AMPY,Amplify Energy Corp. Common Stock,N, ,N,100.0,N,,AMPY,AMPY,N,Energy,Yahoo Finance
+Y,APA,Apache Corporation Common Stock,N, ,N,100.0,N,,APA,APA,N,Energy,Yahoo Finance
+Y,AR,Antero Resources Corporation Common Stock,N, ,N,100.0,N,,AR,AR,N,Energy,Yahoo Finance
+Y,ARLP,"Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests",Q,Q,N,100.0,N,N,,ARLP,N,Energy,Yahoo Finance
+Y,AROC,"Archrock, Inc. Common Stock",N, ,N,100.0,N,,AROC,AROC,N,Energy,Yahoo Finance
+Y,BATL,Battalion Oil Corporation Common Stock,A, ,N,100.0,N,,BATL,BATL,N,Energy,Yahoo Finance
+Y,BKR,Baker Hughes Company Class A Common Stock,N, ,N,100.0,N,,BKR,BKR,N,Energy,Yahoo Finance
+Y,BORR,Borr Drilling Limited Common Shares,N, ,N,100.0,N,,BORR,BORR,N,Energy,Yahoo Finance
+Y,BP,BP p.l.c. Common Stock,N, ,N,100.0,N,,BP,BP,N,Energy,Yahoo Finance
+Y,BRN,"Barnwell Industries, Inc. Common Stock",A, ,N,100.0,N,,BRN,BRN,N,Energy,Yahoo Finance
+Y,BRY,Berry Corporation (bry) - Common Stock,Q,Q,N,100.0,N,N,,BRY,N,Energy,Yahoo Finance
+Y,BSM,"Black Stone Minerals, L.P. Common units representing limited partner interests",N, ,N,100.0,N,,BSM,BSM,N,Energy,Yahoo Finance
+Y,BTE,Baytex Energy Corp,N, ,N,100.0,N,,BTE,BTE,N,Energy,Yahoo Finance
+Y,BTU,Peabody Energy Corporation Common Stock ,N, ,N,100.0,N,,BTU,BTU,N,Energy,Yahoo Finance
+Y,CAPL,CrossAmerica Partners LP Common Units representing limited partner interests,N, ,N,100.0,N,,CAPL,CAPL,N,Energy,Yahoo Finance
+Y,CCJ,Cameco Corporation Common Stock,N, ,N,100.0,N,,CCJ,CCJ,N,Energy,Yahoo Finance
+Y,CKX,"CKX Lands, Inc. Common Stock",A, ,N,100.0,N,,CKX,CKX,N,Energy,Yahoo Finance
+Y,CLB,Core Laboratories N.V. Common Stock,N, ,N,100.0,N,,CLB,CLB,N,Energy,Yahoo Finance
+Y,CLNE,Clean Energy Fuels Corp. - Common Stock,Q,Q,N,100.0,N,N,,CLNE,N,Energy,Yahoo Finance
+Y,CNQ,Canadian Natural Resources Limited Common Stock,N, ,N,100.0,N,,CNQ,CNQ,N,Energy,Yahoo Finance
+Y,CNR,"Cornerstone Building Brands, Inc. Common Stock",N, ,N,100.0,N,,CNR,CNR,N,Energy,Yahoo Finance
+Y,CNX,CNX Resources Corporation Common Stock,N, ,N,100.0,N,,CNX,CNX,N,Energy,Yahoo Finance
+Y,COP,ConocoPhillips Common Stock,N, ,N,100.0,N,,COP,COP,N,Energy,Yahoo Finance
+Y,CQP,"Cheniere Energy Partners, LP Cheniere Energy Partners, LP Common Units",A, ,N,100.0,N,,CQP,CQP,N,Energy,Yahoo Finance
+Y,CRC,California Resources Corporation Common Stock,N, ,N,100.0,N,,CRC,CRC,N,Energy,Yahoo Finance
+Y,CRK,"Comstock Resources, Inc. Common Stock",N, ,N,100.0,N,,CRK,CRK,N,Energy,Yahoo Finance
+Y,CRT,Cross Timbers Royalty Trust Common Stock,N, ,N,100.0,N,,CRT,CRT,N,Energy,Yahoo Finance
+Y,CTRA,"Contura Energy, Inc. Common Stock",N, ,N,100.0,N,,CTRA,CTRA,N,Energy,Yahoo Finance
+Y,CVE,Cenovus Energy Inc Common Stock,N, ,N,100.0,N,,CVE,CVE,N,Energy,Yahoo Finance
+Y,CVI,CVR Energy Inc. Common Stock,N, ,N,100.0,N,,CVI,CVI,N,Energy,Yahoo Finance
+Y,CVX,Chevron Corporation Common Stock,N, ,N,100.0,N,,CVX,CVX,N,Energy,Yahoo Finance
+Y,DHT,"DHT Holdings, Inc.",N, ,N,100.0,N,,DHT,DHT,N,Energy,Yahoo Finance
+Y,DK,"Delek US Holdings, Inc. Common Stock",N, ,N,100.0,N,,DK,DK,N,Energy,Yahoo Finance
+Y,DKL,"Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests",N, ,N,100.0,N,,DKL,DKL,N,Energy,Yahoo Finance
+Y,DLNG,Dynagas LNG Partners LP Common Units,N, ,N,100.0,N,,DLNG,DLNG,N,Energy,Yahoo Finance
+Y,DMLP,"Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests",Q,Q,N,100.0,N,N,,DMLP,N,Energy,Yahoo Finance
+Y,DNN,Denison Mines Corp Ordinary Shares (Canada),A, ,N,100.0,N,,DNN,DNN,N,Energy,Yahoo Finance
+Y,DVN,Devon Energy Corporation Common Stock,N, ,N,100.0,N,,DVN,DVN,N,Energy,Yahoo Finance
+Y,DWSN,Dawson Geophysical Company - Common Stock,Q,Q,N,100.0,N,N,,DWSN,N,Energy,Yahoo Finance
+Y,E,ENI S.p.A. Common Stock,N, ,N,100.0,N,,E,E,N,Energy,Yahoo Finance
+Y,EC,Ecopetrol S.A. American Depositary Shares,N, ,N,100.0,N,,EC,EC,N,Energy,Yahoo Finance
+Y,EE,El Paso Electric Company Common Stock,N, ,N,100.0,N,,EE,EE,N,Energy,Yahoo Finance
+Y,EGY,"VAALCO Energy, Inc.  Common Stock",N, ,N,100.0,N,,EGY,EGY,N,Energy,Yahoo Finance
+Y,ENB,Enbridge Inc Common Stock,N, ,N,100.0,N,,ENB,ENB,N,Energy,Yahoo Finance
+Y,ENSV,Enservco Corporation Common Stock,A, ,N,100.0,N,,ENSV,ENSV,N,Energy,Yahoo Finance
+Y,EOG,"EOG Resources, Inc. Common Stock",N, ,N,100.0,N,,EOG,EOG,N,Energy,Yahoo Finance
+Y,EPD,Enterprise Products Partners L.P. Common Stock,N, ,N,100.0,N,,EPD,EPD,N,Energy,Yahoo Finance
+Y,EPM,"Evolution Petroleum Corporation, Inc. Common Stock",A, ,N,100.0,N,,EPM,EPM,N,Energy,Yahoo Finance
+Y,EPSN,Epsilon Energy Ltd. - Common Shares,Q,G,N,100.0,N,N,,EPSN,N,Energy,Yahoo Finance
+Y,EQNR,Equinor ASA,N, ,N,100.0,N,,EQNR,EQNR,N,Energy,Yahoo Finance
+Y,EQT,EQT Corporation Common Stock,N, ,N,100.0,N,,EQT,EQT,N,Energy,Yahoo Finance
+Y,ET,Energy Transfer LP Common Units ,N, ,N,100.0,N,,ET,ET,N,Energy,Yahoo Finance
+Y,FANG,"Diamondback Energy, Inc. - Commmon Stock",Q,Q,N,100.0,N,N,,FANG,N,Energy,Yahoo Finance
+Y,FET,"Forum Energy Technologies, Inc. Common Stock",N, ,N,100.0,N,,FET,FET,N,Energy,Yahoo Finance
+Y,FLNG,FLEX LNG Ltd. Ordinary Shares,N, ,N,100.0,N,,FLNG,FLNG,N,Energy,Yahoo Finance
+Y,FRO,Frontline Ltd. Ordinary Shares,N, ,N,100.0,N,,FRO,FRO,N,Energy,Yahoo Finance
+Y,FTI,TechnipFMC plc Ordinary Share,N, ,N,100.0,N,,FTI,FTI,N,Energy,Yahoo Finance
+Y,FTK,"Flotek Industries, Inc. Common Stock",N, ,N,100.0,N,,FTK,FTK,N,Energy,Yahoo Finance
+Y,GEL,"Genesis Energy, L.P. Common Units",N, ,N,100.0,N,,GEL,GEL,N,Energy,Yahoo Finance
+Y,GEOS,Geospace Technologies Corporation - Common Stock,Q,Q,N,100.0,N,N,,GEOS,N,Energy,Yahoo Finance
+Y,GLNG,Golar LNG Limited - Common Shares,Q,Q,N,100.0,N,N,,GLNG,N,Energy,Yahoo Finance
+Y,GLP,Global Partners LP Global Partners LP Common Units representing Limited Partner Interests,N, ,N,100.0,N,,GLP,GLP,N,Energy,Yahoo Finance
+Y,GPOR,Gulfport Energy Corporation - Common Stock,Q,Q,N,100.0,N,N,,GPOR,N,Energy,Yahoo Finance
+Y,GPRK,Geopark Ltd Common Shares,N, ,N,100.0,N,,GPRK,GPRK,N,Energy,Yahoo Finance
+Y,GTE,Gran Tierra Energy Inc. Common Stock,A, ,N,100.0,N,,GTE,GTE,N,Energy,Yahoo Finance
+Y,HAL,Halliburton Company Common Stock,N, ,N,100.0,N,,HAL,HAL,N,Energy,Yahoo Finance
+Y,HESM,Hess Midstream LP Class A Share,N, ,N,100.0,N,,HESM,HESM,N,Energy,Yahoo Finance
+Y,HLX,"Helix Energy Solutions Group, Inc. Common Stock",N, ,N,100.0,N,,HLX,HLX,N,Energy,Yahoo Finance
+Y,HNRG,Hallador Energy Company - Common Stock,Q,S,N,100.0,N,N,,HNRG,N,Energy,Yahoo Finance
+Y,HP,"Helmerich & Payne, Inc. Common Stock",N, ,N,100.0,N,,HP,HP,N,Energy,Yahoo Finance
+Y,HUSA,Houston American Energy Corporation Common Stock,A, ,N,100.0,N,,HUSA,HUSA,N,Energy,Yahoo Finance
+Y,IEP,Icahn Enterprises L.P. - Depositary units,Q,Q,N,100.0,N,N,,IEP,N,Energy,Yahoo Finance
+Y,IMO,Imperial Oil Limited Common Stock,A, ,N,100.0,N,,IMO,IMO,N,Energy,Yahoo Finance
+Y,INDO,Indonesia Energy Corporation Limited Ordinary Shares,A, ,N,100.0,N,,INDO,INDO,N,Energy,Yahoo Finance
+Y,INSW,"International Seaways, Inc. Common Stock ",N, ,N,100.0,N,,INSW,INSW,N,Energy,Yahoo Finance
+Y,KLXE,"KLX Energy Services Holdings, Inc.  - Common Stock",Q,Q,N,100.0,N,N,,KLXE,N,Energy,Yahoo Finance
+Y,KMI,"Kinder Morgan, Inc. Common Stock",N, ,N,100.0,N,,KMI,KMI,N,Energy,Yahoo Finance
+Y,KNOP,KNOT Offshore Partners LP Common Units representing Limited Partner Interests,N, ,N,100.0,N,,KNOP,KNOP,N,Energy,Yahoo Finance
+Y,KOS,Kosmos Energy Ltd. Common Shares (DE),N, ,N,100.0,N,,KOS,KOS,N,Energy,Yahoo Finance
+Y,KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,N, ,N,100.0,N,,KRP,KRP,N,Energy,Yahoo Finance
+Y,LB,"L Brands, Inc.",N, ,N,100.0,N,,LB,LB,N,Energy,Yahoo Finance
+Y,LBRT,Liberty Oilfield Services Inc. Class A Common Stock,N, ,N,100.0,N,,LBRT,LBRT,N,Energy,Yahoo Finance
+Y,LEU,Centrus Energy Corp. Class A Common Stock,A, ,N,100.0,N,,LEU,LEU,N,Energy,Yahoo Finance
+Y,LNG,"Cheniere Energy, Inc. Common Stock",A, ,N,100.0,N,,LNG,LNG,N,Energy,Yahoo Finance
+Y,LPG,Dorian LPG Ltd. Common Stock,N, ,N,100.0,N,,LPG,LPG,N,Energy,Yahoo Finance
+Y,MARPS,Marine Petroleum Trust - Units of Beneficial Interest,Q,S,N,100.0,N,N,,MARPS,N,Energy,Yahoo Finance
+Y,MGY,Magnolia Oil & Gas Corporation Class A Common Stock,N, ,N,100.0,N,,MGY,MGY,N,Energy,Yahoo Finance
+Y,MMLP,Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests,Q,Q,N,100.0,N,N,,MMLP,N,Energy,Yahoo Finance
+Y,MNR,Monmouth Real Estate Investment Corporation Class A Common Stock,N, ,N,100.0,N,,MNR,MNR,N,Energy,Yahoo Finance
+Y,MPC,Marathon Petroleum Corporation Common Stock,N, ,N,100.0,N,,MPC,MPC,N,Energy,Yahoo Finance
+Y,MPLX,MPLX LP Common Units Representing Limited Partner Interests,N, ,N,100.0,N,,MPLX,MPLX,N,Energy,Yahoo Finance
+Y,MRC,MRC Global Inc. Common Stock,N, ,N,100.0,N,,MRC,MRC,N,Energy,Yahoo Finance
+Y,MTDR,Matador Resources Company Common Stock,N, ,N,100.0,N,,MTDR,MTDR,N,Energy,Yahoo Finance
+Y,MTR,Mesa Royalty Trust Common Stock,N, ,N,100.0,N,,MTR,MTR,N,Energy,Yahoo Finance
+Y,MUR,Murphy Oil Corporation Common Stock,N, ,N,100.0,N,,MUR,MUR,N,Energy,Yahoo Finance
+Y,MVO,MV Oil Trust Units of Beneficial Interests,N, ,N,100.0,N,,MVO,MVO,N,Energy,Yahoo Finance
+Y,MXC,Mexco Energy Corporation Common Stock,A, ,N,100.0,N,,MXC,MXC,N,Energy,Yahoo Finance
+Y,NAT,Nordic American Tankers Limited Common Stock,N, ,N,100.0,N,,NAT,NAT,N,Energy,Yahoo Finance
+Y,NBR,Nabors Industries Ltd.,N, ,N,100.0,N,,NBR,NBR,N,Energy,Yahoo Finance
+Y,NC,"NACCO Industries, Inc. Common Stock",N, ,N,100.0,N,,NC,NC,N,Energy,Yahoo Finance
+Y,NCSM,"NCS Multistage Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,NCSM,N,Energy,Yahoo Finance
+Y,NE,Noble Corporation Ordinary Shares (UK),N, ,N,100.0,N,,NE,NE,N,Energy,Yahoo Finance
+Y,NESR,National Energy Services Reunited Corp. - Ordinary Shares,Q,S,N,100.0,N,N,,NESR,N,Energy,Yahoo Finance
+Y,NEXT,NextDecade Corporation - Common Stock,Q,S,N,100.0,N,N,,NEXT,N,Energy,Yahoo Finance
+Y,NFE,New Fortress Energy LLC - Class A Shares Representing Limited Liability Company Interests.,Q,Q,N,100.0,N,N,,NFE,N,Energy,Yahoo Finance
+Y,NFG,National Fuel Gas Company Common Stock,N, ,N,100.0,N,,NFG,NFG,N,Energy,Yahoo Finance
+Y,NGL,NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests,N, ,N,100.0,N,,NGL,NGL,N,Energy,Yahoo Finance
+Y,NGS,"Natural Gas Services Group, Inc. Common Stock",N, ,N,100.0,N,,NGS,NGS,N,Energy,Yahoo Finance
+Y,NINE,"Nine Energy Service, Inc. Common Stock",N, ,N,100.0,N,,NINE,NINE,N,Energy,Yahoo Finance
+Y,NOA,North American Construction Group Ltd. Common Shares (no par),N, ,N,100.0,N,,NOA,NOA,N,Energy,Yahoo Finance
+Y,NOG,"Northern Oil and Gas, Inc. Common Stock",A, ,N,100.0,N,,NOG,NOG,N,Energy,Yahoo Finance
+Y,NOV,"National Oilwell Varco, Inc. Common Stock",N, ,N,100.0,N,,NOV,NOV,N,Energy,Yahoo Finance
+Y,NRP,Natural Resource Partners LP Limited Partnership,N, ,N,100.0,N,,NRP,NRP,N,Energy,Yahoo Finance
+Y,NRT,North European Oil Royality Trust Common Stock,N, ,N,100.0,N,,NRT,NRT,N,Energy,Yahoo Finance
+Y,NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),N, ,N,100.0,N,,NVGS,NVGS,N,Energy,Yahoo Finance
+Y,NXE,Nexgen Energy Ltd. Common Shares,A, ,N,100.0,N,,NXE,NXE,N,Energy,Yahoo Finance
+Y,OII,"Oceaneering International, Inc. Common Stock",N, ,N,100.0,N,,OII,OII,N,Energy,Yahoo Finance
+Y,OIS,"Oil States International, Inc. Common Stock",N, ,N,100.0,N,,OIS,OIS,N,Energy,Yahoo Finance
+Y,OKE,"ONEOK, Inc. Common Stock",N, ,N,100.0,N,,OKE,OKE,N,Energy,Yahoo Finance
+Y,OVV,Ovintiv Inc. (DE),N, ,N,100.0,N,,OVV,OVV,N,Energy,Yahoo Finance
+Y,OXY,Occidental Petroleum Corporation Common Stock,N, ,N,100.0,N,,OXY,OXY,N,Energy,Yahoo Finance
+Y,PAA,"Plains All American Pipeline, L.P. Common Stock",N, ,N,100.0,N,,PAA,PAA,N,Energy,Yahoo Finance
+Y,PAGP,"Plains Group Holdings, L.P. Class A Shares representing limited partner interests",N, ,N,100.0,N,,PAGP,PAGP,N,Energy,Yahoo Finance
+Y,PARR,"Par Pacific Holdings, Inc.  Common Stock",N, ,N,100.0,N,,PARR,PARR,N,Energy,Yahoo Finance
+Y,PBA,Pembina Pipeline Corp. Ordinary Shares (Canada),N, ,N,100.0,N,,PBA,PBA,N,Energy,Yahoo Finance
+Y,PBF,PBF Energy Inc. Class A Common Stock,N, ,N,100.0,N,,PBF,PBF,N,Energy,Yahoo Finance
+Y,PBR,Petroleo Brasileiro S.A.- Petrobras Common Stock,N, ,N,100.0,N,,PBR,PBR,N,Energy,Yahoo Finance
+Y,PBT,Permian Basin Royalty Trust Common Stock,N, ,N,100.0,N,,PBT,PBT,N,Energy,Yahoo Finance
+Y,PDS,Precision Drilling Corporation Common Stock,N, ,N,100.0,N,,PDS,PDS,N,Energy,Yahoo Finance
+Y,PED,Pedevco Corp. Common Stock,A, ,N,100.0,N,,PED,PED,N,Energy,Yahoo Finance
+Y,PNRG,PrimeEnergy Resources Corporation - Common Stock,Q,S,N,100.0,N,N,,PNRG,N,Energy,Yahoo Finance
+Y,PRT,PermRock Royalty Trust Trust Units,N, ,N,100.0,N,,PRT,PRT,N,Energy,Yahoo Finance
+Y,PSX,Phillips 66 Common Stock,N, ,N,100.0,N,,PSX,PSX,N,Energy,Yahoo Finance
+Y,PTEN,"Patterson-UTI Energy, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PTEN,N,Energy,Yahoo Finance
+Y,PUMP,ProPetro Holding Corp. Common Stock,N, ,N,100.0,N,,PUMP,PUMP,N,Energy,Yahoo Finance
+Y,PVL,Permianville Royalty Trust Trust Units ,N, ,N,100.0,N,,PVL,PVL,N,Energy,Yahoo Finance
+Y,PXS,Pyxis Tankers Inc. - Common Stock,Q,S,N,100.0,N,N,,PXS,N,Energy,Yahoo Finance
+Y,RCON,"Recon Technology, Ltd. - Ordinary Shares",Q,S,N,100.0,N,N,,RCON,N,Energy,Yahoo Finance
+Y,REI,"Ring Energy, Inc. Common Stock",A, ,N,100.0,N,,REI,REI,N,Energy,Yahoo Finance
+Y,RES,"RPC, Inc. Common Stock",N, ,N,100.0,N,,RES,RES,N,Energy,Yahoo Finance
+Y,RIG,Transocean Ltd (Switzerland) Common Stock,N, ,N,100.0,N,,RIG,RIG,N,Energy,Yahoo Finance
+Y,RNGR,"Ranger Energy Services, Inc. Class A Common Stock",N, ,N,100.0,N,,RNGR,RNGR,N,Energy,Yahoo Finance
+Y,RRC,Range Resources Corporation Common Stock,N, ,N,100.0,N,,RRC,RRC,N,Energy,Yahoo Finance
+Y,SBR,Sabine Royalty Trust Common Stock,N, ,N,100.0,N,,SBR,SBR,N,Energy,Yahoo Finance
+Y,SD,"SandRidge Energy, Inc. Common Stock",N, ,N,100.0,N,,SD,SD,N,Energy,Yahoo Finance
+Y,SDRL,Seadrill Limited Common Stock,N, ,N,100.0,N,,SDRL,SDRL,N,Energy,Yahoo Finance
+Y,SGU,Star Group L.P. Common Stock,N, ,N,100.0,N,,SGU,SGU,N,Energy,Yahoo Finance
+Y,SJT,San Juan Basin Royalty Trust Common Stock,N, ,N,100.0,N,,SJT,SJT,N,Energy,Yahoo Finance
+Y,SLB,Schlumberger N.V. Common Stock,N, ,N,100.0,N,,SLB,SLB,N,Energy,Yahoo Finance
+Y,SM,SM Energy Company Common Stock,N, ,N,100.0,N,,SM,SM,N,Energy,Yahoo Finance
+Y,SND,"Smart Sand, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SND,N,Energy,Yahoo Finance
+Y,STNG,Scorpio Tankers Inc. Common Shares,N, ,N,100.0,N,,STNG,STNG,N,Energy,Yahoo Finance
+Y,SU,Suncor Energy  Inc. Common Stock,N, ,N,100.0,N,,SU,SU,N,Energy,Yahoo Finance
+Y,SUN,Sunoco LP Common Units representing limited partner interests,N, ,N,100.0,N,,SUN,SUN,N,Energy,Yahoo Finance
+Y,TALO,"Talos Energy, Inc. Common Stock",N, ,N,100.0,N,,TALO,TALO,N,Energy,Yahoo Finance
+Y,TDW,Tidewater Inc. Common Stock,N, ,N,100.0,N,,TDW,TDW,N,Energy,Yahoo Finance
+Y,TEN,Tenneco Inc. Class A Voting Common Stock,N, ,N,100.0,N,,TEN,TEN,N,Energy,Yahoo Finance
+Y,TGS,Transportadora de Gas del Sur SA TGS Common Stock,N, ,N,100.0,N,,TGS,TGS,N,Energy,Yahoo Finance
+Y,TK,Teekay Corporation Common Stock,N, ,N,100.0,N,,TK,TK,N,Energy,Yahoo Finance
+Y,TNK,Teekay Tankers Ltd.,N, ,N,100.0,N,,TNK,TNK,N,Energy,Yahoo Finance
+Y,TOPS,TOP Ships Inc. - Common Stock,Q,S,N,100.0,N,D,,TOPS,N,Energy,Yahoo Finance
+Y,TPL,Texas Pacific Land Trust Common Stock,N, ,N,100.0,N,,TPL,TPL,N,Energy,Yahoo Finance
+Y,TRGP,"Targa Resources, Inc. Common Stock",N, ,N,100.0,N,,TRGP,TRGP,N,Energy,Yahoo Finance
+Y,TRMD,TORM plc - Class A Common Stock,Q,Q,N,100.0,N,N,,TRMD,N,Energy,Yahoo Finance
+Y,TRP,TC Energy Corporation Common Stock,N, ,N,100.0,N,,TRP,TRP,N,Energy,Yahoo Finance
+Y,TS,Tenaris S.A. American Depositary Shares,N, ,N,100.0,N,,TS,TS,N,Energy,Yahoo Finance
+Y,UEC,Uranium Energy Corp. Common Stock,A, ,N,100.0,N,,UEC,UEC,N,Energy,Yahoo Finance
+Y,UGP,Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share),N, ,N,100.0,N,,UGP,UGP,N,Energy,Yahoo Finance
+Y,URG,Ur Energy Inc Common Shares (Canada),A, ,N,100.0,N,,URG,URG,N,Energy,Yahoo Finance
+Y,USAC,"USA Compression Partners, LP Common Units Representing Limited Partner Interests",N, ,N,100.0,N,,USAC,USAC,N,Energy,Yahoo Finance
+Y,USEG,U.S. Energy Corp. - Common Stock,Q,S,N,100.0,N,N,,USEG,N,Energy,Yahoo Finance
+Y,UUUU,Energy Fuels Inc Ordinary Shares (Canada),A, ,N,100.0,N,,UUUU,UUUU,N,Energy,Yahoo Finance
+Y,VAL,Valaris plc Class A Ordinary Shares,N, ,N,100.0,N,,VAL,VAL,N,Energy,Yahoo Finance
+Y,VET,Vermilion Energy Inc. Common (Canada),N, ,N,100.0,N,,VET,VET,N,Energy,Yahoo Finance
+Y,VG,Vonage Holdings Corp. - Common Stock,Q,Q,N,100.0,N,N,,VG,N,Energy,Yahoo Finance
+Y,VIST,"Vista Oil & Gas, S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value",N, ,N,100.0,N,,VIST,VIST,N,Energy,Yahoo Finance
+Y,VLO,Valero Energy Corporation Common Stock,N, ,N,100.0,N,,VLO,VLO,N,Energy,Yahoo Finance
+Y,VNOM,Viper Energy Partners LP - Common Unit,Q,Q,N,100.0,N,N,,VNOM,N,Energy,Yahoo Finance
+Y,VOC,VOC Energy Trust Units of Beneficial Interest,N, ,N,100.0,N,,VOC,VOC,N,Energy,Yahoo Finance
+Y,WES,"Western Midstream Partners, LP Common Units Representing Limited Partner Interests",N, ,N,100.0,N,,WES,WES,N,Energy,Yahoo Finance
+Y,WHD,"Cactus, Inc. Class A Common Stock",N, ,N,100.0,N,,WHD,WHD,N,Energy,Yahoo Finance
+Y,WMB,"Williams Companies, Inc. (The) Common Stock",N, ,N,100.0,N,,WMB,WMB,N,Energy,Yahoo Finance
+Y,WTI,"W&T Offshore, Inc. Common Stock",N, ,N,100.0,N,,WTI,WTI,N,Energy,Yahoo Finance
+Y,WTTR,"Select Energy Services, Inc. Class A Common Stock",N, ,N,100.0,N,,WTTR,WTTR,N,Energy,Yahoo Finance
+Y,XOM,Exxon Mobil Corporation Common Stock,N, ,N,100.0,N,,XOM,XOM,N,Energy,Yahoo Finance
+Y,YPF,YPF Sociedad Anonima Common Stock,N, ,N,100.0,N,,YPF,YPF,N,Energy,Yahoo Finance

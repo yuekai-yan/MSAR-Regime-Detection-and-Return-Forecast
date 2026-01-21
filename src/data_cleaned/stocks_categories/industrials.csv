@@ -1,0 +1,421 @@
+Nasdaq Traded,Symbol,Security Name,Listing Exchange,Market Category,ETF,Round Lot Size,Test Issue,Financial Status,CQS Symbol,NASDAQ Symbol,NextShares,Industry,Source
+Y,AAL,"American Airlines Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AAL,N,Industrials,Yahoo Finance
+Y,AAON,"AAON, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AAON,N,Industrials,Yahoo Finance
+Y,ABM,ABM Industries Incorporated Common Stock,N, ,N,100.0,N,,ABM,ABM,N,Industrials,Yahoo Finance
+Y,ACA,"Arcosa, Inc. Common Stock ",N, ,N,100.0,N,,ACA,ACA,N,Industrials,Yahoo Finance
+Y,ACCO,Acco Brands Corporation Common Stock,N, ,N,100.0,N,,ACCO,ACCO,N,Industrials,Yahoo Finance
+Y,ACM,AECOM Common Stock,N, ,N,100.0,N,,ACM,ACM,N,Industrials,Yahoo Finance
+Y,ACTG,Acacia Research Corporation - Common Stock,Q,Q,N,100.0,N,N,,ACTG,N,Industrials,Yahoo Finance
+Y,ADT,ADT Inc. Common Stock,N, ,N,100.0,N,,ADT,ADT,N,Industrials,Yahoo Finance
+Y,AEIS,"Advanced Energy Industries, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AEIS,N,Industrials,Yahoo Finance
+Y,AER,AerCap Holdings N.V. Ordinary Shares,N, ,N,100.0,N,,AER,AER,N,Industrials,Yahoo Finance
+Y,AGCO,AGCO Corporation Common Stock,N, ,N,100.0,N,,AGCO,AGCO,N,Industrials,Yahoo Finance
+Y,AGX,"Argan, Inc. Common Stock",N, ,N,100.0,N,,AGX,AGX,N,Industrials,Yahoo Finance
+Y,AIHS,Senmiao Technology Limited - Common Stock,Q,S,N,100.0,N,D,,AIHS,N,Industrials,Yahoo Finance
+Y,AIR,AAR Corp. Common Stock,N, ,N,100.0,N,,AIR,AIR,N,Industrials,Yahoo Finance
+Y,AIRI,Air Industries Group Common Stock,A, ,N,100.0,N,,AIRI,AIRI,N,Industrials,Yahoo Finance
+Y,AIRT,"Air T, Inc. - Common Stock",Q,G,N,100.0,N,N,,AIRT,N,Industrials,Yahoo Finance
+Y,AIRTP,"Air T, Inc. - Trust Preferred Securities",Q,G,N,100.0,N,N,,AIRTP,N,Industrials,Yahoo Finance
+Y,AIT,"Applied Industrial Technologies, Inc. Common Stock",N, ,N,100.0,N,,AIT,AIT,N,Industrials,Yahoo Finance
+Y,AL,Air Lease Corporation Class A Common Stock,N, ,N,100.0,N,,AL,AL,N,Industrials,Yahoo Finance
+Y,ALG,"Alamo Group, Inc. Common Stock",N, ,N,100.0,N,,ALG,ALG,N,Industrials,Yahoo Finance
+Y,ALGT,Allegiant Travel Company - Common Stock,Q,Q,N,100.0,N,N,,ALGT,N,Industrials,Yahoo Finance
+Y,ALK,"Alaska Air Group, Inc. Common Stock",N, ,N,100.0,N,,ALK,ALK,N,Industrials,Yahoo Finance
+Y,ALLE,Allegion plc Ordinary Shares,N, ,N,100.0,N,,ALLE,ALLE,N,Industrials,Yahoo Finance
+Y,ALTG,Alta Equipment Group Inc. Class A Common Stock,N, ,N,100.0,N,,ALTG,ALTG,N,Industrials,Yahoo Finance
+Y,AME,"AMETEK, Inc.",N, ,N,100.0,N,,AME,AME,N,Industrials,Yahoo Finance
+Y,AMRC,"Ameresco, Inc. Class A Common Stock",N, ,N,100.0,N,,AMRC,AMRC,N,Industrials,Yahoo Finance
+Y,AMSC,American Superconductor Corporation - Common Stock,Q,Q,N,100.0,N,N,,AMSC,N,Industrials,Yahoo Finance
+Y,AOS,A.O. Smith Corporation Common Stock,N, ,N,100.0,N,,AOS,AOS,N,Industrials,Yahoo Finance
+Y,AP,Ampco-Pittsburgh Corporation Common Stock,N, ,N,100.0,N,,AP,AP,N,Industrials,Yahoo Finance
+Y,APOG,"Apogee Enterprises, Inc. - Common Stock",Q,Q,N,100.0,N,N,,APOG,N,Industrials,Yahoo Finance
+Y,APT,"Alpha Pro Tech, Ltd. Common Stock",A, ,N,100.0,N,,APT,APT,N,Industrials,Yahoo Finance
+Y,APWC,"Asia Pacific Wire & Cable Corporation Limited - Common shares, Par value .01 per share",Q,G,N,100.0,N,D,,APWC,N,Industrials,Yahoo Finance
+Y,AQMS,"Aqua Metals, Inc. - Common Stock",Q,S,N,100.0,N,D,,AQMS,N,Industrials,Yahoo Finance
+Y,ARCB,ArcBest Corporation - Common Stock,Q,Q,N,100.0,N,N,,ARCB,N,Industrials,Yahoo Finance
+Y,ARLO,"Arlo Technologies, Inc. Common Stock",N, ,N,100.0,N,,ARLO,ARLO,N,Industrials,Yahoo Finance
+Y,ARMK,Aramark Common Stock,N, ,N,100.0,N,,ARMK,ARMK,N,Industrials,Yahoo Finance
+Y,ARTW,"Art's-Way Manufacturing Co., Inc. - Common Stock",Q,S,N,100.0,N,N,,ARTW,N,Industrials,Yahoo Finance
+Y,ASC,Ardmore Shipping Corporation Common Stock,N, ,N,100.0,N,,ASC,ASC,N,Industrials,Yahoo Finance
+Y,ASPN,"Aspen Aerogels, Inc. Common Stock",N, ,N,100.0,N,,ASPN,ASPN,N,Industrials,Yahoo Finance
+Y,ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock",N, ,N,100.0,N,,ASR,ASR,N,Industrials,Yahoo Finance
+Y,ASTE,"Astec Industries, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ASTE,N,Industrials,Yahoo Finance
+Y,ATI,Allegheny Technologies Incorporated Common Stock,N, ,N,100.0,N,,ATI,ATI,N,Industrials,Yahoo Finance
+Y,ATKR,Atkore International Group Inc. Common Stock,N, ,N,100.0,N,,ATKR,ATKR,N,Industrials,Yahoo Finance
+Y,ATRO,Astronics Corporation - Common Stock,Q,Q,N,100.0,N,N,,ATRO,N,Industrials,Yahoo Finance
+Y,AVAV,"AeroVironment, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AVAV,N,Industrials,Yahoo Finance
+Y,AWI,Armstrong World Industries Inc Common Stock,N, ,N,100.0,N,,AWI,AWI,N,Industrials,Yahoo Finance
+Y,AWX,Avalon Holdings Corporation Common Stock,A, ,N,100.0,N,,AWX,AWX,N,Industrials,Yahoo Finance
+Y,AYI,"Acuity Brands, Inc. ",N, ,N,100.0,N,,AYI,AYI,N,Industrials,Yahoo Finance
+Y,AZZ,AZZ Inc.,N, ,N,100.0,N,,AZZ,AZZ,N,Industrials,Yahoo Finance
+Y,BA,Boeing Company (The) Common Stock,N, ,N,100.0,N,,BA,BA,N,Industrials,Yahoo Finance
+Y,BAH,Booz Allen Hamilton Holding Corporation Common Stock,N, ,N,100.0,N,,BAH,BAH,N,Industrials,Yahoo Finance
+Y,BBCP,"Concrete Pumping Holdings, Inc.  - Common Stock",Q,S,N,100.0,N,N,,BBCP,N,Industrials,Yahoo Finance
+Y,BBSI,"Barrett Business Services, Inc. - Common Stock",Q,Q,N,100.0,N,N,,BBSI,N,Industrials,Yahoo Finance
+Y,BBU,Brookfield Business Partners L.P. Limited Partnership Units ,N, ,N,100.0,N,,BBU,BBU,N,Industrials,Yahoo Finance
+Y,BCO,Brinks Company (The) Common Stock,N, ,N,100.0,N,,BCO,BCO,N,Industrials,Yahoo Finance
+Y,BE,Bloom Energy Corporation Class A Common Stock,N, ,N,100.0,N,,BE,BE,N,Industrials,Yahoo Finance
+Y,BGSF,BG Staffing Inc Common Stock,N, ,N,100.0,N,,BGSF,BGSF,N,Industrials,Yahoo Finance
+Y,BKYI,"BIO-key International, Inc. - Common Stock",Q,S,N,100.0,N,D,,BKYI,N,Industrials,Yahoo Finance
+Y,BLBD,Blue Bird Corporation - Common Stock,Q,G,N,100.0,N,N,,BLBD,N,Industrials,Yahoo Finance
+Y,BLD,TopBuild Corp. Common Stock,N, ,N,100.0,N,,BLD,BLD,N,Industrials,Yahoo Finance
+Y,BLDP,"Ballard Power Systems, Inc. - Common Shares",Q,G,N,100.0,N,N,,BLDP,N,Industrials,Yahoo Finance
+Y,BLDR,"Builders FirstSource, Inc. - Common Stock",Q,Q,N,100.0,N,N,,BLDR,N,Industrials,Yahoo Finance
+Y,BLNK,Blink Charging Co. - Common Stock,Q,S,N,100.0,N,N,,BLNK,N,Industrials,Yahoo Finance
+Y,BOOM,DMC Global Inc. - Common Stock,Q,Q,N,100.0,N,N,,BOOM,N,Industrials,Yahoo Finance
+Y,BRC,Brady Corporation Common Stock,N, ,N,100.0,N,,BRC,BRC,N,Industrials,Yahoo Finance
+Y,BV,"BrightView Holdings, Inc. Common Stock",N, ,N,100.0,N,,BV,BV,N,Industrials,Yahoo Finance
+Y,BW,"Babcock & Wilcox Enterprises, Inc. Common Stock",N, ,N,100.0,N,,BW,BW,N,Industrials,Yahoo Finance
+Y,BWEN,"Broadwind Energy, Inc. - Common Stock",Q,S,N,100.0,N,N,,BWEN,N,Industrials,Yahoo Finance
+Y,BWXT,"BWX Technologies, Inc. Common Stock",N, ,N,100.0,N,,BWXT,BWXT,N,Industrials,Yahoo Finance
+Y,BXC,Bluelinx Holdings Inc. Common Stock,N, ,N,100.0,N,,BXC,BXC,N,Industrials,Yahoo Finance
+Y,CAAP,Corporacion America Airports SA Common Shares,N, ,N,100.0,N,,CAAP,CAAP,N,Industrials,Yahoo Finance
+Y,CAE,CAE Inc. Ordinary Shares,N, ,N,100.0,N,,CAE,CAE,N,Industrials,Yahoo Finance
+Y,CAR,"Avis Budget Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CAR,N,Industrials,Yahoo Finance
+Y,CASS,"Cass Information Systems, Inc - Common Stock",Q,Q,N,100.0,N,N,,CASS,N,Industrials,Yahoo Finance
+Y,CAT,"Caterpillar, Inc. Common Stock",N, ,N,100.0,N,,CAT,CAT,N,Industrials,Yahoo Finance
+Y,CBAT,"CBAK Energy Technology, Inc. - Common Stock",Q,S,N,100.0,N,D,,CBAT,N,Industrials,Yahoo Finance
+Y,CBZ,"CBIZ, Inc. Common Stock",N, ,N,100.0,N,,CBZ,CBZ,N,Industrials,Yahoo Finance
+Y,CHRW,"C.H. Robinson Worldwide, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CHRW,N,Industrials,Yahoo Finance
+Y,CIX,CompX International Inc. Common Stock,A, ,N,100.0,N,,CIX,CIX,N,Industrials,Yahoo Finance
+Y,CLH,"Clean Harbors, Inc. Common Stock",N, ,N,100.0,N,,CLH,CLH,N,Industrials,Yahoo Finance
+Y,CLIR,ClearSign Technologies Corporation - Common Stock,Q,S,N,100.0,N,D,,CLIR,N,Industrials,Yahoo Finance
+Y,CLWT,Euro Tech Holdings Company Limited - Ordinary Shares,Q,S,N,100.0,N,N,,CLWT,N,Industrials,Yahoo Finance
+Y,CMCO,Columbus McKinnon Corporation - Common Stock,Q,Q,N,100.0,N,N,,CMCO,N,Industrials,Yahoo Finance
+Y,CMI,Cummins Inc. Common Stock,N, ,N,100.0,N,,CMI,CMI,N,Industrials,Yahoo Finance
+Y,CMPR,Cimpress plc - Ordinary Shares,Q,Q,N,100.0,N,N,,CMPR,N,Industrials,Yahoo Finance
+Y,CMRE,Costamare Inc. Common Stock $0.0001 par value,N, ,N,100.0,N,,CMRE,CMRE,N,Industrials,Yahoo Finance
+Y,CNI,Canadian National Railway Company Common Stock,N, ,N,100.0,N,,CNI,CNI,N,Industrials,Yahoo Finance
+Y,CODA,"Coda Octopus Group, Inc. - Common stock",Q,S,N,100.0,N,N,,CODA,N,Industrials,Yahoo Finance
+Y,CODI,Compass Diversified Holdings Shares of Beneficial Interest,N, ,N,100.0,N,,CODI,CODI,N,Industrials,Yahoo Finance
+Y,CP,Canadian Pacific Railway Limited Common Stock,N, ,N,100.0,N,,CP,CP,N,Industrials,Yahoo Finance
+Y,CPA,"Copa Holdings, S.A. Copa Holdings, S.A. Class A Common Stock",N, ,N,100.0,N,,CPA,CPA,N,Industrials,Yahoo Finance
+Y,CPRT,"Copart, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CPRT,N,Industrials,Yahoo Finance
+Y,CR,Crane Co. Common Stock,N, ,N,100.0,N,,CR,CR,N,Industrials,Yahoo Finance
+Y,CRAI,"CRA International,Inc. - Common Stock",Q,Q,N,100.0,N,N,,CRAI,N,Industrials,Yahoo Finance
+Y,CRESY,"Cresud S.A.C.I.F. y A. - American Depositary Shares, each representing ten shares of Common Stock",Q,Q,N,100.0,N,N,,CRESY,N,Industrials,Yahoo Finance
+Y,CRS,Carpenter Technology Corporation Common Stock,N, ,N,100.0,N,,CRS,CRS,N,Industrials,Yahoo Finance
+Y,CSL,Carlisle Companies Incorporated Common Stock,N, ,N,100.0,N,,CSL,CSL,N,Industrials,Yahoo Finance
+Y,CSTE,Caesarstone Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,CSTE,N,Industrials,Yahoo Finance
+Y,CSX,CSX Corporation - Common Stock,Q,Q,N,100.0,N,N,,CSX,N,Industrials,Yahoo Finance
+Y,CTAS,Cintas Corporation - Common Stock,Q,Q,N,100.0,N,N,,CTAS,N,Industrials,Yahoo Finance
+Y,CTRM,Castor Maritime Inc. - Common Shares,Q,S,N,100.0,N,N,,CTRM,N,Industrials,Yahoo Finance
+Y,CVR,Chicago Rivet & Machine Co. Common Stock,A, ,N,100.0,N,,CVR,CVR,N,Industrials,Yahoo Finance
+Y,CVU,"CPI Aerostructures, Inc. Common Stock",A, ,N,100.0,N,,CVU,CVU,N,Industrials,Yahoo Finance
+Y,CVV,CVD Equipment Corporation - Common Stock,Q,S,N,100.0,N,N,,CVV,N,Industrials,Yahoo Finance
+Y,CW,Curtiss-Wright Corporation Common Stock,N, ,N,100.0,N,,CW,CW,N,Industrials,Yahoo Finance
+Y,CWST,"Casella Waste Systems, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,CWST,N,Industrials,Yahoo Finance
+Y,CXW,"CoreCivic, Inc. Common Stock",N, ,N,100.0,N,,CXW,CXW,N,Industrials,Yahoo Finance
+Y,CYRX,"CryoPort, Inc. - Common Stock",Q,S,N,100.0,N,N,,CYRX,N,Industrials,Yahoo Finance
+Y,DAC,Danaos Corporation Common Stock,N, ,N,100.0,N,,DAC,DAC,N,Industrials,Yahoo Finance
+Y,DAL,"Delta Air Lines, Inc. Common Stock",N, ,N,100.0,N,,DAL,DAL,N,Industrials,Yahoo Finance
+Y,DCI,"Donaldson Company, Inc. Common Stock",N, ,N,100.0,N,,DCI,DCI,N,Industrials,Yahoo Finance
+Y,DCO,Ducommun Incorporated Common Stock,N, ,N,100.0,N,,DCO,DCO,N,Industrials,Yahoo Finance
+Y,DE,Deere & Company Common Stock,N, ,N,100.0,N,,DE,DE,N,Industrials,Yahoo Finance
+Y,DLB,Dolby Laboratories Common Stock,N, ,N,100.0,N,,DLB,DLB,N,Industrials,Yahoo Finance
+Y,DLHC,DLH Holdings Corp. - Common Stock,Q,S,N,100.0,N,N,,DLHC,N,Industrials,Yahoo Finance
+Y,DLX,Deluxe Corporation Common Stock,N, ,N,100.0,N,,DLX,DLX,N,Industrials,Yahoo Finance
+Y,DNOW,NOW Inc. Common Stock,N, ,N,100.0,N,,DNOW,DNOW,N,Industrials,Yahoo Finance
+Y,DOV,Dover Corporation Common Stock,N, ,N,100.0,N,,DOV,DOV,N,Industrials,Yahoo Finance
+Y,DSX,Diana Shipping inc. common stock,N, ,N,100.0,N,,DSX,DSX,N,Industrials,Yahoo Finance
+Y,DXPE,"DXP Enterprises, Inc. - Common Stock",Q,Q,N,100.0,N,N,,DXPE,N,Industrials,Yahoo Finance
+Y,DY,"Dycom Industries, Inc. Common Stock",N, ,N,100.0,N,,DY,DY,N,Industrials,Yahoo Finance
+Y,EAF,GrafTech International Ltd. Common Stock,N, ,N,100.0,N,,EAF,EAF,N,Industrials,Yahoo Finance
+Y,EBF,"Ennis, Inc. Common Stock",N, ,N,100.0,N,,EBF,EBF,N,Industrials,Yahoo Finance
+Y,EDRY,EuroDry Ltd. - Common Shares,Q,S,N,100.0,N,N,,EDRY,N,Industrials,Yahoo Finance
+Y,EFX,"Equifax, Inc. Common Stock",N, ,N,100.0,N,,EFX,EFX,N,Industrials,Yahoo Finance
+Y,EH,EHang Holdings Limited - ADS,Q,G,N,100.0,N,N,,EH,N,Industrials,Yahoo Finance
+Y,EME,"EMCOR Group, Inc. Common Stock",N, ,N,100.0,N,,EME,EME,N,Industrials,Yahoo Finance
+Y,EML,Eastern Company (The) - Common Stock,Q,G,N,100.0,N,N,,EML,N,Industrials,Yahoo Finance
+Y,EMR,Emerson Electric Company Common Stock,N, ,N,100.0,N,,EMR,EMR,N,Industrials,Yahoo Finance
+Y,ENR,"Energizer Holdings, Inc. Common Stock",N, ,N,100.0,N,,ENR,ENR,N,Industrials,Yahoo Finance
+Y,ENS,EnerSys Common Stock,N, ,N,100.0,N,,ENS,ENS,N,Industrials,Yahoo Finance
+Y,EPAC,Enerpac Tool Group Corp. Common Stock,N, ,N,100.0,N,,EPAC,EPAC,N,Industrials,Yahoo Finance
+Y,ERII,"Energy Recovery, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ERII,N,Industrials,Yahoo Finance
+Y,ERJ,Embraer S.A. Common Stock,N, ,N,100.0,N,,ERJ,ERJ,N,Industrials,Yahoo Finance
+Y,ESEA,Euroseas Ltd. - Common Stock,Q,S,N,100.0,N,N,,ESEA,N,Industrials,Yahoo Finance
+Y,ESLT,Elbit Systems Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,ESLT,N,Industrials,Yahoo Finance
+Y,ESP,Espey Mfg. & Electronics Corp. Common Stock,A, ,N,100.0,N,,ESP,ESP,N,Industrials,Yahoo Finance
+Y,ETN,"Eaton Corporation, PLC Ordinary Shares",N, ,N,100.0,N,,ETN,ETN,N,Industrials,Yahoo Finance
+Y,EVI,"EVI Industries, Inc.  Common Stock",A, ,N,100.0,N,,EVI,EVI,N,Industrials,Yahoo Finance
+Y,EXPD,"Expeditors International of Washington, Inc. - Common Stock",Q,Q,N,100.0,N,N,,EXPD,N,Industrials,Yahoo Finance
+Y,EXPO,"Exponent, Inc. - Common Stock",Q,Q,N,100.0,N,N,,EXPO,N,Industrials,Yahoo Finance
+Y,FAST,Fastenal Company - Common Stock,Q,Q,N,100.0,N,N,,FAST,N,Industrials,Yahoo Finance
+Y,FCEL,"FuelCell Energy, Inc. - Common Stock",Q,G,N,100.0,N,N,,FCEL,N,Industrials,Yahoo Finance
+Y,FCN,"FTI Consulting, Inc. Common Stock",N, ,N,100.0,N,,FCN,FCN,N,Industrials,Yahoo Finance
+Y,FDX,FedEx Corporation Common Stock,N, ,N,100.0,N,,FDX,FDX,N,Industrials,Yahoo Finance
+Y,FELE,"Franklin Electric Co., Inc. - Common Stock",Q,Q,N,100.0,N,N,,FELE,N,Industrials,Yahoo Finance
+Y,FIX,"Comfort Systems USA, Inc. Common Stock",N, ,N,100.0,N,,FIX,FIX,N,Industrials,Yahoo Finance
+Y,FLR,Fluor Corporation Common Stock,N, ,N,100.0,N,,FLR,FLR,N,Industrials,Yahoo Finance
+Y,FLS,Flowserve Corporation Common Stock,N, ,N,100.0,N,,FLS,FLS,N,Industrials,Yahoo Finance
+Y,FLY,Fly Leasing Limited,N, ,N,100.0,N,,FLY,FLY,N,Industrials,Yahoo Finance
+Y,FORR,"Forrester Research, Inc. - Common Stock",Q,Q,N,100.0,N,N,,FORR,N,Industrials,Yahoo Finance
+Y,FPAY,"FlexShopper, Inc. - Common Stock",Q,S,N,100.0,N,N,,FPAY,N,Industrials,Yahoo Finance
+Y,FSS,Federal Signal Corporation Common Stock,N, ,N,100.0,N,,FSS,FSS,N,Industrials,Yahoo Finance
+Y,FSTR,L.B. Foster Company - Common Stock,Q,Q,N,100.0,N,N,,FSTR,N,Industrials,Yahoo Finance
+Y,FTAI,Fortress Transportation and Infrastructure Investors LLC Common Shares,N, ,N,100.0,N,,FTAI,FTAI,N,Industrials,Yahoo Finance
+Y,FTEK,"Fuel Tech, Inc. - Common Stock",Q,Q,N,100.0,N,D,,FTEK,N,Industrials,Yahoo Finance
+Y,FWRD,Forward Air Corporation - Common Stock,Q,Q,N,100.0,N,N,,FWRD,N,Industrials,Yahoo Finance
+Y,GASS,"StealthGas, Inc. - common stock",Q,Q,N,100.0,N,N,,GASS,N,Industrials,Yahoo Finance
+Y,GATX,GATX Corporation Common Stock,N, ,N,100.0,N,,GATX,GATX,N,Industrials,Yahoo Finance
+Y,GBX,"Greenbrier Companies, Inc. (The) Common Stock",N, ,N,100.0,N,,GBX,GBX,N,Industrials,Yahoo Finance
+Y,GD,General Dynamics Corporation Common Stock,N, ,N,100.0,N,,GD,GD,N,Industrials,Yahoo Finance
+Y,GE,General Electric Company Common Stock,N, ,N,100.0,N,,GE,GE,N,Industrials,Yahoo Finance
+Y,GENC,Gencor Industries Inc. - Common Stock,Q,G,N,100.0,N,N,,GENC,N,Industrials,Yahoo Finance
+Y,GEO,Geo Group Inc (The) REIT,N, ,N,100.0,N,,GEO,GEO,N,Industrials,Yahoo Finance
+Y,GFF,Griffon Corporation Common Stock,N, ,N,100.0,N,,GFF,GFF,N,Industrials,Yahoo Finance
+Y,GFL,"GFL Environmental Inc. Subordinate voting shares, no par value",N, ,N,100.0,N,,GFL,GFL,N,Industrials,Yahoo Finance
+Y,GGG,Graco Inc. Common Stock,N, ,N,100.0,N,,GGG,GGG,N,Industrials,Yahoo Finance
+Y,GHM,Graham Corporation Common Stock,N, ,N,100.0,N,,GHM,GHM,N,Industrials,Yahoo Finance
+Y,GIFI,"Gulf Island Fabrication, Inc. - Common Stock",Q,Q,N,100.0,N,N,,GIFI,N,Industrials,Yahoo Finance
+Y,GLBS,Globus Maritime Limited - Common Stock,Q,S,N,100.0,N,D,,GLBS,N,Industrials,Yahoo Finance
+Y,GLDD,Great Lakes Dredge & Dock Corporation - Common Stock,Q,Q,N,100.0,N,N,,GLDD,N,Industrials,Yahoo Finance
+Y,GMS,GMS Inc. Common Stock,N, ,N,100.0,N,,GMS,GMS,N,Industrials,Yahoo Finance
+Y,GNK,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),N, ,N,100.0,N,,GNK,GNK,N,Industrials,Yahoo Finance
+Y,GNRC,Generac Holdlings Inc. Common Stock,N, ,N,100.0,N,,GNRC,GNRC,N,Industrials,Yahoo Finance
+Y,GPN,Global Payments Inc. Common Stock,N, ,N,100.0,N,,GPN,GPN,N,Industrials,Yahoo Finance
+Y,GRC,Gorman-Rupp Company (The) Common Stock,N, ,N,100.0,N,,GRC,GRC,N,Industrials,Yahoo Finance
+Y,GRNQ,Greenpro Capital Corp. - Common Stock,Q,S,N,100.0,N,D,,GRNQ,N,Industrials,Yahoo Finance
+Y,GSL,Global Ship Lease Inc New Class A Common Shares,N, ,N,100.0,N,,GSL,GSL,N,Industrials,Yahoo Finance
+Y,GTES,Gates Industrial Corporation plc Ordinary Shares,N, ,N,100.0,N,,GTES,GTES,N,Industrials,Yahoo Finance
+Y,GTLS,"Chart Industries, Inc. - Common Stock",Q,Q,N,100.0,N,N,,GTLS,N,Industrials,Yahoo Finance
+Y,GVA,Granite Construction Incorporated Common Stock,N, ,N,100.0,N,,GVA,GVA,N,Industrials,Yahoo Finance
+Y,GWW,"W.W. Grainger, Inc. Common Stock",N, ,N,100.0,N,,GWW,GWW,N,Industrials,Yahoo Finance
+Y,HEI,Heico Corporation Common Stock,N, ,N,100.0,N,,HEI,HEI,N,Industrials,Yahoo Finance
+Y,HHS,"Harte-Hanks, Inc. Common Stock",N, ,N,100.0,N,,HHS,HHS,N,Industrials,Yahoo Finance
+Y,HI,Hillenbrand Inc Common Stock,N, ,N,100.0,N,,HI,HI,N,Industrials,Yahoo Finance
+Y,HIHO,Highway Holdings Limited - Common Stock,Q,S,N,100.0,N,N,,HIHO,N,Industrials,Yahoo Finance
+Y,HII,"Huntington Ingalls Industries, Inc. Common Stock",N, ,N,100.0,N,,HII,HII,N,Industrials,Yahoo Finance
+Y,HLIO,"Helios Technologies, Inc. - Common Stock",Q,Q,N,100.0,N,N,,HLIO,N,Industrials,Yahoo Finance
+Y,HON,Honeywell International Inc. Common Stock,N, ,N,100.0,N,,HON,HON,N,Industrials,Yahoo Finance
+Y,HQI,"HireQuest, Inc. - Common Stock",Q,S,N,100.0,N,N,,HQI,N,Industrials,Yahoo Finance
+Y,HRI,Herc Holdings Inc. Common Stock ,N, ,N,100.0,N,,HRI,HRI,N,Industrials,Yahoo Finance
+Y,HSII,"Heidrick & Struggles International, Inc. - Common Stock",Q,Q,N,100.0,N,N,,HSII,N,Industrials,Yahoo Finance
+Y,HSON,"Hudson Global, Inc. - Common Stock",Q,Q,N,100.0,N,N,,HSON,N,Industrials,Yahoo Finance
+Y,HTLD,"Heartland Express, Inc. - Common Stock",Q,Q,N,100.0,N,N,,HTLD,N,Industrials,Yahoo Finance
+Y,HTZ,"Hertz Global Holdings, Inc Common Stock ",N, ,N,100.0,N,,HTZ,HTZ,N,Industrials,Yahoo Finance
+Y,HUBB,Hubbell Inc Common Stock,N, ,N,100.0,N,,HUBB,HUBB,N,Industrials,Yahoo Finance
+Y,HUBG,"Hub Group, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,HUBG,N,Industrials,Yahoo Finance
+Y,HURC,"Hurco Companies, Inc. - Common Stock",Q,Q,N,100.0,N,N,,HURC,N,Industrials,Yahoo Finance
+Y,HURN,Huron Consulting Group Inc. - Common Stock,Q,Q,N,100.0,N,N,,HURN,N,Industrials,Yahoo Finance
+Y,HXL,Hexcel Corporation Common Stock,N, ,N,100.0,N,,HXL,HXL,N,Industrials,Yahoo Finance
+Y,HY,"Hyster-Yale Materials Handling, Inc. Class A Common Stock",N, ,N,100.0,N,,HY,HY,N,Industrials,Yahoo Finance
+Y,ICFI,"ICF International, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ICFI,N,Industrials,Yahoo Finance
+Y,ICON,"Iconix Brand Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ICON,N,Industrials,Yahoo Finance
+Y,IESC,"IES Holdings, Inc. - Common Stock",Q,G,N,100.0,N,N,,IESC,N,Industrials,Yahoo Finance
+Y,IEX,IDEX Corporation Common Stock,N, ,N,100.0,N,,IEX,IEX,N,Industrials,Yahoo Finance
+Y,IIIN,"Insteel Industries, Inc. - Common Stock",Q,Q,N,100.0,N,N,,IIIN,N,Industrials,Yahoo Finance
+Y,INVE,"Identiv, Inc. - Common Stock",Q,S,N,100.0,N,N,,INVE,N,Industrials,Yahoo Finance
+Y,IPDN,"Professional Diversity Network, Inc. - Common Stock",Q,S,N,100.0,N,D,,IPDN,N,Industrials,Yahoo Finance
+Y,IR,Ingersoll Rand Inc. Common Stock,N, ,N,100.0,N,,IR,IR,N,Industrials,Yahoo Finance
+Y,ISSC,"Innovative Solutions and Support, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ISSC,N,Industrials,Yahoo Finance
+Y,ITT,ITT Inc. Common Stock ,N, ,N,100.0,N,,ITT,ITT,N,Industrials,Yahoo Finance
+Y,ITW,Illinois Tool Works Inc. Common Stock,N, ,N,100.0,N,,ITW,ITW,N,Industrials,Yahoo Finance
+Y,J,Jacobs Engineering Group Inc. Common Stock,N, ,N,100.0,N,,J,J,N,Industrials,Yahoo Finance
+Y,JBHT,"J.B. Hunt Transport Services, Inc. - Common Stock",Q,Q,N,100.0,N,N,,JBHT,N,Industrials,Yahoo Finance
+Y,JBLU,JetBlue Airways Corporation - Common Stock,Q,Q,N,100.0,N,N,,JBLU,N,Industrials,Yahoo Finance
+Y,JCI,Johnson Controls International plc Ordinary Share,N, ,N,100.0,N,,JCI,JCI,N,Industrials,Yahoo Finance
+Y,JELD,"JELD-WEN Holding, Inc. Common Stock",N, ,N,100.0,N,,JELD,JELD,N,Industrials,Yahoo Finance
+Y,JOB,GEE Group Inc. Common Stock,A, ,N,100.0,N,,JOB,JOB,N,Industrials,Yahoo Finance
+Y,KAI,Kadant Inc Common Stock,N, ,N,100.0,N,,KAI,KAI,N,Industrials,Yahoo Finance
+Y,KBR,"KBR, Inc. Common Stock",N, ,N,100.0,N,,KBR,KBR,N,Industrials,Yahoo Finance
+Y,KE,"Kimball Electronics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,KE,N,Industrials,Yahoo Finance
+Y,KELYA,"Kelly Services, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,KELYA,N,Industrials,Yahoo Finance
+Y,KELYB,"Kelly Services, Inc. - Class B Common Stock",Q,Q,N,100.0,N,N,,KELYB,N,Industrials,Yahoo Finance
+Y,KEX,Kirby Corporation Common Stock,N, ,N,100.0,N,,KEX,KEX,N,Industrials,Yahoo Finance
+Y,KFRC,"Kforce, Inc. - Common Stock",Q,Q,N,100.0,N,N,,KFRC,N,Industrials,Yahoo Finance
+Y,KFY,Korn Ferry Common Stock,N, ,N,100.0,N,,KFY,KFY,N,Industrials,Yahoo Finance
+Y,KMT,Kennametal Inc. Common Stock,N, ,N,100.0,N,,KMT,KMT,N,Industrials,Yahoo Finance
+Y,KNX,Knight-Swift Transportation Holdings Inc.,N, ,N,100.0,N,,KNX,KNX,N,Industrials,Yahoo Finance
+Y,KODK,Eastman Kodak Company Common New,N, ,N,100.0,N,,KODK,KODK,N,Industrials,Yahoo Finance
+Y,KRNT,Kornit Digital Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,KRNT,N,Industrials,Yahoo Finance
+Y,KTOS,"Kratos Defense & Security Solutions, Inc. - Common Stock",Q,Q,N,100.0,N,N,,KTOS,N,Industrials,Yahoo Finance
+Y,LECO,"Lincoln Electric Holdings, Inc. - Common Shares",Q,Q,N,100.0,N,N,,LECO,N,Industrials,Yahoo Finance
+Y,LHX,"L3Harris Technologies, Inc. Common Stock",N, ,N,100.0,N,,LHX,LHX,N,Industrials,Yahoo Finance
+Y,LII,"Lennox International, Inc. Common Stock",N, ,N,100.0,N,,LII,LII,N,Industrials,Yahoo Finance
+Y,LIQT,"LiqTech International, Inc. - Common Stock",Q,S,N,100.0,N,N,,LIQT,N,Industrials,Yahoo Finance
+Y,LMB,"Limbach Holdings, Inc. - Common Stock",Q,S,N,100.0,N,N,,LMB,N,Industrials,Yahoo Finance
+Y,LMT,Lockheed Martin Corporation Common Stock,N, ,N,100.0,N,,LMT,LMT,N,Industrials,Yahoo Finance
+Y,LNN,Lindsay Corporation Common Stock,N, ,N,100.0,N,,LNN,LNN,N,Industrials,Yahoo Finance
+Y,LPX,Louisiana-Pacific Corporation Common Stock,N, ,N,100.0,N,,LPX,LPX,N,Industrials,Yahoo Finance
+Y,LSTR,"Landstar System, Inc. - Common Stock",Q,Q,N,100.0,N,N,,LSTR,N,Industrials,Yahoo Finance
+Y,LTBR,Lightbridge Corporation - Common Stock,Q,S,N,100.0,N,N,,LTBR,N,Industrials,Yahoo Finance
+Y,LTM,LATAM Airlines Group S.A.,N, ,N,100.0,N,,LTM,LTM,N,Industrials,Yahoo Finance
+Y,LUV,Southwest Airlines Company Common Stock,N, ,N,100.0,N,,LUV,LUV,N,Industrials,Yahoo Finance
+Y,LXFR,Luxfer Holdings PLC Ordinary Shares,N, ,N,100.0,N,,LXFR,LXFR,N,Industrials,Yahoo Finance
+Y,MAN,ManpowerGroup Common Stock,N, ,N,100.0,N,,MAN,MAN,N,Industrials,Yahoo Finance
+Y,MAS,Masco Corporation Common Stock,N, ,N,100.0,N,,MAS,MAS,N,Industrials,Yahoo Finance
+Y,MATW,Matthews International Corporation - Class A Common Stock,Q,Q,N,100.0,N,N,,MATW,N,Industrials,Yahoo Finance
+Y,MATX,"Matson, Inc. Common Stock",N, ,N,100.0,N,,MATX,MATX,N,Industrials,Yahoo Finance
+Y,MEC,"Mayville Engineering Company, Inc. Common Stock",N, ,N,100.0,N,,MEC,MEC,N,Industrials,Yahoo Finance
+Y,MESA,"Mesa Air Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MESA,N,Industrials,Yahoo Finance
+Y,MG,Mistras Group Inc Common Stock,N, ,N,100.0,N,,MG,MG,N,Industrials,Yahoo Finance
+Y,MGRC,McGrath RentCorp - Common Stock,Q,Q,N,100.0,N,N,,MGRC,N,Industrials,Yahoo Finance
+Y,MHH,"Mastech Digital, Inc Common Stock",A, ,N,100.0,N,,MHH,MHH,N,Industrials,Yahoo Finance
+Y,MIDD,The Middleby Corporation - Common Stock,Q,Q,N,100.0,N,N,,MIDD,N,Industrials,Yahoo Finance
+Y,MLI,"Mueller Industries, Inc. Common Stock",N, ,N,100.0,N,,MLI,MLI,N,Industrials,Yahoo Finance
+Y,MMM,3M Company Common Stock,N, ,N,100.0,N,,MMM,MMM,N,Industrials,Yahoo Finance
+Y,MMS,"Maximus, Inc. Common Stock",N, ,N,100.0,N,,MMS,MMS,N,Industrials,Yahoo Finance
+Y,MRCY,Mercury Systems Inc - Common Stock,Q,Q,N,100.0,N,N,,MRCY,N,Industrials,Yahoo Finance
+Y,MRTN,"Marten Transport, Ltd. - Common Stock",Q,Q,N,100.0,N,N,,MRTN,N,Industrials,Yahoo Finance
+Y,MSA,MSA Safety Incorporated Common Stock,N, ,N,100.0,N,,MSA,MSA,N,Industrials,Yahoo Finance
+Y,MSM,"MSC Industrial Direct Company, Inc. Common Stock",N, ,N,100.0,N,,MSM,MSM,N,Industrials,Yahoo Finance
+Y,MTRX,Matrix Service Company - Common Stock,Q,Q,N,100.0,N,N,,MTRX,N,Industrials,Yahoo Finance
+Y,MTW,"Manitowoc Company, Inc. (The) Common Stock",N, ,N,100.0,N,,MTW,MTW,N,Industrials,Yahoo Finance
+Y,MTZ,"MasTec, Inc. Common Stock",N, ,N,100.0,N,,MTZ,MTZ,N,Industrials,Yahoo Finance
+Y,MWA,MUELLER WATER PRODUCTS Common Stock,N, ,N,100.0,N,,MWA,MWA,N,Industrials,Yahoo Finance
+Y,MYRG,"MYR Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MYRG,N,Industrials,Yahoo Finance
+Y,NDSN,Nordson Corporation - Common Stock,Q,Q,N,100.0,N,N,,NDSN,N,Industrials,Yahoo Finance
+Y,NL,"NL Industries, Inc. Common Stock",N, ,N,100.0,N,,NL,NL,N,Industrials,Yahoo Finance
+Y,NMM,Navios Maritime Partners LP Common Units Representing Limited Partner Interests,N, ,N,100.0,N,,NMM,NMM,N,Industrials,Yahoo Finance
+Y,NNBR,"NN, Inc. - Common Stock",Q,Q,N,100.0,N,N,,NNBR,N,Industrials,Yahoo Finance
+Y,NOC,Northrop Grumman Corporation Common Stock,N, ,N,100.0,N,,NOC,NOC,N,Industrials,Yahoo Finance
+Y,NPK,"National Presto Industries, Inc. Common Stock",N, ,N,100.0,N,,NPK,NPK,N,Industrials,Yahoo Finance
+Y,NPO,EnPro Industries Inc,N, ,N,100.0,N,,NPO,NPO,N,Industrials,Yahoo Finance
+Y,NSC,Norfolk Southern Corporation Common Stock,N, ,N,100.0,N,,NSC,NSC,N,Industrials,Yahoo Finance
+Y,NSP,"Insperity, Inc. Common Stock",N, ,N,100.0,N,,NSP,NSP,N,Industrials,Yahoo Finance
+Y,NSSC,"NAPCO Security Technologies, Inc. - Common Stock",Q,Q,N,100.0,N,N,,NSSC,N,Industrials,Yahoo Finance
+Y,NTIP,"Network-1 Technologies, Inc. Common Stock",A, ,N,100.0,N,,NTIP,NTIP,N,Industrials,Yahoo Finance
+Y,NVT,nVent Electric plc Ordinary Shares ,N, ,N,100.0,N,,NVT,NVT,N,Industrials,Yahoo Finance
+Y,NX,Quanex Building Products Corporation Common Stock,N, ,N,100.0,N,,NX,NX,N,Industrials,Yahoo Finance
+Y,OC,Owens Corning Inc Common Stock New,N, ,N,100.0,N,,OC,OC,N,Industrials,Yahoo Finance
+Y,ODFL,"Old Dominion Freight Line, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ODFL,N,Industrials,Yahoo Finance
+Y,OESX,"Orion Energy Systems, Inc. - Common Stock",Q,S,N,100.0,N,N,,OESX,N,Industrials,Yahoo Finance
+Y,OFLX,"Omega Flex, Inc. - Common Stock",Q,G,N,100.0,N,N,,OFLX,N,Industrials,Yahoo Finance
+Y,OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares,Q,Q,N,100.0,N,N,,OMAB,N,Industrials,Yahoo Finance
+Y,OPTT,"Ocean Power Technologies, Inc. - Common Stock",Q,S,N,100.0,N,D,,OPTT,N,Industrials,Yahoo Finance
+Y,ORN,"Orion Group Holdings, Inc. Common",N, ,N,100.0,N,,ORN,ORN,N,Industrials,Yahoo Finance
+Y,OSK,Oshkosh Corporation (Holding Company)Common Stock,N, ,N,100.0,N,,OSK,OSK,N,Industrials,Yahoo Finance
+Y,OTTR,Otter Tail Corporation - Common Stock,Q,Q,N,100.0,N,N,,OTTR,N,Industrials,Yahoo Finance
+Y,PAC,"Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)",N, ,N,100.0,N,,PAC,PAC,N,Industrials,Yahoo Finance
+Y,PANL,Pangaea Logistics Solutions Ltd. - Common Stock,Q,S,N,100.0,N,N,,PANL,N,Industrials,Yahoo Finance
+Y,PBI,Pitney Bowes Inc. Common Stock,N, ,N,100.0,N,,PBI,PBI,N,Industrials,Yahoo Finance
+Y,PCAR,PACCAR Inc. - Common Stock,Q,Q,N,100.0,N,N,,PCAR,N,Industrials,Yahoo Finance
+Y,PESI,"Perma-Fix Environmental Services, Inc. - Common Stock",Q,S,N,100.0,N,N,,PESI,N,Industrials,Yahoo Finance
+Y,PH,Parker-Hannifin Corporation Common Stock,N, ,N,100.0,N,,PH,PH,N,Industrials,Yahoo Finance
+Y,PKE,Park Aerospace Corp. Common Stock,N, ,N,100.0,N,,PKE,PKE,N,Industrials,Yahoo Finance
+Y,PKOH,Park-Ohio Holdings Corp. - Common Stock,Q,Q,N,100.0,N,N,,PKOH,N,Industrials,Yahoo Finance
+Y,PLAG,Planet Green Holdings Corp. Common Stock,A, ,N,100.0,N,,PLAG,PLAG,N,Industrials,Yahoo Finance
+Y,PLPC,Preformed Line Products Company - Common Stock,Q,Q,N,100.0,N,N,,PLPC,N,Industrials,Yahoo Finance
+Y,PLUG,"Plug Power, Inc. - Common Stock",Q,S,N,100.0,N,N,,PLUG,N,Industrials,Yahoo Finance
+Y,PNR,Pentair plc. Ordinary Share,N, ,N,100.0,N,,PNR,PNR,N,Industrials,Yahoo Finance
+Y,POLA,"Polar Power, Inc. - Common Stock",Q,S,N,100.0,N,N,,POLA,N,Industrials,Yahoo Finance
+Y,POOL,Pool Corporation - Common Stock,Q,Q,N,100.0,N,N,,POOL,N,Industrials,Yahoo Finance
+Y,POWL,"Powell Industries, Inc. - Common Stock",Q,Q,N,100.0,N,N,,POWL,N,Industrials,Yahoo Finance
+Y,PPIH,"Perma-Pipe International Holdings, Inc. - Common Stock",Q,G,N,100.0,N,N,,PPIH,N,Industrials,Yahoo Finance
+Y,PPSI,"Pioneer Power Solutions, Inc. - Common Stock",Q,S,N,100.0,N,N,,PPSI,N,Industrials,Yahoo Finance
+Y,PRIM,Primoris Services Corporation - Common Stock,Q,Q,N,100.0,N,N,,PRIM,N,Industrials,Yahoo Finance
+Y,PRLB,"Proto Labs, Inc. Common stock",N, ,N,100.0,N,,PRLB,PRLB,N,Industrials,Yahoo Finance
+Y,PSHG,Performance Shipping Inc. - Common Shares,Q,S,N,100.0,N,D,,PSHG,N,Industrials,Yahoo Finance
+Y,PWR,"Quanta Services, Inc. Common Stock",N, ,N,100.0,N,,PWR,PWR,N,Industrials,Yahoo Finance
+Y,QBAK,Qualstar Corporation - Common Stock,Q,S,N,100.0,N,N,,QBAK,N,Industrials,Yahoo Finance
+Y,QRHC,Quest Resource Holding Corporation - Common Stock,Q,S,N,100.0,N,N,,QRHC,N,Industrials,Yahoo Finance
+Y,QUAD,"Quad Graphics, Inc Class A Common Stock",N, ,N,100.0,N,,QUAD,QUAD,N,Industrials,Yahoo Finance
+Y,R,"Ryder System, Inc. Common Stock",N, ,N,100.0,N,,R,R,N,Industrials,Yahoo Finance
+Y,RAIL,"Freightcar America, Inc. - Common Stock",Q,Q,N,100.0,N,N,,RAIL,N,Industrials,Yahoo Finance
+Y,RBA,Ritchie Bros. Auctioneers Incorporated Common Stock,N, ,N,100.0,N,,RBA,RBA,N,Industrials,Yahoo Finance
+Y,RBC,Regal Beloit Corporation Common Stock,N, ,N,100.0,N,,RBC,RBC,N,Industrials,Yahoo Finance
+Y,RCMT,"RCM Technologies, Inc. - Common Stock",Q,G,N,100.0,N,N,,RCMT,N,Industrials,Yahoo Finance
+Y,RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),N, ,N,100.0,N,,RELX,RELX,N,Industrials,Yahoo Finance
+Y,REVG,"REV Group, Inc. Common Stock",N, ,N,100.0,N,,REVG,REVG,N,Industrials,Yahoo Finance
+Y,REZI,"Resideo Technologies, Inc. Common Stock ",N, ,N,100.0,N,,REZI,REZI,N,Industrials,Yahoo Finance
+Y,RFIL,"RF Industries, Ltd. - Common Stock",Q,G,N,100.0,N,N,,RFIL,N,Industrials,Yahoo Finance
+Y,RGR,"Sturm, Ruger & Company, Inc. Common Stock",N, ,N,100.0,N,,RGR,RGR,N,Industrials,Yahoo Finance
+Y,RHI,Robert Half International Inc. Common Stock,N, ,N,100.0,N,,RHI,RHI,N,Industrials,Yahoo Finance
+Y,RLGT,"Radiant Logistics, Inc. Common Stock",A, ,N,100.0,N,,RLGT,RLGT,N,Industrials,Yahoo Finance
+Y,ROAD,"Construction Partners, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ROAD,N,Industrials,Yahoo Finance
+Y,ROCK,"Gibraltar Industries, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ROCK,N,Industrials,Yahoo Finance
+Y,ROK,"Rockwell Automation, Inc. Common Stock",N, ,N,100.0,N,,ROK,ROK,N,Industrials,Yahoo Finance
+Y,RRTS,"Roadrunner Transportation Systems, Inc. Common Stock",N, ,N,100.0,N,,RRTS,RRTS,N,Industrials,Yahoo Finance
+Y,RSG,"Republic Services, Inc. Common Stock",N, ,N,100.0,N,,RSG,RSG,N,Industrials,Yahoo Finance
+Y,RUBI,"The Rubicon Project, Inc. Common Stock",N, ,N,100.0,N,,RUBI,RUBI,N,Industrials,Yahoo Finance
+Y,RYAAY,"Ryanair Holdings plc - American Depositary Shares, each representing five Ordinary Shares",Q,Q,N,100.0,N,N,,RYAAY,N,Industrials,Yahoo Finance
+Y,RYI,Ryerson Holding Corporation Common Stock,N, ,N,100.0,N,,RYI,RYI,N,Industrials,Yahoo Finance
+Y,SAIA,"Saia, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SAIA,N,Industrials,Yahoo Finance
+Y,SB,"Safe Bulkers, Inc Common Stock ($0.001 par value)",N, ,N,100.0,N,,SB,SB,N,Industrials,Yahoo Finance
+Y,SBLK,Star Bulk Carriers Corp. - Common Shares,Q,Q,N,100.0,N,N,,SBLK,N,Industrials,Yahoo Finance
+Y,SEB,Seaboard Corporation Common Stock,A, ,N,1.0,N,,SEB,SEB,N,Industrials,Yahoo Finance
+Y,SERV,"ServiceMaster Global Holdings, Inc. Common Stock",N, ,N,100.0,N,,SERV,SERV,N,Industrials,Yahoo Finance
+Y,SFL,SFL Corporation Ltd,N, ,N,100.0,N,,SFL,SFL,N,Industrials,Yahoo Finance
+Y,SGBX,"SG Blocks, Inc. - Common Stock",Q,S,N,100.0,N,N,,SGBX,N,Industrials,Yahoo Finance
+Y,SGRP,"SPAR Group, Inc. - Common Stock",Q,S,N,100.0,N,D,,SGRP,N,Industrials,Yahoo Finance
+Y,SHIP,Seanergy Maritime Holdings Corp - Common Stock,Q,S,N,100.0,N,D,,SHIP,N,Industrials,Yahoo Finance
+Y,SIF,"SIFCO Industries, Inc. Common Stock",A, ,N,100.0,N,,SIF,SIF,N,Industrials,Yahoo Finance
+Y,SITE,"SiteOne Landscape Supply, Inc. Common Stock",N, ,N,100.0,N,,SITE,SITE,N,Industrials,Yahoo Finance
+Y,SKYW,"SkyWest, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SKYW,N,Industrials,Yahoo Finance
+Y,SMHI,SEACOR Marine Holdings Inc. Common Stock ,N, ,N,100.0,N,,SMHI,SMHI,N,Industrials,Yahoo Finance
+Y,SNA,Snap-On Incorporated Common Stock,N, ,N,100.0,N,,SNA,SNA,N,Industrials,Yahoo Finance
+Y,SNDR,"Schneider National, Inc. Common Stock",N, ,N,100.0,N,,SNDR,SNDR,N,Industrials,Yahoo Finance
+Y,SPCB,"SuperCom, Ltd. - Ordinary Shares",Q,S,N,100.0,N,D,,SPCB,N,Industrials,Yahoo Finance
+Y,SPCE,"Virgin Galactic Holdings, Inc. Common Stock",N, ,N,100.0,N,,SPCE,SPCE,N,Industrials,Yahoo Finance
+Y,SPLP,Steel Partners Holdings LP LTD PARTNERSHIP UNIT,N, ,N,100.0,N,,SPLP,SPLP,N,Industrials,Yahoo Finance
+Y,SPR,"Spirit Aerosystems Holdings, Inc. Common Stock",N, ,N,100.0,N,,SPR,SPR,N,Industrials,Yahoo Finance
+Y,SPXC,SPX Corporation Common Stock,N, ,N,100.0,N,,SPXC,SPXC,N,Industrials,Yahoo Finance
+Y,STAF,"Staffing 360 Solutions, Inc. - Common Stock",Q,S,N,100.0,N,D,,STAF,N,Industrials,Yahoo Finance
+Y,STN,Stantec Inc Common Stock,N, ,N,100.0,N,,STN,STN,N,Industrials,Yahoo Finance
+Y,STRL,Sterling Construction Company Inc - Common Stock,Q,Q,N,100.0,N,N,,STRL,N,Industrials,Yahoo Finance
+Y,SWK,"Stanley Black & Decker, Inc. Common Stock",N, ,N,100.0,N,,SWK,SWK,N,Industrials,Yahoo Finance
+Y,SXI,Standex International Corporation Common Stock,N, ,N,100.0,N,,SXI,SXI,N,Industrials,Yahoo Finance
+Y,TATT,TAT Technologies Ltd. - Ordinary Shares,Q,G,N,100.0,N,N,,TATT,N,Industrials,Yahoo Finance
+Y,TAYD,"Taylor Devices, Inc. - Common Stock",Q,S,N,100.0,N,N,,TAYD,N,Industrials,Yahoo Finance
+Y,TBI,"TrueBlue, Inc. Common Stock",N, ,N,100.0,N,,TBI,TBI,N,Industrials,Yahoo Finance
+Y,TBLT,"ToughBuilt Industries, Inc. - Common Stock",Q,S,N,100.0,N,D,,TBLT,N,Industrials,Yahoo Finance
+Y,TDG,Transdigm Group Incorporated Transdigm Group Inc. Common Stock,N, ,N,100.0,N,,TDG,TDG,N,Industrials,Yahoo Finance
+Y,TEX,Terex Corporation Common Stock,N, ,N,100.0,N,,TEX,TEX,N,Industrials,Yahoo Finance
+Y,TFII,TFI International Inc. Common Shares,N, ,N,100.0,N,,TFII,TFII,N,Industrials,Yahoo Finance
+Y,TG,Tredegar Corporation Common Stock,N, ,N,100.0,N,,TG,TG,N,Industrials,Yahoo Finance
+Y,TGEN,Tecogen Inc. - Common Stock,Q,S,N,100.0,N,N,,TGEN,N,Industrials,Yahoo Finance
+Y,TH,Target Hospitality Corp. - Common Stock,Q,S,N,100.0,N,N,,TH,N,Industrials,Yahoo Finance
+Y,THR,"Thermon Group Holdings, Inc. Common Stock",N, ,N,100.0,N,,THR,THR,N,Industrials,Yahoo Finance
+Y,TISI,"Team, Inc. Common Stock",N, ,N,100.0,N,,TISI,TISI,N,Industrials,Yahoo Finance
+Y,TITN,Titan Machinery Inc. - Common Stock,Q,Q,N,100.0,N,N,,TITN,N,Industrials,Yahoo Finance
+Y,TKR,Timken Company (The) Common Stock,N, ,N,100.0,N,,TKR,TKR,N,Industrials,Yahoo Finance
+Y,TNC,Tennant Company Common Stock,N, ,N,100.0,N,,TNC,TNC,N,Industrials,Yahoo Finance
+Y,TNET,"TriNet Group, Inc. Common Stock",N, ,N,100.0,N,,TNET,TNET,N,Industrials,Yahoo Finance
+Y,TPC,Tutor Perini Corporation Common Stock,N, ,N,100.0,N,,TPC,TPC,N,Industrials,Yahoo Finance
+Y,TRC,Tejon Ranch Co Common Stock,N, ,N,100.0,N,,TRC,TRC,N,Industrials,Yahoo Finance
+Y,TREX,"Trex Company, Inc. Common Stock",N, ,N,100.0,N,,TREX,TREX,N,Industrials,Yahoo Finance
+Y,TRI,Thomson Reuters Corp Ordinary Shares,N, ,N,100.0,N,,TRI,TRI,N,Industrials,Yahoo Finance
+Y,TRN,"Trinity Industries, Inc. Common Stock",N, ,N,100.0,N,,TRN,TRN,N,Industrials,Yahoo Finance
+Y,TRNS,"Transcat, Inc. - Common Stock",Q,G,N,100.0,N,N,,TRNS,N,Industrials,Yahoo Finance
+Y,TT,Trane Technologies plc,N, ,N,100.0,N,,TT,TT,N,Industrials,Yahoo Finance
+Y,TTC,Toro Company (The) Common Stock,N, ,N,100.0,N,,TTC,TTC,N,Industrials,Yahoo Finance
+Y,TTEK,"Tetra Tech, Inc. - Common Stock",Q,Q,N,100.0,N,N,,TTEK,N,Industrials,Yahoo Finance
+Y,TTI,"Tetra Technologies, Inc. Common Stock",N, ,N,100.0,N,,TTI,TTI,N,Industrials,Yahoo Finance
+Y,TUSK,"Mammoth Energy Services, Inc. - Common Stock",Q,Q,N,100.0,N,N,,TUSK,N,Industrials,Yahoo Finance
+Y,TWI,"Titan International, Inc. (DE) Common Stock",N, ,N,100.0,N,,TWI,TWI,N,Industrials,Yahoo Finance
+Y,TWIN,"Twin Disc, Incorporated - Common Stock",Q,Q,N,100.0,N,N,,TWIN,N,Industrials,Yahoo Finance
+Y,TXT,Textron Inc. Common Stock,N, ,N,100.0,N,,TXT,TXT,N,Industrials,Yahoo Finance
+Y,UAL,"United Airlines Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,UAL,N,Industrials,Yahoo Finance
+Y,UHAL,Amerco - Common Stock,Q,Q,N,100.0,N,N,,UHAL,N,Industrials,Yahoo Finance
+Y,ULBI,Ultralife Corporation - Common Stock,Q,G,N,100.0,N,N,,ULBI,N,Industrials,Yahoo Finance
+Y,ULH,"Universal Logistics Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ULH,N,Industrials,Yahoo Finance
+Y,UNF,Unifirst Corporation Common Stock,N, ,N,100.0,N,,UNF,UNF,N,Industrials,Yahoo Finance
+Y,UNP,Union Pacific Corporation Common Stock,N, ,N,100.0,N,,UNP,UNP,N,Industrials,Yahoo Finance
+Y,UPS,"United Parcel Service, Inc. Common Stock",N, ,N,100.0,N,,UPS,UPS,N,Industrials,Yahoo Finance
+Y,URI,"United Rentals, Inc. Common Stock",N, ,N,100.0,N,,URI,URI,N,Industrials,Yahoo Finance
+Y,USDP,USD Partners LP Common Units representing limited partner interest,N, ,N,100.0,N,,USDP,USDP,N,Industrials,Yahoo Finance
+Y,UUU,"Universal Security Instruments, Inc. Common Stock",A, ,N,100.0,N,,UUU,UUU,N,Industrials,Yahoo Finance
+Y,VLRS,"Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten (10) Ordinary Participation Certificates",N, ,N,100.0,N,,VLRS,VLRS,N,Industrials,Yahoo Finance
+Y,VMI,"Valmont Industries, Inc. Common Stock",N, ,N,100.0,N,,VMI,VMI,N,Industrials,Yahoo Finance
+Y,VRSK,"Verisk Analytics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,VRSK,N,Industrials,Yahoo Finance
+Y,VRT,"Vertiv Holdings, LLC Class A Common Stock",N, ,N,100.0,N,,VRT,VRT,N,Industrials,Yahoo Finance
+Y,VSEC,VSE Corporation - Common Stock,Q,Q,N,100.0,N,N,,VSEC,N,Industrials,Yahoo Finance
+Y,WAB,Westinghouse Air Brake Technologies Corporation Common Stock,N, ,N,100.0,N,,WAB,WAB,N,Industrials,Yahoo Finance
+Y,WCC,"WESCO International, Inc. Common Stock",N, ,N,100.0,N,,WCC,WCC,N,Industrials,Yahoo Finance
+Y,WCN,"Waste Connections, Inc. Common Shares",N, ,N,100.0,N,,WCN,WCN,N,Industrials,Yahoo Finance
+Y,WERN,"Werner Enterprises, Inc. - Common Stock",Q,Q,N,100.0,N,N,,WERN,N,Industrials,Yahoo Finance
+Y,WHLM,"Wilhelmina International, Inc. - Common Stock",Q,S,N,100.0,N,N,,WHLM,N,Industrials,Yahoo Finance
+Y,WLDN,"Willdan Group, Inc. - Common Stock",Q,G,N,100.0,N,N,,WLDN,N,Industrials,Yahoo Finance
+Y,WLFC,Willis Lease Finance Corporation - Common Stock,Q,G,N,100.0,N,N,,WLFC,N,Industrials,Yahoo Finance
+Y,WM,"Waste Management, Inc. Common Stock",N, ,N,100.0,N,,WM,WM,N,Industrials,Yahoo Finance
+Y,WMS,"Advanced Drainage Systems, Inc. Common Stock",N, ,N,100.0,N,,WMS,WMS,N,Industrials,Yahoo Finance
+Y,WNC,Wabash National Corporation Common Stock,N, ,N,100.0,N,,WNC,WNC,N,Industrials,Yahoo Finance
+Y,WOR,"Worthington Industries, Inc. Common Stock",N, ,N,100.0,N,,WOR,WOR,N,Industrials,Yahoo Finance
+Y,WSC,WillScot Corporation - Common Stock,Q,S,N,100.0,N,N,,WSC,N,Industrials,Yahoo Finance
+Y,WSO,"Watsco, Inc. Common Stock",N, ,N,100.0,N,,WSO,WSO,N,Industrials,Yahoo Finance
+Y,WTS,"Watts Water Technologies, Inc. Class A Common Stock",N, ,N,100.0,N,,WTS,WTS,N,Industrials,Yahoo Finance
+Y,WWD,"Woodward, Inc. - Common Stock",Q,Q,N,100.0,N,N,,WWD,N,Industrials,Yahoo Finance
+Y,XPO,"XPO Logistics, Inc.",N, ,N,100.0,N,,XPO,XPO,N,Industrials,Yahoo Finance
+Y,XYL,Xylem Inc. Common Stock New,N, ,N,100.0,N,,XYL,XYL,N,Industrials,Yahoo Finance
+Y,ZTO,"ZTO Express (Cayman) Inc. American Depositary Shares, each representing one Class A ordinary share.",N, ,N,100.0,N,,ZTO,ZTO,N,Industrials,Yahoo Finance

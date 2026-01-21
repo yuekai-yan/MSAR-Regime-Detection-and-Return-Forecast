@@ -1,0 +1,439 @@
+Nasdaq Traded,Symbol,Security Name,Listing Exchange,Market Category,ETF,Round Lot Size,Test Issue,Financial Status,CQS Symbol,NASDAQ Symbol,NextShares,Industry,Source
+Y,AAOI,"Applied Optoelectronics, Inc. - Common Stock",Q,G,N,100.0,N,N,,AAOI,N,Technology,Yahoo Finance
+Y,AAPL,Apple Inc. - Common Stock,Q,Q,N,100.0,N,N,,AAPL,N,Technology,Yahoo Finance
+Y,ACIW,"ACI Worldwide, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ACIW,N,Technology,Yahoo Finance
+Y,ACLS,"Axcelis Technologies, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ACLS,N,Technology,Yahoo Finance
+Y,ACMR,"ACM Research, Inc. - Class A Common Stock",Q,G,N,100.0,N,N,,ACMR,N,Technology,Yahoo Finance
+Y,ACN,Accenture plc Class A Ordinary Shares (Ireland),N, ,N,100.0,N,,ACN,ACN,N,Technology,Yahoo Finance
+Y,ADBE,Adobe Inc. - Common Stock,Q,Q,N,100.0,N,N,,ADBE,N,Technology,Yahoo Finance
+Y,ADI,"Analog Devices, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ADI,N,Technology,Yahoo Finance
+Y,ADP,"Automatic Data Processing, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ADP,N,Technology,Yahoo Finance
+Y,ADSK,"Autodesk, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ADSK,N,Technology,Yahoo Finance
+Y,ADTN,"ADTRAN, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ADTN,N,Technology,Yahoo Finance
+Y,AEHR,Aehr Test Systems - Common Stock,Q,S,N,100.0,N,N,,AEHR,N,Technology,Yahoo Finance
+Y,AEYE,"AudioEye, Inc. - Common Stock",Q,S,N,100.0,N,N,,AEYE,N,Technology,Yahoo Finance
+Y,AGMH,AGM Group Holdings Inc. - Class A Ordinary Shares,Q,S,N,100.0,N,D,,AGMH,N,Technology,Yahoo Finance
+Y,AGYS,"Agilysys, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AGYS,N,Technology,Yahoo Finance
+Y,AI,Arlington Asset Investment Corp Class A (new),N, ,N,100.0,N,,AI,AI,N,Technology,Yahoo Finance
+Y,AIRG,"Airgain, Inc. - Common Stock",Q,S,N,100.0,N,N,,AIRG,N,Technology,Yahoo Finance
+Y,AKAM,"Akamai Technologies, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AKAM,N,Technology,Yahoo Finance
+Y,ALLT,Allot Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,ALLT,N,Technology,Yahoo Finance
+Y,ALOT,"AstroNova, Inc. - Common Stock",Q,G,N,100.0,N,N,,ALOT,N,Technology,Yahoo Finance
+Y,ALRM,"Alarm.com Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ALRM,N,Technology,Yahoo Finance
+Y,AMAT,"Applied Materials, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AMAT,N,Technology,Yahoo Finance
+Y,AMBA,"Ambarella, Inc. - Ordinary Shares",Q,Q,N,100.0,N,N,,AMBA,N,Technology,Yahoo Finance
+Y,AMD,"Advanced Micro Devices, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AMD,N,Technology,Yahoo Finance
+Y,AMKR,"Amkor Technology, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AMKR,N,Technology,Yahoo Finance
+Y,ANET,"Arista Networks, Inc. Common Stock",N, ,N,100.0,N,,ANET,ANET,N,Technology,Yahoo Finance
+Y,AOSL,Alpha and Omega Semiconductor Limited - Common Shares,Q,Q,N,100.0,N,N,,AOSL,N,Technology,Yahoo Finance
+Y,APH,Amphenol Corporation Common Stock,N, ,N,100.0,N,,APH,APH,N,Technology,Yahoo Finance
+Y,APPF,"AppFolio, Inc. - Class A Common Stock",Q,G,N,100.0,N,N,,APPF,N,Technology,Yahoo Finance
+Y,APPN,Appian Corporation - Class A Common Stock,Q,G,N,100.0,N,N,,APPN,N,Technology,Yahoo Finance
+Y,APPS,"Digital Turbine, Inc. - Common Stock",Q,S,N,100.0,N,N,,APPS,N,Technology,Yahoo Finance
+Y,ARW,"Arrow Electronics, Inc. Common Stock",N, ,N,100.0,N,,ARW,ARW,N,Technology,Yahoo Finance
+Y,ASGN,ASGN Incorporated Common Stock,N, ,N,100.0,N,,ASGN,ASGN,N,Technology,Yahoo Finance
+Y,ASML,ASML Holding N.V. - New York Registry Shares,Q,Q,N,100.0,N,N,,ASML,N,Technology,Yahoo Finance
+Y,ASTC,Astrotech Corporation - Common Stock,Q,S,N,100.0,N,D,,ASTC,N,Technology,Yahoo Finance
+Y,ASUR,Asure Software Inc - Common Stock,Q,S,N,100.0,N,N,,ASUR,N,Technology,Yahoo Finance
+Y,ASX,"ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ",N, ,N,100.0,N,,ASX,ASX,N,Technology,Yahoo Finance
+Y,ASYS,"Amtech Systems, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ASYS,N,Technology,Yahoo Finance
+Y,ATEN,"A10 Networks, Inc. Common Stock",N, ,N,100.0,N,,ATEN,ATEN,N,Technology,Yahoo Finance
+Y,ATOM,Atomera Incorporated - Common Stock,Q,S,N,100.0,N,N,,ATOM,N,Technology,Yahoo Finance
+Y,AUDC,AudioCodes Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,AUDC,N,Technology,Yahoo Finance
+Y,AVGO,Broadcom Inc. - Common Stock,Q,Q,N,100.0,N,N,,AVGO,N,Technology,Yahoo Finance
+Y,AVNW,"Aviat Networks, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AVNW,N,Technology,Yahoo Finance
+Y,AVT,"Avnet, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AVT,N,Technology,Yahoo Finance
+Y,AWRE,"Aware, Inc. - Common Stock",Q,G,N,100.0,N,N,,AWRE,N,Technology,Yahoo Finance
+Y,AXTI,AXT Inc - Common Stock,Q,Q,N,100.0,N,N,,AXTI,N,Technology,Yahoo Finance
+Y,BAND,Bandwidth Inc. - Class A Common Stock,Q,Q,N,100.0,N,N,,BAND,N,Technology,Yahoo Finance
+Y,BB,BlackBerry Limited Common Stock,N, ,N,100.0,N,,BB,BB,N,Technology,Yahoo Finance
+Y,BDC,Belden Inc Common Stock,N, ,N,100.0,N,,BDC,BDC,N,Technology,Yahoo Finance
+Y,BELFA,Bel Fuse Inc. - Class A Common Stock,Q,Q,N,100.0,N,N,,BELFA,N,Technology,Yahoo Finance
+Y,BELFB,Bel Fuse Inc. - Class B Common Stock,Q,Q,N,100.0,N,N,,BELFB,N,Technology,Yahoo Finance
+Y,BHE,"Benchmark Electronics, Inc. Common Stock",N, ,N,100.0,N,,BHE,BHE,N,Technology,Yahoo Finance
+Y,BILL,"Bill.com Holdings, Inc. Common Stock",N, ,N,100.0,N,,BILL,BILL,N,Technology,Yahoo Finance
+Y,BKTI,BK Technologies Corporation Common Stock,A, ,N,100.0,N,,BKTI,BKTI,N,Technology,Yahoo Finance
+Y,BL,"BlackLine, Inc. - Common Stock",Q,Q,N,100.0,N,N,,BL,N,Technology,Yahoo Finance
+Y,BLIN,"Bridgeline Digital, Inc. - Common Stock",Q,S,N,100.0,N,N,,BLIN,N,Technology,Yahoo Finance
+Y,BLKB,"Blackbaud, Inc. - Common Stock",Q,Q,N,100.0,N,N,,BLKB,N,Technology,Yahoo Finance
+Y,BMI,"Badger Meter, Inc. Common Stock",N, ,N,100.0,N,,BMI,BMI,N,Technology,Yahoo Finance
+Y,BOSC,B.O.S. Better Online Solutions - Ordinary Shares,Q,S,N,100.0,N,N,,BOSC,N,Technology,Yahoo Finance
+Y,BOX,"Box, Inc. Class A Common Stock",N, ,N,100.0,N,,BOX,BOX,N,Technology,Yahoo Finance
+Y,BOXL,Boxlight Corporation - Class A Common Stock,Q,S,N,100.0,N,D,,BOXL,N,Technology,Yahoo Finance
+Y,BR,"Broadridge Financial Solutions, Inc.Common Stock",N, ,N,100.0,N,,BR,BR,N,Technology,Yahoo Finance
+Y,CACI,"CACI International, Inc. Class A Common Stock",N, ,N,100.0,N,,CACI,CACI,N,Technology,Yahoo Finance
+Y,CALX,"Calix, Inc Common Stock",N, ,N,100.0,N,,CALX,CALX,N,Technology,Yahoo Finance
+Y,CAMT,Camtek Ltd. - Ordinary Shares,Q,G,N,100.0,N,N,,CAMT,N,Technology,Yahoo Finance
+Y,CAN,Canaan Inc. - American Depositary Shares,Q,G,N,100.0,N,N,,CAN,N,Technology,Yahoo Finance
+Y,CCC,Clarivate Analytics Plc Ordinary Shares,N, ,N,100.0,N,,CCC,CCC,N,Technology,Yahoo Finance
+Y,CDNS,"Cadence Design Systems, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CDNS,N,Technology,Yahoo Finance
+Y,CDW,CDW Corporation - Common Stock,Q,Q,N,100.0,N,N,,CDW,N,Technology,Yahoo Finance
+Y,CETX,Cemtrex Inc. - Common Stock,Q,S,N,100.0,N,N,,CETX,N,Technology,Yahoo Finance
+Y,CETXP,Cemtrex Inc. - Series 1 Preferred Stock,Q,S,N,100.0,N,N,,CETXP,N,Technology,Yahoo Finance
+Y,CEVA,"CEVA, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CEVA,N,Technology,Yahoo Finance
+Y,CGNX,Cognex Corporation - Common Stock,Q,Q,N,100.0,N,N,,CGNX,N,Technology,Yahoo Finance
+Y,CHKP,Check Point Software Technologies Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,CHKP,N,Technology,Yahoo Finance
+Y,CIEN,Ciena Corporation Common Stock,N, ,N,100.0,N,,CIEN,CIEN,N,Technology,Yahoo Finance
+Y,CLFD,"Clearfield, Inc. - Common Stock",Q,G,N,100.0,N,N,,CLFD,N,Technology,Yahoo Finance
+Y,CLPS,CLPS Incorporation - Common Stock,Q,G,N,100.0,N,N,,CLPS,N,Technology,Yahoo Finance
+Y,CLRO,"ClearOne, Inc. - Common Stock",Q,S,N,100.0,N,N,,CLRO,N,Technology,Yahoo Finance
+Y,CLS,"Celestica, Inc. Common Stock",N, ,N,100.0,N,,CLS,CLS,N,Technology,Yahoo Finance
+Y,CMBM,Cambium Networks Corporation - Ordinary Shares,Q,G,N,100.0,N,N,,CMBM,N,Technology,Yahoo Finance
+Y,CMTL,Comtech Telecommunications Corp. - Common Stock,Q,Q,N,100.0,N,N,,CMTL,N,Technology,Yahoo Finance
+Y,CNDT,Conduent Incorporated - Common Stock,Q,Q,N,100.0,N,N,,CNDT,N,Technology,Yahoo Finance
+Y,CNXN,"PC Connection, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CNXN,N,Technology,Yahoo Finance
+Y,COHR,"Coherent, Inc. - Common Stock",Q,Q,N,100.0,N,N,,COHR,N,Technology,Yahoo Finance
+Y,COHU,"Cohu, Inc. - Common Stock",Q,Q,N,100.0,N,N,,COHU,N,Technology,Yahoo Finance
+Y,COMM,"CommScope Holding Company, Inc. - Common Stock",Q,Q,N,100.0,N,N,,COMM,N,Technology,Yahoo Finance
+Y,CPSH,CPS Technologies Corp. - Common Stock,Q,S,N,100.0,N,N,,CPSH,N,Technology,Yahoo Finance
+Y,CREX,"Creative Realities, Inc. - Common Stock",Q,S,N,100.0,N,N,,CREX,N,Technology,Yahoo Finance
+Y,CRM,Salesforce.com Inc Common Stock,N, ,N,100.0,N,,CRM,CRM,N,Technology,Yahoo Finance
+Y,CRNC,Cerence Inc. - Common Stock,Q,Q,N,100.0,N,N,,CRNC,N,Technology,Yahoo Finance
+Y,CRNT,Ceragon Networks Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,CRNT,N,Technology,Yahoo Finance
+Y,CRUS,"Cirrus Logic, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CRUS,N,Technology,Yahoo Finance
+Y,CRWD,"CrowdStrike Holdings, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,CRWD,N,Technology,Yahoo Finance
+Y,CSCO,"Cisco Systems, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CSCO,N,Technology,Yahoo Finance
+Y,CSGS,"CSG Systems International, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CSGS,N,Technology,Yahoo Finance
+Y,CSIQ,Canadian Solar Inc. - common shares,Q,Q,N,100.0,N,N,,CSIQ,N,Technology,Yahoo Finance
+Y,CSPI,CSP Inc. - Common Stock,Q,G,N,100.0,N,N,,CSPI,N,Technology,Yahoo Finance
+Y,CTS,CTS Corporation Common Stock,N, ,N,100.0,N,,CTS,CTS,N,Technology,Yahoo Finance
+Y,CTSH,Cognizant Technology Solutions Corporation - Class A Common Stock,Q,Q,N,100.0,N,N,,CTSH,N,Technology,Yahoo Finance
+Y,CVLT,"Commvault Systems, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CVLT,N,Technology,Yahoo Finance
+Y,CYBR,CyberArk Software Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,CYBR,N,Technology,Yahoo Finance
+Y,DAIO,Data I/O Corporation - Common Stock,Q,S,N,100.0,N,N,,DAIO,N,Technology,Yahoo Finance
+Y,DAKT,"Daktronics, Inc. - Common Stock",Q,Q,N,100.0,N,N,,DAKT,N,Technology,Yahoo Finance
+Y,DAVA,Endava plc American Depositary Shares (each representing one Class A Ordinary Share),N, ,N,100.0,N,,DAVA,DAVA,N,Technology,Yahoo Finance
+Y,DBD,Diebold Nixdorf Incorporated Common Stock,N, ,N,100.0,N,,DBD,DBD,N,Technology,Yahoo Finance
+Y,DBX,"Dropbox, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,DBX,N,Technology,Yahoo Finance
+Y,DDD,3D Systems Corporation Common Stock,N, ,N,100.0,N,,DDD,DDD,N,Technology,Yahoo Finance
+Y,DDOG,"Datadog, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,DDOG,N,Technology,Yahoo Finance
+Y,DELL,Dell Technologies Inc. Class C Common Stock ,N, ,N,100.0,N,,DELL,DELL,N,Technology,Yahoo Finance
+Y,DFIN,"Donnelley Financial Solutions, Inc. Common Stock ",N, ,N,100.0,N,,DFIN,DFIN,N,Technology,Yahoo Finance
+Y,DGII,Digi International Inc. - Common Stock,Q,Q,N,100.0,N,N,,DGII,N,Technology,Yahoo Finance
+Y,DHX,"DHI Group, Inc. Common Stock",N, ,N,100.0,N,,DHX,DHX,N,Technology,Yahoo Finance
+Y,DIOD,Diodes Incorporated - Common Stock,Q,Q,N,100.0,N,N,,DIOD,N,Technology,Yahoo Finance
+Y,DJCO,Daily Journal Corp. (S.C.) - Common Stock,Q,S,N,100.0,N,N,,DJCO,N,Technology,Yahoo Finance
+Y,DMRC,Digimarc Corporation - Common Stock,Q,Q,N,100.0,N,N,,DMRC,N,Technology,Yahoo Finance
+Y,DOCU,"DocuSign, Inc. - Common Stock",Q,Q,N,100.0,N,N,,DOCU,N,Technology,Yahoo Finance
+Y,DOMO,"Domo, Inc. - Class B Common Stock",Q,G,N,100.0,N,N,,DOMO,N,Technology,Yahoo Finance
+Y,DOX,Amdocs Limited - Ordinary Shares,Q,Q,N,100.0,N,N,,DOX,N,Technology,Yahoo Finance
+Y,DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares",N, ,N,100.0,N,,DQ,DQ,N,Technology,Yahoo Finance
+Y,DSGX,The Descartes Systems Group Inc. - Common Stock,Q,Q,N,100.0,N,N,,DSGX,N,Technology,Yahoo Finance
+Y,DSWL,"Deswell Industries, Inc. - Common Shares",Q,G,N,100.0,N,N,,DSWL,N,Technology,Yahoo Finance
+Y,DT,"Dynatrace, Inc. Common Stock",N, ,N,100.0,N,,DT,DT,N,Technology,Yahoo Finance
+Y,DTSS,Datasea Inc. - Common Stock,Q,S,N,100.0,N,N,,DTSS,N,Technology,Yahoo Finance
+Y,DUOT,"Duos Technologies Group, Inc. - Common Stock",Q,S,N,100.0,N,N,,DUOT,N,Technology,Yahoo Finance
+Y,DXC,DXC Technology Company Common Stock ,N, ,N,100.0,N,,DXC,DXC,N,Technology,Yahoo Finance
+Y,DZSI,"DASAN Zhone Solutions, Inc. - Common Stock",Q,S,N,100.0,N,D,,DZSI,N,Technology,Yahoo Finance
+Y,EEFT,"Euronet Worldwide, Inc. - Common Stock",Q,Q,N,100.0,N,N,,EEFT,N,Technology,Yahoo Finance
+Y,EGAN,eGain Corporation - Common Stock,Q,S,N,100.0,N,N,,EGAN,N,Technology,Yahoo Finance
+Y,EGHT,8x8 Inc Common Stock,N, ,N,100.0,N,,EGHT,EGHT,N,Technology,Yahoo Finance
+Y,ELSE,"Electro-Sensors, Inc. - Common Stock",Q,S,N,100.0,N,N,,ELSE,N,Technology,Yahoo Finance
+Y,ELTK,Eltek Ltd. - Ordinary Shares,Q,S,N,100.0,N,N,,ELTK,N,Technology,Yahoo Finance
+Y,ENPH,"Enphase Energy, Inc. - Common Stock",Q,G,N,100.0,N,N,,ENPH,N,Technology,Yahoo Finance
+Y,ENTG,"Entegris, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ENTG,N,Technology,Yahoo Finance
+Y,EPAM,"EPAM Systems, Inc. Common Stock",N, ,N,100.0,N,,EPAM,EPAM,N,Technology,Yahoo Finance
+Y,ERIC,Ericsson - American Depositary Shares each representing 1 underlying Class B share,Q,Q,N,100.0,N,N,,ERIC,N,Technology,Yahoo Finance
+Y,ESE,ESCO Technologies Inc. Common Stock,N, ,N,100.0,N,,ESE,ESE,N,Technology,Yahoo Finance
+Y,ESTC,Elastic N.V. Ordinary Shares,N, ,N,100.0,N,,ESTC,ESTC,N,Technology,Yahoo Finance
+Y,EVOL,"Evolving Systems, Inc. - Common Stock",Q,S,N,100.0,N,D,,EVOL,N,Technology,Yahoo Finance
+Y,EVTC,"Evertec, Inc. Common Stock",N, ,N,100.0,N,,EVTC,EVTC,N,Technology,Yahoo Finance
+Y,EXLS,"ExlService Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,EXLS,N,Technology,Yahoo Finance
+Y,EXTR,"Extreme Networks, Inc. - Common Stock",Q,Q,N,100.0,N,N,,EXTR,N,Technology,Yahoo Finance
+Y,FEIM,"Frequency Electronics, Inc. - Common Stock",Q,G,N,100.0,N,N,,FEIM,N,Technology,Yahoo Finance
+Y,FFIV,"F5 Networks, Inc. - Common Stock",Q,Q,N,100.0,N,N,,FFIV,N,Technology,Yahoo Finance
+Y,FI,Frank's International N.V. Common Stock,N, ,N,100.0,N,,FI,FI,N,Technology,Yahoo Finance
+Y,FICO,Fair Isaac Corproation Common Stock,N, ,N,100.0,N,,FICO,FICO,N,Technology,Yahoo Finance
+Y,FIEE,"UBS AG FI Enhanced Europe 50 ETN due February 12, 2026",P, ,N,100.0,N,,FIEE,FIEE,N,Technology,Yahoo Finance
+Y,FIS,"Fidelity National Information Services, Inc. Common Stock",N, ,N,100.0,N,,FIS,FIS,N,Technology,Yahoo Finance
+Y,FIVN,"Five9, Inc. - Common Stock",Q,G,N,100.0,N,N,,FIVN,N,Technology,Yahoo Finance
+Y,FLEX,Flex Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,FLEX,N,Technology,Yahoo Finance
+Y,FN,Fabrinet Ordinary Shares,N, ,N,100.0,N,,FN,FN,N,Technology,Yahoo Finance
+Y,FORM,"FormFactor, Inc. - Common Stock",Q,Q,N,100.0,N,N,,FORM,N,Technology,Yahoo Finance
+Y,FORTY,Formula Systems (1985) Ltd. - American Depositary Shares,Q,Q,N,100.0,N,N,,FORTY,N,Technology,Yahoo Finance
+Y,FSLR,"First Solar, Inc. - Common Stock",Q,Q,N,100.0,N,N,,FSLR,N,Technology,Yahoo Finance
+Y,FSLY,"Fastly, Inc. Class A Common Stock",N, ,N,100.0,N,,FSLY,FSLY,N,Technology,Yahoo Finance
+Y,FTFT,Future FinTech Group Inc. - Common Stock,Q,S,N,100.0,N,D,,FTFT,N,Technology,Yahoo Finance
+Y,FTNT,"Fortinet, Inc. - Common Stock",Q,Q,N,100.0,N,N,,FTNT,N,Technology,Yahoo Finance
+Y,FTV,Fortive Corporation Common Stock ,N, ,N,100.0,N,,FTV,FTV,N,Technology,Yahoo Finance
+Y,G,Genpact Limited Common Stock,N, ,N,100.0,N,,G,G,N,Technology,Yahoo Finance
+Y,GDDY,GoDaddy Inc. Class A Common Stock,N, ,N,100.0,N,,GDDY,GDDY,N,Technology,Yahoo Finance
+Y,GDS,GDS Holdings Limited - American Depositary Shares,Q,G,N,100.0,N,N,,GDS,N,Technology,Yahoo Finance
+Y,GDYN,"Grid Dynamics Holdings, Inc. - Class A Common Stock",Q,S,N,100.0,N,N,,GDYN,N,Technology,Yahoo Finance
+Y,GEN,"Genesis Healthcare, Inc. Common Stock",N, ,N,100.0,N,,GEN,GEN,N,Technology,Yahoo Finance
+Y,GIB,CGI Inc. Common Stock,N, ,N,100.0,N,,GIB,GIB,N,Technology,Yahoo Finance
+Y,GILT,Gilat Satellite Networks Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,GILT,N,Technology,Yahoo Finance
+Y,GLOB,Globant S.A. Common Shares,N, ,N,100.0,N,,GLOB,GLOB,N,Technology,Yahoo Finance
+Y,GLW,Corning Incorporated Common Stock,N, ,N,100.0,N,,GLW,GLW,N,Technology,Yahoo Finance
+Y,GNSS,Genasys Inc. - Common Stock,Q,S,N,100.0,N,N,,GNSS,N,Technology,Yahoo Finance
+Y,GPRO,"GoPro, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,GPRO,N,Technology,Yahoo Finance
+Y,GRMN,Garmin Ltd. - Common Stock,Q,Q,N,100.0,N,N,,GRMN,N,Technology,Yahoo Finance
+Y,GSIT,"GSI Technology, Inc. - Common Stock",Q,Q,N,100.0,N,N,,GSIT,N,Technology,Yahoo Finance
+Y,GWRE,"Guidewire Software, Inc. Common Stock",N, ,N,100.0,N,,GWRE,GWRE,N,Technology,Yahoo Finance
+Y,HCKT,"The Hackett Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,HCKT,N,Technology,Yahoo Finance
+Y,HIMX,"Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",Q,Q,N,100.0,N,N,,HIMX,N,Technology,Yahoo Finance
+Y,HLIT,Harmonic Inc. - Common Stock,Q,Q,N,100.0,N,N,,HLIT,N,Technology,Yahoo Finance
+Y,HPE,Hewlett Packard Enterprise Company Common Stock,N, ,N,100.0,N,,HPE,HPE,N,Technology,Yahoo Finance
+Y,HPQ,HP Inc. Common Stock,N, ,N,100.0,N,,HPQ,HPQ,N,Technology,Yahoo Finance
+Y,HUBS,"HubSpot, Inc. Common Stock",N, ,N,100.0,N,,HUBS,HUBS,N,Technology,Yahoo Finance
+Y,IBM,International Business Machines Corporation Common Stock,N, ,N,100.0,N,,IBM,IBM,N,Technology,Yahoo Finance
+Y,ICHR,Ichor Holdings - Ordinary Shares,Q,Q,N,100.0,N,N,,ICHR,N,Technology,Yahoo Finance
+Y,IDCC,"InterDigital, Inc. - Common Stock",Q,Q,N,100.0,N,N,,IDCC,N,Technology,Yahoo Finance
+Y,IDN,"Intellicheck, Inc. - Common Stock",Q,G,N,100.0,N,N,,IDN,N,Technology,Yahoo Finance
+Y,III,"Information Services Group, Inc. - Common Stock",Q,G,N,100.0,N,N,,III,N,Technology,Yahoo Finance
+Y,IIIV,"i3 Verticals, Inc. - Common Stock",Q,Q,N,100.0,N,N,,IIIV,N,Technology,Yahoo Finance
+Y,IMMR,Immersion Corporation - Common Stock,Q,Q,N,100.0,N,N,,IMMR,N,Technology,Yahoo Finance
+Y,IMOS,ChipMOS TECHNOLOGIES INC. - American Depositary Shares,Q,Q,N,100.0,N,N,,IMOS,N,Technology,Yahoo Finance
+Y,IMTE,Integrated Media Technology Limited - Ordinary Shares,Q,S,N,100.0,N,N,,IMTE,N,Technology,Yahoo Finance
+Y,IMXI,"International Money Express, Inc. - Common Stock",Q,S,N,100.0,N,N,,IMXI,N,Technology,Yahoo Finance
+Y,INFY,Infosys Limited American Depositary Shares,N, ,N,100.0,N,,INFY,INFY,N,Technology,Yahoo Finance
+Y,INOD,Innodata Inc. - Common Stock,Q,G,N,100.0,N,N,,INOD,N,Technology,Yahoo Finance
+Y,INSG,Inseego Corp. - Common Stock,Q,Q,N,100.0,N,N,,INSG,N,Technology,Yahoo Finance
+Y,INTC,Intel Corporation - Common Stock,Q,Q,N,100.0,N,N,,INTC,N,Technology,Yahoo Finance
+Y,INTT,inTest Corporation Common Stock,A, ,N,100.0,N,,INTT,INTT,N,Technology,Yahoo Finance
+Y,INTU,Intuit Inc. - Common Stock,Q,Q,N,100.0,N,N,,INTU,N,Technology,Yahoo Finance
+Y,INUV,"Inuvo, Inc.",A, ,N,100.0,N,,INUV,INUV,N,Technology,Yahoo Finance
+Y,IPGP,IPG Photonics Corporation - Common Stock,Q,Q,N,100.0,N,N,,IPGP,N,Technology,Yahoo Finance
+Y,IPWR,Ideal Power Inc. - Common Stock,Q,S,N,100.0,N,N,,IPWR,N,Technology,Yahoo Finance
+Y,IT,"Gartner, Inc. Common Stock",N, ,N,100.0,N,,IT,IT,N,Technology,Yahoo Finance
+Y,ITRI,"Itron, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ITRI,N,Technology,Yahoo Finance
+Y,ITRN,Ituran Location and Control Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,ITRN,N,Technology,Yahoo Finance
+Y,JBL,Jabil Inc. Common Stock,N, ,N,100.0,N,,JBL,JBL,N,Technology,Yahoo Finance
+Y,JFU,9F Inc. - American Depositary Shares,Q,G,N,100.0,N,N,,JFU,N,Technology,Yahoo Finance
+Y,JG,Aurora Mobile Limited - American Depositary Shares,Q,G,N,100.0,N,N,,JG,N,Technology,Yahoo Finance
+Y,JKHY,"Jack Henry & Associates, Inc. - Common Stock",Q,Q,N,100.0,N,N,,JKHY,N,Technology,Yahoo Finance
+Y,JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),N, ,N,100.0,N,,JKS,JKS,N,Technology,Yahoo Finance
+Y,KEYS,Keysight Technologies Inc. Common Stock,N, ,N,100.0,N,,KEYS,KEYS,N,Technology,Yahoo Finance
+Y,KLAC,KLA Corporation  - Common Stock,Q,Q,N,100.0,N,N,,KLAC,N,Technology,Yahoo Finance
+Y,KLIC,"Kulicke and Soffa Industries, Inc. - Common Stock",Q,Q,N,100.0,N,N,,KLIC,N,Technology,Yahoo Finance
+Y,KN,Knowles Corporation Common Stock,N, ,N,100.0,N,,KN,KN,N,Technology,Yahoo Finance
+Y,KOPN,Kopin Corporation - Common Stock,Q,Q,N,100.0,N,D,,KOPN,N,Technology,Yahoo Finance
+Y,KOSS,Koss Corporation - Common Stock,Q,S,N,100.0,N,N,,KOSS,N,Technology,Yahoo Finance
+Y,KTCC,Key Tronic Corporation - Common Stock,Q,G,N,100.0,N,N,,KTCC,N,Technology,Yahoo Finance
+Y,LASR,"nLIGHT, Inc. - Common Stock",Q,Q,N,100.0,N,N,,LASR,N,Technology,Yahoo Finance
+Y,LDOS,"Leidos Holdings, Inc. Common Stock",N, ,N,100.0,N,,LDOS,LDOS,N,Technology,Yahoo Finance
+Y,LEDS,SemiLEDS Corporation - Common Stock,Q,S,N,100.0,N,D,,LEDS,N,Technology,Yahoo Finance
+Y,LFUS,"Littelfuse, Inc. - Common Stock",Q,Q,N,100.0,N,N,,LFUS,N,Technology,Yahoo Finance
+Y,LGL,"LGL Group, Inc. (The) Common Stock",A, ,N,100.0,N,,LGL,LGL,N,Technology,Yahoo Finance
+Y,LITE,Lumentum Holdings Inc. - Common Stock,Q,Q,N,100.0,N,N,,LITE,N,Technology,Yahoo Finance
+Y,LOGI,Logitech International S.A. - Registered Shares,Q,Q,N,100.0,N,N,,LOGI,N,Technology,Yahoo Finance
+Y,LPL,"LG Display Co, Ltd AMERICAN DEPOSITORY SHARES",N, ,N,100.0,N,,LPL,LPL,N,Technology,Yahoo Finance
+Y,LPSN,"LivePerson, Inc. - Common Stock",Q,Q,N,100.0,N,N,,LPSN,N,Technology,Yahoo Finance
+Y,LPTH,"LightPath Technologies, Inc. - Class A Common Stock",Q,S,N,100.0,N,N,,LPTH,N,Technology,Yahoo Finance
+Y,LRCX,Lam Research Corporation - Common Stock,Q,Q,N,100.0,N,N,,LRCX,N,Technology,Yahoo Finance
+Y,LSCC,Lattice Semiconductor Corporation - Common Stock,Q,Q,N,100.0,N,N,,LSCC,N,Technology,Yahoo Finance
+Y,LTRX,"Lantronix, Inc. - Common Stock",Q,S,N,100.0,N,N,,LTRX,N,Technology,Yahoo Finance
+Y,LUNA,Luna Innovations Incorporated - Common Stock,Q,S,N,100.0,N,N,,LUNA,N,Technology,Yahoo Finance
+Y,LYFT,"Lyft, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,LYFT,N,Technology,Yahoo Finance
+Y,LYTS,LSI Industries Inc. - Common Stock,Q,Q,N,100.0,N,N,,LYTS,N,Technology,Yahoo Finance
+Y,MANH,"Manhattan Associates, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MANH,N,Technology,Yahoo Finance
+Y,MARK,"Remark Holdings, Inc. - Common Stock",Q,S,N,100.0,N,D,,MARK,N,Technology,Yahoo Finance
+Y,MCHP,Microchip Technology Incorporated - Common Stock,Q,Q,N,100.0,N,N,,MCHP,N,Technology,Yahoo Finance
+Y,MDB,"MongoDB, Inc. - Class A Common Stock",Q,G,N,100.0,N,N,,MDB,N,Technology,Yahoo Finance
+Y,MEI,"Methode Electronics, Inc. Common Stock",N, ,N,100.0,N,,MEI,MEI,N,Technology,Yahoo Finance
+Y,MFH,JMU Limited - American Depositary Shares,Q,S,N,100.0,N,D,,MFH,N,Technology,Yahoo Finance
+Y,MGIC,Magic Software Enterprises Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,MGIC,N,Technology,Yahoo Finance
+Y,MIND,"Mitcham Industries, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MIND,N,Technology,Yahoo Finance
+Y,MITK,"Mitek Systems, Inc. - Common Stock",Q,S,N,100.0,N,N,,MITK,N,Technology,Yahoo Finance
+Y,MKSI,"MKS Instruments, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MKSI,N,Technology,Yahoo Finance
+Y,MLAB,"Mesa Laboratories, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MLAB,N,Technology,Yahoo Finance
+Y,MNDO,MIND C.T.I. Ltd. - Ordinary Shares,Q,G,N,100.0,N,N,,MNDO,N,Technology,Yahoo Finance
+Y,MOGO,Mogo Inc. - Common Shares,Q,S,N,100.0,N,N,,MOGO,N,Technology,Yahoo Finance
+Y,MPWR,"Monolithic Power Systems, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MPWR,N,Technology,Yahoo Finance
+Y,MRAM,"Everspin Technologies, Inc. - Common Stock",Q,G,N,100.0,N,N,,MRAM,N,Technology,Yahoo Finance
+Y,MRVL,Marvell Technology Group Ltd. - Common Stock,Q,Q,N,100.0,N,N,,MRVL,N,Technology,Yahoo Finance
+Y,MSFT,Microsoft Corporation - Common Stock,Q,Q,N,100.0,N,N,,MSFT,N,Technology,Yahoo Finance
+Y,MSI,"Motorola Solutions, Inc. Common Stock",N, ,N,100.0,N,,MSI,MSI,N,Technology,Yahoo Finance
+Y,MSN,Emerson Radio Corporation Common Stock,A, ,N,100.0,N,,MSN,MSN,N,Technology,Yahoo Finance
+Y,MSTR,MicroStrategy Incorporated - Class A Common Stock,Q,Q,N,100.0,N,N,,MSTR,N,Technology,Yahoo Finance
+Y,MTC,"MMTec, Inc. - Common Shares",Q,S,N,100.0,N,N,,MTC,N,Technology,Yahoo Finance
+Y,MTLS,Materialise NV - American Depositary Shares,Q,Q,N,100.0,N,N,,MTLS,N,Technology,Yahoo Finance
+Y,MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MTSI,N,Technology,Yahoo Finance
+Y,MU,"Micron Technology, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MU,N,Technology,Yahoo Finance
+Y,MVIS,"MicroVision, Inc. - Common Stock",Q,G,N,100.0,N,D,,MVIS,N,Technology,Yahoo Finance
+Y,MX,"MagnaChip Semiconductor Corporation Depositary Shares, each representing one share of common stock",N, ,N,100.0,N,,MX,MX,N,Technology,Yahoo Finance
+Y,MXL,"MaxLinear, Inc. Common Stock",N, ,N,100.0,N,,MXL,MXL,N,Technology,Yahoo Finance
+Y,MYSZ,"My Size, Inc. - Common Stock",Q,S,N,100.0,N,D,,MYSZ,N,Technology,Yahoo Finance
+Y,NEON,Neonode Inc. - Common Stock,Q,S,N,100.0,N,N,,NEON,N,Technology,Yahoo Finance
+Y,NET,"Cloudflare, Inc. Class A Common Stock",N, ,N,100.0,N,,NET,NET,N,Technology,Yahoo Finance
+Y,NICE,NICE Ltd - American Depositary Shares each representing one Ordinary Share,Q,Q,N,100.0,N,N,,NICE,N,Technology,Yahoo Finance
+Y,NNDM,Nano Dimension Ltd. - American Depositary Shares,Q,S,N,100.0,N,N,,NNDM,N,Technology,Yahoo Finance
+Y,NOK,Nokia Corporation Sponsored American Depositary Shares,N, ,N,100.0,N,,NOK,NOK,N,Technology,Yahoo Finance
+Y,NOVT,Novanta Inc. - Common Shares,Q,Q,N,100.0,N,N,,NOVT,N,Technology,Yahoo Finance
+Y,NOW,"ServiceNow, Inc. Common Stock",N, ,N,100.0,N,,NOW,NOW,N,Technology,Yahoo Finance
+Y,NSIT,"Insight Enterprises, Inc. - Common Stock",Q,Q,N,100.0,N,N,,NSIT,N,Technology,Yahoo Finance
+Y,NTAP,"NetApp, Inc. - Common Stock",Q,Q,N,100.0,N,N,,NTAP,N,Technology,Yahoo Finance
+Y,NTCT,"NetScout Systems, Inc. - Common Stock",Q,Q,N,100.0,N,N,,NTCT,N,Technology,Yahoo Finance
+Y,NTGR,"NETGEAR, Inc. - Common Stock",Q,Q,N,100.0,N,N,,NTGR,N,Technology,Yahoo Finance
+Y,NTNX,"Nutanix, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,NTNX,N,Technology,Yahoo Finance
+Y,NTWK,NETSOL Technologies Inc. - Common Stock,Q,S,N,100.0,N,N,,NTWK,N,Technology,Yahoo Finance
+Y,NVDA,NVIDIA Corporation - Common Stock,Q,Q,N,100.0,N,N,,NVDA,N,Technology,Yahoo Finance
+Y,NVEC,NVE Corporation - Common Stock,Q,S,N,100.0,N,N,,NVEC,N,Technology,Yahoo Finance
+Y,NVMI,Nova Measuring Instruments Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,NVMI,N,Technology,Yahoo Finance
+Y,NXPI,NXP Semiconductors N.V. - Common Stock,Q,Q,N,100.0,N,N,,NXPI,N,Technology,Yahoo Finance
+Y,OBLG,Oblong Inc. Common Stock,A, ,N,100.0,N,,OBLG,OBLG,N,Technology,Yahoo Finance
+Y,OCC,Optical Cable Corporation - Common Stock,Q,G,N,100.0,N,N,,OCC,N,Technology,Yahoo Finance
+Y,OCFT,"OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing three ordinary shares",N, ,N,100.0,N,,OCFT,OCFT,N,Technology,Yahoo Finance
+Y,OKTA,"Okta, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,OKTA,N,Technology,Yahoo Finance
+Y,OLED,Universal Display Corporation - Common Stock,Q,Q,N,100.0,N,N,,OLED,N,Technology,Yahoo Finance
+Y,ON,ON Semiconductor Corporation - Common Stock,Q,Q,N,100.0,N,N,,ON,N,Technology,Yahoo Finance
+Y,ONTO,Onto Innovation Inc. Common Stock,N, ,N,100.0,N,,ONTO,ONTO,N,Technology,Yahoo Finance
+Y,OOMA,"Ooma, Inc. Common Stock",N, ,N,100.0,N,,OOMA,OOMA,N,Technology,Yahoo Finance
+Y,ORCL,Oracle Corporation Common Stock,N, ,N,100.0,N,,ORCL,ORCL,N,Technology,Yahoo Finance
+Y,OSIS,"OSI Systems, Inc. - Common Stock",Q,Q,N,100.0,N,N,,OSIS,N,Technology,Yahoo Finance
+Y,OSPN,OneSpan Inc. - Common Stock,Q,S,N,100.0,N,N,,OSPN,N,Technology,Yahoo Finance
+Y,OSS,"One Stop Systems, Inc. - Common Stock",Q,S,N,100.0,N,D,,OSS,N,Technology,Yahoo Finance
+Y,OTEX,Open Text Corporation - Common Shares,Q,Q,N,100.0,N,N,,OTEX,N,Technology,Yahoo Finance
+Y,PAGS,PagSeguro Digital Ltd. Class A Common Shares,N, ,N,100.0,N,,PAGS,PAGS,N,Technology,Yahoo Finance
+Y,PANW,"Palo Alto Networks, Inc. Common Stock",N, ,N,100.0,N,,PANW,PANW,N,Technology,Yahoo Finance
+Y,PAR,PAR Technology Corporation Common Stock,N, ,N,100.0,N,,PAR,PAR,N,Technology,Yahoo Finance
+Y,PAYC,"Paycom Software, Inc. Common Stock",N, ,N,100.0,N,,PAYC,PAYC,N,Technology,Yahoo Finance
+Y,PAYS,"Paysign, Inc. - Common Stock",Q,S,N,100.0,N,N,,PAYS,N,Technology,Yahoo Finance
+Y,PAYX,"Paychex, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PAYX,N,Technology,Yahoo Finance
+Y,PCTY,Paylocity Holding Corporation - Common Stock,Q,Q,N,100.0,N,N,,PCTY,N,Technology,Yahoo Finance
+Y,PD,"PagerDuty, Inc. Common Stock",N, ,N,100.0,N,,PD,PD,N,Technology,Yahoo Finance
+Y,PDFS,"PDF Solutions, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PDFS,N,Technology,Yahoo Finance
+Y,PEGA,Pegasystems Inc. - Common Stock,Q,Q,N,100.0,N,N,,PEGA,N,Technology,Yahoo Finance
+Y,PHUN,"Phunware, Inc. - Common Stock",Q,S,N,100.0,N,N,,PHUN,N,Technology,Yahoo Finance
+Y,PI,"Impinj, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PI,N,Technology,Yahoo Finance
+Y,PLAB,"Photronics, Inc. - Common Stock",Q,Q,N,100.0,N,D,,PLAB,N,Technology,Yahoo Finance
+Y,PLUS,ePlus inc. - Common Stock,Q,Q,N,100.0,N,N,,PLUS,N,Technology,Yahoo Finance
+Y,PLXS,Plexus Corp. - Common Stock,Q,Q,N,100.0,N,N,,PLXS,N,Technology,Yahoo Finance
+Y,POWI,"Power Integrations, Inc. - Common Stock",Q,Q,N,100.0,N,N,,POWI,N,Technology,Yahoo Finance
+Y,PRGS,Progress Software Corporation - Common Stock,Q,Q,N,100.0,N,N,,PRGS,N,Technology,Yahoo Finance
+Y,PRO,"PROS Holdings, Inc. Common Stock",N, ,N,100.0,N,,PRO,PRO,N,Technology,Yahoo Finance
+Y,PRTH,"Priority Technology Holdings, Inc. - Common Stock",Q,S,N,100.0,N,N,,PRTH,N,Technology,Yahoo Finance
+Y,PSN,Parsons Corporation Common Stock,N, ,N,100.0,N,,PSN,PSN,N,Technology,Yahoo Finance
+Y,PSTG,"Pure Storage, Inc. Class A Common Stock",N, ,N,100.0,N,,PSTG,PSTG,N,Technology,Yahoo Finance
+Y,PTC,PTC Inc. - Common Stock,Q,Q,N,100.0,N,N,,PTC,N,Technology,Yahoo Finance
+Y,PXLW,"Pixelworks, Inc. - Common Stock",Q,G,N,100.0,N,N,,PXLW,N,Technology,Yahoo Finance
+Y,QCOM,QUALCOMM Incorporated - Common Stock,Q,Q,N,100.0,N,N,,QCOM,N,Technology,Yahoo Finance
+Y,QLYS,"Qualys, Inc. - Common Stock",Q,Q,N,100.0,N,N,,QLYS,N,Technology,Yahoo Finance
+Y,QMCO,Quantum Corporation - Common Stock,Q,G,N,100.0,N,N,,QMCO,N,Technology,Yahoo Finance
+Y,QRVO,"Qorvo, Inc. - Common Stock",Q,Q,N,100.0,N,N,,QRVO,N,Technology,Yahoo Finance
+Y,QTWO,"Q2 Holdings, Inc. Common Stock",N, ,N,100.0,N,,QTWO,QTWO,N,Technology,Yahoo Finance
+Y,QUIK,QuickLogic Corporation - Common Stock,Q,S,N,100.0,N,N,,QUIK,N,Technology,Yahoo Finance
+Y,RAMP,"LiveRamp Holdings, Inc. Common Stock",N, ,N,100.0,N,,RAMP,RAMP,N,Technology,Yahoo Finance
+Y,RBBN,Ribbon Communications Inc.  - Common Stock,Q,Q,N,100.0,N,N,,RBBN,N,Technology,Yahoo Finance
+Y,RBCN,"Rubicon Technology, Inc. - Common Stock",Q,S,N,100.0,N,N,,RBCN,N,Technology,Yahoo Finance
+Y,RDVT,"Red Violet, Inc. - Common Stock ",Q,S,N,100.0,N,N,,RDVT,N,Technology,Yahoo Finance
+Y,RDWR,Radware Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,RDWR,N,Technology,Yahoo Finance
+Y,REFR,Research Frontiers Incorporated - Common Stock,Q,S,N,100.0,N,N,,REFR,N,Technology,Yahoo Finance
+Y,REKR,"Rekor Systems, Inc. - Common Stock",Q,S,N,100.0,N,N,,REKR,N,Technology,Yahoo Finance
+Y,RELL,"Richardson Electronics, Ltd. - Common Stock",Q,Q,N,100.0,N,N,,RELL,N,Technology,Yahoo Finance
+Y,RMBS,"Rambus, Inc. - Common Stock",Q,Q,N,100.0,N,N,,RMBS,N,Technology,Yahoo Finance
+Y,RMNI,"Rimini Street, Inc. - Common Stock",Q,G,N,100.0,N,N,,RMNI,N,Technology,Yahoo Finance
+Y,RNG,"Ringcentral, Inc. Class A Common Stock",N, ,N,100.0,N,,RNG,RNG,N,Technology,Yahoo Finance
+Y,ROG,Rogers Corporation Common Stock,N, ,N,100.0,N,,ROG,ROG,N,Technology,Yahoo Finance
+Y,ROP,"Roper Technologies, Inc. Common Stock",N, ,N,100.0,N,,ROP,ROP,N,Technology,Yahoo Finance
+Y,RPAY,Repay Holdings Corporation - Class A Common Stock,Q,S,N,100.0,N,N,,RPAY,N,Technology,Yahoo Finance
+Y,RPD,"Rapid7, Inc. - Common Stock",Q,G,N,100.0,N,N,,RPD,N,Technology,Yahoo Finance
+Y,RSSS,"Research Solutions, Inc - Common Stock",Q,S,N,100.0,N,N,,RSSS,N,Technology,Yahoo Finance
+Y,RUN,Sunrun Inc. - Common Stock,Q,Q,N,100.0,N,N,,RUN,N,Technology,Yahoo Finance
+Y,SABR,Sabre Corporation - Common Stock,Q,Q,N,100.0,N,N,,SABR,N,Technology,Yahoo Finance
+Y,SAIC,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION Common Stock,N, ,N,100.0,N,,SAIC,SAIC,N,Technology,Yahoo Finance
+Y,SAIL,"SailPoint Technologies Holdings, Inc. Common Stock",N, ,N,100.0,N,,SAIL,SAIL,N,Technology,Yahoo Finance
+Y,SANM,Sanmina Corporation - Common Stock,Q,Q,N,100.0,N,N,,SANM,N,Technology,Yahoo Finance
+Y,SAP,SAP  SE ADS,N, ,N,100.0,N,,SAP,SAP,N,Technology,Yahoo Finance
+Y,SCKT,"Socket Mobile, Inc. - Common Stock",Q,S,N,100.0,N,N,,SCKT,N,Technology,Yahoo Finance
+Y,SCSC,"ScanSource, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SCSC,N,Technology,Yahoo Finance
+Y,SEAC,"SeaChange International, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SEAC,N,Technology,Yahoo Finance
+Y,SEDG,"SolarEdge Technologies, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SEDG,N,Technology,Yahoo Finance
+Y,SHOP,Shopify Inc. Class A Subordinate Voting Shares,N, ,N,100.0,N,,SHOP,SHOP,N,Technology,Yahoo Finance
+Y,SILC,Silicom Ltd - Ordinary Shares,Q,Q,N,100.0,N,N,,SILC,N,Technology,Yahoo Finance
+Y,SIMO,"Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares",Q,Q,N,100.0,N,N,,SIMO,N,Technology,Yahoo Finance
+Y,SITM,SiTime Corporation - Common Stock,Q,G,N,100.0,N,N,,SITM,N,Technology,Yahoo Finance
+Y,SLAB,"Silicon Laboratories, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SLAB,N,Technology,Yahoo Finance
+Y,SMCI,"Super Micro Computer, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SMCI,N,Technology,Yahoo Finance
+Y,SMIT,"Schmitt Industries, Inc. - Common Stock",Q,S,N,100.0,N,N,,SMIT,N,Technology,Yahoo Finance
+Y,SMRT,"Stein Mart, Inc. - Common Stock",Q,S,N,100.0,N,D,,SMRT,N,Technology,Yahoo Finance
+Y,SMSI,"Smith Micro Software, Inc. - Common Stock",Q,S,N,100.0,N,N,,SMSI,N,Technology,Yahoo Finance
+Y,SMTC,Semtech Corporation - Common Stock,Q,Q,N,100.0,N,N,,SMTC,N,Technology,Yahoo Finance
+Y,SNCR,"Synchronoss Technologies, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SNCR,N,Technology,Yahoo Finance
+Y,SNPS,"Synopsys, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SNPS,N,Technology,Yahoo Finance
+Y,SNX,Synnex Corporation Common Stock,N, ,N,100.0,N,,SNX,SNX,N,Technology,Yahoo Finance
+Y,SOL,Renesola Ltd. American Depsitary Shares (Each representing 10 shares),N, ,N,100.0,N,,SOL,SOL,N,Technology,Yahoo Finance
+Y,SONM,"Sonim Technologies, Inc. - Common Stock",Q,G,N,100.0,N,N,,SONM,N,Technology,Yahoo Finance
+Y,SONO,"Sonos, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SONO,N,Technology,Yahoo Finance
+Y,SPNS,Sapiens International Corporation N.V. - Common Shares,Q,S,N,100.0,N,N,,SPNS,N,Technology,Yahoo Finance
+Y,SPSC,"SPS Commerce, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SPSC,N,Technology,Yahoo Finance
+Y,SPT,"Sprout Social, Inc - Class A Common Stock",Q,S,N,100.0,N,N,,SPT,N,Technology,Yahoo Finance
+Y,SPWR,SunPower Corporation - Common Stock,Q,Q,N,100.0,N,N,,SPWR,N,Technology,Yahoo Finance
+Y,SQNS,Sequans Communications S.A. American Depositary Shares,N, ,N,100.0,N,,SQNS,SQNS,N,Technology,Yahoo Finance
+Y,SRAX,"SRAX, Inc. - Class A Common Stock",Q,S,N,100.0,N,N,,SRAX,N,Technology,Yahoo Finance
+Y,SSNC,"SS&C Technologies Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SSNC,N,Technology,Yahoo Finance
+Y,SSTI,"ShotSpotter, Inc. - Common Stock",Q,S,N,100.0,N,N,,SSTI,N,Technology,Yahoo Finance
+Y,SSYS,"Stratasys, Ltd. - Common Stock",Q,Q,N,100.0,N,N,,SSYS,N,Technology,Yahoo Finance
+Y,ST,Sensata Technologies Holding plc Ordinary Shares,N, ,N,100.0,N,,ST,ST,N,Technology,Yahoo Finance
+Y,STM,STMicroelectronics N.V. Common Stock,N, ,N,100.0,N,,STM,STM,N,Technology,Yahoo Finance
+Y,STNE,StoneCo Ltd. - Class A Common Share,Q,Q,N,100.0,N,N,,STNE,N,Technology,Yahoo Finance
+Y,STX,Seagate Technology PLC - Ordinary Shares (Ireland),Q,Q,N,100.0,N,N,,STX,N,Technology,Yahoo Finance
+Y,SWKS,"Skyworks Solutions, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SWKS,N,Technology,Yahoo Finance
+Y,SYNA,Synaptics Incorporated - Common Stock,Q,Q,N,100.0,N,N,,SYNA,N,Technology,Yahoo Finance
+Y,TACT,TransAct Technologies Incorporated - Common Stock,Q,G,N,100.0,N,N,,TACT,N,Technology,Yahoo Finance
+Y,TAIT,Taitron Components Incorporated - Class A Common Stock,Q,S,N,100.0,N,N,,TAIT,N,Technology,Yahoo Finance
+Y,TAOP,Taoping Inc. - Ordinary Shares,Q,S,N,100.0,N,D,,TAOP,N,Technology,Yahoo Finance
+Y,TCCO,Technical Communications Corporation - Common Stock,Q,S,N,100.0,N,N,,TCCO,N,Technology,Yahoo Finance
+Y,TCX,Tucows Inc. - Common Stock,Q,S,N,100.0,N,N,,TCX,N,Technology,Yahoo Finance
+Y,TDC,Teradata Corporation Common Stock,N, ,N,100.0,N,,TDC,TDC,N,Technology,Yahoo Finance
+Y,TDY,Teledyne Technologies Incorporated Common Stock,N, ,N,100.0,N,,TDY,TDY,N,Technology,Yahoo Finance
+Y,TEAM,Atlassian Corporation Plc - Class A Ordinary Shares,Q,Q,N,100.0,N,N,,TEAM,N,Technology,Yahoo Finance
+Y,TEL,TE Connectivity Ltd. New Switzerland Registered Shares,N, ,N,100.0,N,,TEL,TEL,N,Technology,Yahoo Finance
+Y,TENB,"Tenable Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,TENB,N,Technology,Yahoo Finance
+Y,TER,"Teradyne, Inc. - Common Stock",Q,Q,N,100.0,N,N,,TER,N,Technology,Yahoo Finance
+Y,TRMB,Trimble Inc. - Common Stock,Q,Q,N,100.0,N,N,,TRMB,N,Technology,Yahoo Finance
+Y,TRT,Trio-Tech International Common Stock,A, ,N,100.0,N,,TRT,TRT,N,Technology,Yahoo Finance
+Y,TSEM,Tower Semiconductor Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,TSEM,N,Technology,Yahoo Finance
+Y,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,N, ,N,100.0,N,,TSM,TSM,N,Technology,Yahoo Finance
+Y,TTEC,"TTEC Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,TTEC,N,Technology,Yahoo Finance
+Y,TTGT,"TechTarget, Inc. - Common Stock",Q,G,N,100.0,N,N,,TTGT,N,Technology,Yahoo Finance
+Y,TTMI,"TTM Technologies, Inc. - Common Stock",Q,Q,N,100.0,N,N,,TTMI,N,Technology,Yahoo Finance
+Y,TWLO,Twilio Inc. Class A Common Stock,N, ,N,100.0,N,,TWLO,TWLO,N,Technology,Yahoo Finance
+Y,TXN,Texas Instruments Incorporated - Common Stock,Q,Q,N,100.0,N,N,,TXN,N,Technology,Yahoo Finance
+Y,TYL,"Tyler Technologies, Inc. Common Stock",N, ,N,100.0,N,,TYL,TYL,N,Technology,Yahoo Finance
+Y,UAVS,"AgEagle Aerial Systems, Inc. Common Stock",A, ,N,100.0,N,,UAVS,UAVS,N,Technology,Yahoo Finance
+Y,UBER,"Uber Technologies, Inc. Common Stock",N, ,N,100.0,N,,UBER,UBER,N,Technology,Yahoo Finance
+Y,UCTT,"Ultra Clean Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,UCTT,N,Technology,Yahoo Finance
+Y,UEIC,Universal Electronics Inc. - Common Stock,Q,Q,N,100.0,N,N,,UEIC,N,Technology,Yahoo Finance
+Y,UI,Ubiquiti Inc. Common Stock,N, ,N,100.0,N,,UI,UI,N,Technology,Yahoo Finance
+Y,UIS,Unisys Corporation New Common Stock,N, ,N,100.0,N,,UIS,UIS,N,Technology,Yahoo Finance
+Y,UMC,United Microelectronics Corporation (NEW) Common Stock,N, ,N,100.0,N,,UMC,UMC,N,Technology,Yahoo Finance
+Y,UPLD,"Upland Software, Inc. - Common Stock",Q,G,N,100.0,N,N,,UPLD,N,Technology,Yahoo Finance
+Y,USIO,"Usio, Inc. - Common Stock",Q,S,N,100.0,N,N,,USIO,N,Technology,Yahoo Finance
+Y,UTSI,UTStarcom Holdings Corp - Ordinary Shares,Q,Q,N,100.0,N,N,,UTSI,N,Technology,Yahoo Finance
+Y,VECO,Veeco Instruments Inc. - Common Stock,Q,Q,N,100.0,N,N,,VECO,N,Technology,Yahoo Finance
+Y,VERI,"Veritone, Inc. - Common Stock",Q,G,N,100.0,N,N,,VERI,N,Technology,Yahoo Finance
+Y,VHC,VirnetX Holding Corp Common Stock,A, ,N,100.0,N,,VHC,VHC,N,Technology,Yahoo Finance
+Y,VIAV,Viavi Solutions Inc. - Common Stock,Q,Q,N,100.0,N,N,,VIAV,N,Technology,Yahoo Finance
+Y,VICR,Vicor Corporation - Common Stock,Q,Q,N,100.0,N,N,,VICR,N,Technology,Yahoo Finance
+Y,VISL,"Vislink Technologies, Inc. - Common Stock",Q,S,N,100.0,N,D,,VISL,N,Technology,Yahoo Finance
+Y,VNET,"21Vianet Group, Inc. - American Depositary Shares",Q,Q,N,100.0,N,N,,VNET,N,Technology,Yahoo Finance
+Y,VPG,"Vishay Precision Group, Inc. Common Stock",N, ,N,100.0,N,,VPG,VPG,N,Technology,Yahoo Finance
+Y,VRNS,"Varonis Systems, Inc. - Common Stock",Q,Q,N,100.0,N,N,,VRNS,N,Technology,Yahoo Finance
+Y,VRNT,Verint Systems Inc. - Common Stock,Q,Q,N,100.0,N,N,,VRNT,N,Technology,Yahoo Finance
+Y,VRRM,Verra Mobility Corporation - Class A Common Stock,Q,S,N,100.0,N,N,,VRRM,N,Technology,Yahoo Finance
+Y,VRSN,"VeriSign, Inc. - Common Stock",Q,Q,N,100.0,N,N,,VRSN,N,Technology,Yahoo Finance
+Y,VSAT,"ViaSat, Inc. - Common Stock",Q,Q,N,100.0,N,N,,VSAT,N,Technology,Yahoo Finance
+Y,VSH,"Vishay Intertechnology, Inc. Common Stock",N, ,N,100.0,N,,VSH,VSH,N,Technology,Yahoo Finance
+Y,VTSI,"VirTra, Inc. - Common Stock",Q,S,N,100.0,N,N,,VTSI,N,Technology,Yahoo Finance
+Y,VUZI,Vuzix Corporation - Common Stock,Q,S,N,100.0,N,N,,VUZI,N,Technology,Yahoo Finance
+Y,VVPR,VivoPower International PLC - Ordinary Shares,Q,S,N,100.0,N,N,,VVPR,N,Technology,Yahoo Finance
+Y,WATT,Energous Corporation - Common Stock,Q,S,N,100.0,N,N,,WATT,N,Technology,Yahoo Finance
+Y,WDAY,"Workday, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,WDAY,N,Technology,Yahoo Finance
+Y,WDC,Western Digital Corporation - Common Stock,Q,Q,N,100.0,N,N,,WDC,N,Technology,Yahoo Finance
+Y,WEX,WEX Inc. common stock,N, ,N,100.0,N,,WEX,WEX,N,Technology,Yahoo Finance
+Y,WIT,Wipro Limited Common Stock,N, ,N,100.0,N,,WIT,WIT,N,Technology,Yahoo Finance
+Y,WIX,Wix.com Ltd. - Ordinary Shares,Q,Q,N,100.0,N,N,,WIX,N,Technology,Yahoo Finance
+Y,WK,Workiva Inc. Class A Common Stock,N, ,N,100.0,N,,WK,WK,N,Technology,Yahoo Finance
+Y,WKEY,WISeKey International Holding AG - American Depositary Shares,Q,G,N,100.0,N,N,,WKEY,N,Technology,Yahoo Finance
+Y,WNS,WNS (Holdings) Limited Sponsored ADR (Jersey),N, ,N,100.0,N,,WNS,WNS,N,Technology,Yahoo Finance
+Y,WSTL,"Westell Technologies, Inc. - Class A Common Stock",Q,S,N,100.0,N,N,,WSTL,N,Technology,Yahoo Finance
+Y,WYY,WidePoint Corporation Common Stock,A, ,N,100.0,N,,WYY,WYY,N,Technology,Yahoo Finance
+Y,XELA,"Exela Technologies, Inc. - Common Stock",Q,S,N,100.0,N,D,,XELA,N,Technology,Yahoo Finance
+Y,XNET,Xunlei Limited - American Depositary Shares,Q,Q,N,100.0,N,N,,XNET,N,Technology,Yahoo Finance
+Y,XPER,Xperi Corporation  - Common Stock,Q,Q,N,100.0,N,N,,XPER,N,Technology,Yahoo Finance
+Y,XRX,Xerox Holdings Corporation Common Stock,N, ,N,100.0,N,,XRX,XRX,N,Technology,Yahoo Finance
+Y,YEXT,"Yext, Inc. Common Stock",N, ,N,100.0,N,,YEXT,YEXT,N,Technology,Yahoo Finance
+Y,ZBRA,Zebra Technologies Corporation - Class A Common Stock,Q,Q,N,100.0,N,N,,ZBRA,N,Technology,Yahoo Finance
+Y,ZM,"Zoom Video Communications, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,ZM,N,Technology,Yahoo Finance
+Y,ZS,"Zscaler, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ZS,N,Technology,Yahoo Finance

@@ -1,0 +1,24 @@
+# ===== Core scientific stack =====
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# ===== Machine learning / deep learning =====
+torch==2.4.0
+tqdm==4.66.4
+statsmodels==0.14.3
+
+# ===== NLP and API =====
+openai==1.52.0   
+
+# ===== Web scraping =====
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# ===== Finance data =====
+yfinance==0.2.43
+
+# ===== Optional (Jupyter or notebooks) =====
+ipykernel==6.29.5
+notebook==7.2.2

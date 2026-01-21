@@ -1,0 +1,365 @@
+Nasdaq Traded,Symbol,Security Name,Listing Exchange,Market Category,ETF,Round Lot Size,Test Issue,Financial Status,CQS Symbol,NASDAQ Symbol,NextShares,Industry,Source
+Y,AAP,Advance Auto Parts Inc Advance Auto Parts Inc W/I,N, ,N,100.0,N,,AAP,AAP,N,Consumer Cyclical,Yahoo Finance
+Y,ABG,Asbury Automotive Group Inc Common Stock,N, ,N,100.0,N,,ABG,ABG,N,Consumer Cyclical,Yahoo Finance
+Y,ACEL,"Accel Entertainment, Inc. ",N, ,N,100.0,N,,ACEL,ACEL,N,Consumer Cyclical,Yahoo Finance
+Y,ADNT,Adient plc Ordinary Shares ,N, ,N,100.0,N,,ADNT,ADNT,N,Consumer Cyclical,Yahoo Finance
+Y,AEO,"American Eagle Outfitters, Inc. Common Stock",N, ,N,100.0,N,,AEO,AEO,N,Consumer Cyclical,Yahoo Finance
+Y,AIN,Albany International Corporation Common Stock,N, ,N,100.0,N,,AIN,AIN,N,Consumer Cyclical,Yahoo Finance
+Y,ALSN,"Allison Transmission Holdings, Inc. Common Stock",N, ,N,100.0,N,,ALSN,ALSN,N,Consumer Cyclical,Yahoo Finance
+Y,ALV,"Autoliv, Inc. Common Stock",N, ,N,100.0,N,,ALV,ALV,N,Consumer Cyclical,Yahoo Finance
+Y,AMCR,Amcor plc Ordinary Shares,N, ,N,100.0,N,,AMCR,AMCR,N,Consumer Cyclical,Yahoo Finance
+Y,AMWD,American Woodmark Corporation - Common Stock,Q,Q,N,100.0,N,N,,AMWD,N,Consumer Cyclical,Yahoo Finance
+Y,AMZN,"Amazon.com, Inc. - Common Stock",Q,Q,N,100.0,N,N,,AMZN,N,Consumer Cyclical,Yahoo Finance
+Y,AN,"AutoNation, Inc. Common Stock",N, ,N,100.0,N,,AN,AN,N,Consumer Cyclical,Yahoo Finance
+Y,ANF,Abercrombie & Fitch Company Common Stock,N, ,N,100.0,N,,ANF,ANF,N,Consumer Cyclical,Yahoo Finance
+Y,APTV,Aptiv PLC Ordinary Shares,N, ,N,100.0,N,,APTV,APTV,N,Consumer Cyclical,Yahoo Finance
+Y,ARCO,Arcos Dorados Holdings Inc. Class A Shares,N, ,N,100.0,N,,ARCO,ARCO,N,Consumer Cyclical,Yahoo Finance
+Y,ARKR,Ark Restaurants Corp. - Common Stock,Q,G,N,100.0,N,N,,ARKR,N,Consumer Cyclical,Yahoo Finance
+Y,AVY,Avery Dennison Corporation Common Stock,N, ,N,100.0,N,,AVY,AVY,N,Consumer Cyclical,Yahoo Finance
+Y,AXL,"American Axle & Manufacturing Holdings, Inc. Common Stock",N, ,N,100.0,N,,AXL,AXL,N,Consumer Cyclical,Yahoo Finance
+Y,AZO,"AutoZone, Inc. Common Stock",N, ,N,100.0,N,,AZO,AZO,N,Consumer Cyclical,Yahoo Finance
+Y,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,N, ,N,100.0,N,,BABA,BABA,N,Consumer Cyclical,Yahoo Finance
+Y,BBW,"Build-A-Bear Workshop, Inc. Common Stock",N, ,N,100.0,N,,BBW,BBW,N,Consumer Cyclical,Yahoo Finance
+Y,BBY,"Best Buy Co., Inc. Common Stock",N, ,N,100.0,N,,BBY,BBY,N,Consumer Cyclical,Yahoo Finance
+Y,BC,Brunswick Corporation Common Stock,N, ,N,100.0,N,,BC,BC,N,Consumer Cyclical,Yahoo Finance
+Y,BDL,"Flanigan's Enterprises, Inc. Common Stock",A, ,N,100.0,N,,BDL,BDL,N,Consumer Cyclical,Yahoo Finance
+Y,BFAM,Bright Horizons Family Solutions Inc. Common Stock,N, ,N,100.0,N,,BFAM,BFAM,N,Consumer Cyclical,Yahoo Finance
+Y,BGFV,Big 5 Sporting Goods Corporation - Common Stock,Q,Q,N,100.0,N,N,,BGFV,N,Consumer Cyclical,Yahoo Finance
+Y,BGI,Birks Group Inc. Common Stock,A, ,N,100.0,N,,BGI,BGI,N,Consumer Cyclical,Yahoo Finance
+Y,BH,Biglari Holdings Inc. Class B Common Stock,N, ,N,10.0,N,,BH,BH,N,Consumer Cyclical,Yahoo Finance
+Y,BJRI,"BJ's Restaurants, Inc. - Common Stock",Q,Q,N,100.0,N,N,,BJRI,N,Consumer Cyclical,Yahoo Finance
+Y,BKE,"Buckle, Inc. (The) Common Stock",N, ,N,100.0,N,,BKE,BKE,N,Consumer Cyclical,Yahoo Finance
+Y,BKNG,Booking Holdings Inc. - Common Stock,Q,Q,N,100.0,N,N,,BKNG,N,Consumer Cyclical,Yahoo Finance
+Y,BLMN,"Bloomin' Brands, Inc. - Common Stock",Q,Q,N,100.0,N,N,,BLMN,N,Consumer Cyclical,Yahoo Finance
+Y,BNED,"Barnes & Noble Education, Inc Common Stock",N, ,N,100.0,N,,BNED,BNED,N,Consumer Cyclical,Yahoo Finance
+Y,BOOT,"Boot Barn Holdings, Inc. Common Stock",N, ,N,100.0,N,,BOOT,BOOT,N,Consumer Cyclical,Yahoo Finance
+Y,BSET,"Bassett Furniture Industries, Incorporated - Common Stock",Q,Q,N,100.0,N,N,,BSET,N,Consumer Cyclical,Yahoo Finance
+Y,BURL,"Burlington Stores, Inc. Common Stock",N, ,N,100.0,N,,BURL,BURL,N,Consumer Cyclical,Yahoo Finance
+Y,BWA,BorgWarner Inc. Common Stock,N, ,N,100.0,N,,BWA,BWA,N,Consumer Cyclical,Yahoo Finance
+Y,BWMX,"Betterware de Mexico, S.A. de C.V. - Ordinary Shares",Q,S,N,100.0,N,N,,BWMX,N,Consumer Cyclical,Yahoo Finance
+Y,BYD,Boyd Gaming Corporation Common Stock,N, ,N,100.0,N,,BYD,BYD,N,Consumer Cyclical,Yahoo Finance
+Y,BZH,"Beazer Homes USA, Inc. Common Stock",N, ,N,100.0,N,,BZH,BZH,N,Consumer Cyclical,Yahoo Finance
+Y,BZUN,Baozun Inc. - American Depositary Shares,Q,Q,N,100.0,N,N,,BZUN,N,Consumer Cyclical,Yahoo Finance
+Y,CAAS,"China Automotive Systems, Inc. - Common Stock",Q,S,N,100.0,N,N,,CAAS,N,Consumer Cyclical,Yahoo Finance
+Y,CAKE,The Cheesecake Factory Incorporated - Common Stock,Q,Q,N,100.0,N,N,,CAKE,N,Consumer Cyclical,Yahoo Finance
+Y,CAL,"Caleres, Inc. Common Stock",N, ,N,100.0,N,,CAL,CAL,N,Consumer Cyclical,Yahoo Finance
+Y,CARG,"CarGurus, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,CARG,N,Consumer Cyclical,Yahoo Finance
+Y,CASY,"Caseys General Stores, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CASY,N,Consumer Cyclical,Yahoo Finance
+Y,CATO,Cato Corporation (The) Class A Common Stock,N, ,N,100.0,N,,CATO,CATO,N,Consumer Cyclical,Yahoo Finance
+Y,CBRL,"Cracker Barrel Old Country Store, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CBRL,N,Consumer Cyclical,Yahoo Finance
+Y,CCK,"Crown Holdings, Inc.",N, ,N,100.0,N,,CCK,CCK,N,Consumer Cyclical,Yahoo Finance
+Y,CCL,Carnival Corporation Common Stock,N, ,N,100.0,N,,CCL,CCL,N,Consumer Cyclical,Yahoo Finance
+Y,CHA,China Telecom Corp Ltd ADS,N, ,N,100.0,N,,CHA,CHA,N,Consumer Cyclical,Yahoo Finance
+Y,CHDN,"Churchill Downs, Incorporated - Common Stock",Q,Q,N,100.0,N,N,,CHDN,N,Consumer Cyclical,Yahoo Finance
+Y,CHH,"Choice Hotels International, Inc. Common Stock",N, ,N,100.0,N,,CHH,CHH,N,Consumer Cyclical,Yahoo Finance
+Y,CHWY,"Chewy, Inc. Class A Common Stock",N, ,N,100.0,N,,CHWY,CHWY,N,Consumer Cyclical,Yahoo Finance
+Y,CLAR,Clarus Corporation - Common Stock,Q,Q,N,100.0,N,N,,CLAR,N,Consumer Cyclical,Yahoo Finance
+Y,CMG,"Chipotle Mexican Grill, Inc. Common Stock",N, ,N,100.0,N,,CMG,CMG,N,Consumer Cyclical,Yahoo Finance
+Y,CNNE,"Cannae Holdings, Inc. Common Stock",N, ,N,100.0,N,,CNNE,CNNE,N,Consumer Cyclical,Yahoo Finance
+Y,CNTY,"Century Casinos, Inc. - Common Stock",Q,S,N,100.0,N,N,,CNTY,N,Consumer Cyclical,Yahoo Finance
+Y,COLM,Columbia Sportswear Company - Common Stock,Q,Q,N,100.0,N,N,,COLM,N,Consumer Cyclical,Yahoo Finance
+Y,CPHC,Canterbury Park Holding Corporation - Common Stock,Q,G,N,100.0,N,N,,CPHC,N,Consumer Cyclical,Yahoo Finance
+Y,CPRI,Capri Holdings Limited Ordinary Shares,N, ,N,100.0,N,,CPRI,CPRI,N,Consumer Cyclical,Yahoo Finance
+Y,CPS,Cooper-Standard Holdings Inc. Common Stock,N, ,N,100.0,N,,CPS,CPS,N,Consumer Cyclical,Yahoo Finance
+Y,CRI,"Carter's, Inc. Common Stock",N, ,N,100.0,N,,CRI,CRI,N,Consumer Cyclical,Yahoo Finance
+Y,CRMT,"America's Car-Mart, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CRMT,N,Consumer Cyclical,Yahoo Finance
+Y,CROX,"Crocs, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CROX,N,Consumer Cyclical,Yahoo Finance
+Y,CRWS,"Crown Crafts, Inc. - Common Stock",Q,S,N,100.0,N,N,,CRWS,N,Consumer Cyclical,Yahoo Finance
+Y,CSV,"Carriage Services, Inc. Common Stock",N, ,N,100.0,N,,CSV,CSV,N,Consumer Cyclical,Yahoo Finance
+Y,CTHR,Charles & Colvard Ltd. - Common Stock,Q,S,N,100.0,N,D,,CTHR,N,Consumer Cyclical,Yahoo Finance
+Y,CTRN,"Citi Trends, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CTRN,N,Consumer Cyclical,Yahoo Finance
+Y,CUK,Carnival Plc ADS ADS,N, ,N,100.0,N,,CUK,CUK,N,Consumer Cyclical,Yahoo Finance
+Y,CULP,"Culp, Inc. Common Stock",N, ,N,100.0,N,,CULP,CULP,N,Consumer Cyclical,Yahoo Finance
+Y,CVCO,"Cavco Industries, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CVCO,N,Consumer Cyclical,Yahoo Finance
+Y,CVEO,Civeo Corporation (Canada) Common Shares,N, ,N,100.0,N,,CVEO,CVEO,N,Consumer Cyclical,Yahoo Finance
+Y,CVGI,"Commercial Vehicle Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,CVGI,N,Consumer Cyclical,Yahoo Finance
+Y,CVNA,Carvana Co. Class A Common Stock,N, ,N,100.0,N,,CVNA,CVNA,N,Consumer Cyclical,Yahoo Finance
+Y,CWH,"Camping World Holdings, Inc. Class A Commom Stock",N, ,N,100.0,N,,CWH,CWH,N,Consumer Cyclical,Yahoo Finance
+Y,CYD,China Yuchai International Limited Common Stock,N, ,N,100.0,N,,CYD,CYD,N,Consumer Cyclical,Yahoo Finance
+Y,CZR,Caesars Entertainment Corporation - Common Stock,Q,Q,N,100.0,N,N,,CZR,N,Consumer Cyclical,Yahoo Finance
+Y,DAN,Dana Incorporated Common Stock ,N, ,N,100.0,N,,DAN,DAN,N,Consumer Cyclical,Yahoo Finance
+Y,DBI,Designer Brands Inc. Class A Common Stock,N, ,N,100.0,N,,DBI,DBI,N,Consumer Cyclical,Yahoo Finance
+Y,DDS,"Dillard's, Inc. Common Stock",N, ,N,100.0,N,,DDS,DDS,N,Consumer Cyclical,Yahoo Finance
+Y,DECK,Deckers Outdoor Corporation Common Stock,N, ,N,100.0,N,,DECK,DECK,N,Consumer Cyclical,Yahoo Finance
+Y,DENN,Denny's Corporation - Common Stock,Q,S,N,100.0,N,N,,DENN,N,Consumer Cyclical,Yahoo Finance
+Y,DHI,"D.R. Horton, Inc. Common Stock",N, ,N,100.0,N,,DHI,DHI,N,Consumer Cyclical,Yahoo Finance
+Y,DIN,"Dine Brands Global, Inc. Common Stock",N, ,N,100.0,N,,DIN,DIN,N,Consumer Cyclical,Yahoo Finance
+Y,DKS,Dick's Sporting Goods Inc Common Stock,N, ,N,100.0,N,,DKS,DKS,N,Consumer Cyclical,Yahoo Finance
+Y,DLTH,Duluth Holdings Inc. - Class B Common Stock,Q,Q,N,100.0,N,N,,DLTH,N,Consumer Cyclical,Yahoo Finance
+Y,DOGZ,Dogness (International) Corporation - Class A Common Stock,Q,G,N,100.0,N,D,,DOGZ,N,Consumer Cyclical,Yahoo Finance
+Y,DOOO,BRP Inc. - Common Subordinate Voting Shares,Q,Q,N,100.0,N,N,,DOOO,N,Consumer Cyclical,Yahoo Finance
+Y,DORM,"Dorman Products, Inc. - Common Stock",Q,Q,N,100.0,N,N,,DORM,N,Consumer Cyclical,Yahoo Finance
+Y,DPZ,Domino's Pizza Inc Common Stock,N, ,N,100.0,N,,DPZ,DPZ,N,Consumer Cyclical,Yahoo Finance
+Y,DRI,"Darden Restaurants, Inc. Common Stock",N, ,N,100.0,N,,DRI,DRI,N,Consumer Cyclical,Yahoo Finance
+Y,DSS,"Document Security Systems, Inc. Common Stock",A, ,N,100.0,N,,DSS,DSS,N,Consumer Cyclical,Yahoo Finance
+Y,DXLG,"Destination XL Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,DXLG,N,Consumer Cyclical,Yahoo Finance
+Y,DXYN,"The Dixie Group, Inc. - Common Stock",Q,G,N,100.0,N,N,,DXYN,N,Consumer Cyclical,Yahoo Finance
+Y,EAT,"Brinker International, Inc. Common Stock",N, ,N,100.0,N,,EAT,EAT,N,Consumer Cyclical,Yahoo Finance
+Y,EBAY,eBay Inc. - Common Stock,Q,Q,N,100.0,N,N,,EBAY,N,Consumer Cyclical,Yahoo Finance
+Y,EFOI,"Energy Focus, Inc. - Common Stock",Q,S,N,100.0,N,D,,EFOI,N,Consumer Cyclical,Yahoo Finance
+Y,ELA,Envela Corporation Common Stock,A, ,N,100.0,N,,ELA,ELA,N,Consumer Cyclical,Yahoo Finance
+Y,ESCA,"Escalade, Incorporated - Common Stock",Q,G,N,100.0,N,N,,ESCA,N,Consumer Cyclical,Yahoo Finance
+Y,ETSY,"Etsy, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ETSY,N,Consumer Cyclical,Yahoo Finance
+Y,EXPE,"Expedia Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,EXPE,N,Consumer Cyclical,Yahoo Finance
+Y,EYE,"National Vision Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,EYE,N,Consumer Cyclical,Yahoo Finance
+Y,F,Ford Motor Company Common Stock,N, ,N,100.0,N,,F,F,N,Consumer Cyclical,Yahoo Finance
+Y,FAT,FAT Brands Inc. - Common Stock,Q,S,N,100.0,N,N,,FAT,N,Consumer Cyclical,Yahoo Finance
+Y,FIVE,"Five Below, Inc. - Common Stock",Q,Q,N,100.0,N,N,,FIVE,N,Consumer Cyclical,Yahoo Finance
+Y,FL,"Foot Locker, Inc.",N, ,N,100.0,N,,FL,FL,N,Consumer Cyclical,Yahoo Finance
+Y,FLL,"Full House Resorts, Inc. - Common Stock",Q,S,N,100.0,N,N,,FLL,N,Consumer Cyclical,Yahoo Finance
+Y,FLWS,"1-800-FLOWERS.COM, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,FLWS,N,Consumer Cyclical,Yahoo Finance
+Y,FLXS,"Flexsteel Industries, Inc. - Common Stock",Q,Q,N,100.0,N,N,,FLXS,N,Consumer Cyclical,Yahoo Finance
+Y,FND,"Floor & Decor Holdings, Inc. Common Stock",N, ,N,100.0,N,,FND,FND,N,Consumer Cyclical,Yahoo Finance
+Y,FNKO,"Funko, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,FNKO,N,Consumer Cyclical,Yahoo Finance
+Y,FORD,"Forward Industries, Inc. - Common Stock",Q,S,N,100.0,N,N,,FORD,N,Consumer Cyclical,Yahoo Finance
+Y,FOSL,"Fossil Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,FOSL,N,Consumer Cyclical,Yahoo Finance
+Y,FOXF,Fox Factory Holding Corp. - Common Stock,Q,Q,N,100.0,N,N,,FOXF,N,Consumer Cyclical,Yahoo Finance
+Y,FRSX,Foresight Autonomous Holdings Ltd. - American Depositary Shares,Q,S,N,100.0,N,N,,FRSX,N,Consumer Cyclical,Yahoo Finance
+Y,FTDR,"frontdoor, inc. - Common Stock",Q,Q,N,100.0,N,N,,FTDR,N,Consumer Cyclical,Yahoo Finance
+Y,FUN,"Cedar Fair, L.P. Common Stock",N, ,N,100.0,N,,FUN,FUN,N,Consumer Cyclical,Yahoo Finance
+Y,GCO,Genesco Inc. Common Stock,N, ,N,100.0,N,,GCO,GCO,N,Consumer Cyclical,Yahoo Finance
+Y,GDEN,"Golden Entertainment, Inc. - Common Stock",Q,G,N,100.0,N,N,,GDEN,N,Consumer Cyclical,Yahoo Finance
+Y,GEF,Greif Inc. Class A Common Stock,N, ,N,100.0,N,,GEF,GEF,N,Consumer Cyclical,Yahoo Finance
+Y,GES,"Guess?, Inc. Common Stock",N, ,N,100.0,N,,GES,GES,N,Consumer Cyclical,Yahoo Finance
+Y,GHG,"GreenTree Hospitality Group Ltd. American depositary shares, each representing one Class A ordinary share",N, ,N,100.0,N,,GHG,GHG,N,Consumer Cyclical,Yahoo Finance
+Y,GIII,"G-III Apparel Group, LTD. - Common Stock",Q,Q,N,100.0,N,N,,GIII,N,Consumer Cyclical,Yahoo Finance
+Y,GIL,"Gildan Activewear, Inc. Class A Sub. Vot. Common Stock",N, ,N,100.0,N,,GIL,GIL,N,Consumer Cyclical,Yahoo Finance
+Y,GM,General Motors Company Common Stock,N, ,N,100.0,N,,GM,GM,N,Consumer Cyclical,Yahoo Finance
+Y,GME,GameStop Corporation Common Stock,N, ,N,100.0,N,,GME,GME,N,Consumer Cyclical,Yahoo Finance
+Y,GNTX,Gentex Corporation - Common Stock,Q,Q,N,100.0,N,N,,GNTX,N,Consumer Cyclical,Yahoo Finance
+Y,GOLF,Acushnet Holdings Corp. Common Stock,N, ,N,100.0,N,,GOLF,GOLF,N,Consumer Cyclical,Yahoo Finance
+Y,GOOS,Canada Goose Holdings Inc. Subordinate Voting Shares,N, ,N,100.0,N,,GOOS,GOOS,N,Consumer Cyclical,Yahoo Finance
+Y,GPC,Genuine Parts Company Common Stock,N, ,N,100.0,N,,GPC,GPC,N,Consumer Cyclical,Yahoo Finance
+Y,GPI,"Group 1 Automotive, Inc. Common Stock",N, ,N,100.0,N,,GPI,GPI,N,Consumer Cyclical,Yahoo Finance
+Y,GPK,Graphic Packaging Holding Company,N, ,N,100.0,N,,GPK,GPK,N,Consumer Cyclical,Yahoo Finance
+Y,GRBK,"Green Brick Partners, Inc. - Common Stock",Q,S,N,100.0,N,N,,GRBK,N,Consumer Cyclical,Yahoo Finance
+Y,GRWG,GrowGeneration Corp. - Common Stock,Q,S,N,100.0,N,N,,GRWG,N,Consumer Cyclical,Yahoo Finance
+Y,GT,The Goodyear Tire & Rubber Company - Common Stock,Q,Q,N,100.0,N,N,,GT,N,Consumer Cyclical,Yahoo Finance
+Y,GTEC,Greenland Technologies Holding Corporation - Ordinary Shares,Q,S,N,100.0,N,N,,GTEC,N,Consumer Cyclical,Yahoo Finance
+Y,GTIM,Good Times Restaurants Inc. - Common Stock,Q,S,N,100.0,N,N,,GTIM,N,Consumer Cyclical,Yahoo Finance
+Y,GTX,Garrett Motion Inc. Common Stock ,N, ,N,100.0,N,,GTX,GTX,N,Consumer Cyclical,Yahoo Finance
+Y,H,Hyatt Hotels Corporation Class A Common Stock,N, ,N,100.0,N,,H,H,N,Consumer Cyclical,Yahoo Finance
+Y,HAS,"Hasbro, Inc. - Common Stock",Q,Q,N,100.0,N,N,,HAS,N,Consumer Cyclical,Yahoo Finance
+Y,HBB,Hamilton Beach Brands Holding Company Class A Common Stock ,N, ,N,100.0,N,,HBB,HBB,N,Consumer Cyclical,Yahoo Finance
+Y,HBI,Hanesbrands Inc. Common Stock,N, ,N,100.0,N,,HBI,HBI,N,Consumer Cyclical,Yahoo Finance
+Y,HD,"Home Depot, Inc. (The) Common Stock",N, ,N,100.0,N,,HD,HD,N,Consumer Cyclical,Yahoo Finance
+Y,HGV,Hilton Grand Vacations Inc. Common Stock ,N, ,N,100.0,N,,HGV,HGV,N,Consumer Cyclical,Yahoo Finance
+Y,HLT,Hilton Worldwide Holdings Inc. Common Stock ,N, ,N,100.0,N,,HLT,HLT,N,Consumer Cyclical,Yahoo Finance
+Y,HMC,"Honda Motor Company, Ltd. Common Stock",N, ,N,100.0,N,,HMC,HMC,N,Consumer Cyclical,Yahoo Finance
+Y,HNI,HNI Corporation Common Stock,N, ,N,100.0,N,,HNI,HNI,N,Consumer Cyclical,Yahoo Finance
+Y,HOFT,Hooker Furniture Corporation - Common Stock,Q,Q,N,100.0,N,N,,HOFT,N,Consumer Cyclical,Yahoo Finance
+Y,HOG,"Harley-Davidson, Inc. Common Stock",N, ,N,100.0,N,,HOG,HOG,N,Consumer Cyclical,Yahoo Finance
+Y,HOV,"Hovnanian Enterprises, Inc. Class A Common Stock",N, ,N,100.0,N,,HOV,HOV,N,Consumer Cyclical,Yahoo Finance
+Y,HRB,"H&R Block, Inc. Common Stock",N, ,N,100.0,N,,HRB,HRB,N,Consumer Cyclical,Yahoo Finance
+Y,HTHT,"Huazhu Group Limited - American Depositary Shares, each representing one Ordinary Share",Q,Q,N,100.0,N,N,,HTHT,N,Consumer Cyclical,Yahoo Finance
+Y,HVT,"Haverty Furniture Companies, Inc. Common Stock",N, ,N,100.0,N,,HVT,HVT,N,Consumer Cyclical,Yahoo Finance
+Y,HZO,"MarineMax, Inc.  (FL) Common Stock",N, ,N,100.0,N,,HZO,HZO,N,Consumer Cyclical,Yahoo Finance
+Y,IBP,"Installed Building Products, Inc. Common Stock",N, ,N,100.0,N,,IBP,IBP,N,Consumer Cyclical,Yahoo Finance
+Y,IHG,Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share),N, ,N,100.0,N,,IHG,IHG,N,Consumer Cyclical,Yahoo Finance
+Y,INSE,"Inspired Entertainment, Inc. - Common Stock",Q,S,N,100.0,N,N,,INSE,N,Consumer Cyclical,Yahoo Finance
+Y,INTG,The Intergroup Corporation - Common Stock,Q,S,N,100.0,N,N,,INTG,N,Consumer Cyclical,Yahoo Finance
+Y,IP,International Paper Company Common Stock,N, ,N,100.0,N,,IP,IP,N,Consumer Cyclical,Yahoo Finance
+Y,IRBT,iRobot Corporation - Common Stock,Q,Q,N,100.0,N,N,,IRBT,N,Consumer Cyclical,Yahoo Finance
+Y,JACK,Jack In The Box Inc. - Common Stock,Q,Q,N,100.0,N,N,,JACK,N,Consumer Cyclical,Yahoo Finance
+Y,JAKK,"JAKKS Pacific, Inc. - Common Stock",Q,Q,N,100.0,N,D,,JAKK,N,Consumer Cyclical,Yahoo Finance
+Y,JD,"JD.com, Inc. - American Depositary Shares",Q,Q,N,100.0,N,N,,JD,N,Consumer Cyclical,Yahoo Finance
+Y,JILL,"J. Jill, Inc. Common Stock",N, ,N,100.0,N,,JILL,JILL,N,Consumer Cyclical,Yahoo Finance
+Y,JMIA,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",N, ,N,100.0,N,,JMIA,JMIA,N,Consumer Cyclical,Yahoo Finance
+Y,JOUT,Johnson Outdoors Inc. - Class A Common Stock,Q,Q,N,100.0,N,N,,JOUT,N,Consumer Cyclical,Yahoo Finance
+Y,JRSH,"Jerash Holdings (US), Inc. - Common Stock",Q,S,N,100.0,N,N,,JRSH,N,Consumer Cyclical,Yahoo Finance
+Y,KAR,"KAR Auction Services, Inc Common Stock",N, ,N,100.0,N,,KAR,KAR,N,Consumer Cyclical,Yahoo Finance
+Y,KBH,KB Home Common Stock,N, ,N,100.0,N,,KBH,KBH,N,Consumer Cyclical,Yahoo Finance
+Y,KEQU,Kewaunee Scientific Corporation - Common Stock,Q,G,N,100.0,N,N,,KEQU,N,Consumer Cyclical,Yahoo Finance
+Y,KFS,"Kingsway Financial Services, Inc. Common Stock (DE)",N, ,N,100.0,N,,KFS,KFS,N,Consumer Cyclical,Yahoo Finance
+Y,KGJI,Kingold Jewelry Inc. - Common Stock,Q,S,N,100.0,N,N,,KGJI,N,Consumer Cyclical,Yahoo Finance
+Y,KMX,CarMax Inc,N, ,N,100.0,N,,KMX,KMX,N,Consumer Cyclical,Yahoo Finance
+Y,KNDI,"Kandi Technologies Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,KNDI,N,Consumer Cyclical,Yahoo Finance
+Y,KRUS,"Kura Sushi USA, Inc. - Class A Common Stock",Q,G,N,100.0,N,N,,KRUS,N,Consumer Cyclical,Yahoo Finance
+Y,KSS,Kohl's Corporation Common Stock,N, ,N,100.0,N,,KSS,KSS,N,Consumer Cyclical,Yahoo Finance
+Y,KTB,"Kontoor Brands, Inc. Common Stock ",N, ,N,100.0,N,,KTB,KTB,N,Consumer Cyclical,Yahoo Finance
+Y,KXIN,Kaixin Auto Holdings - Ordinary Share,Q,S,N,100.0,N,N,,KXIN,N,Consumer Cyclical,Yahoo Finance
+Y,LAD,"Lithia Motors, Inc. Common Stock",N, ,N,100.0,N,,LAD,LAD,N,Consumer Cyclical,Yahoo Finance
+Y,LAKE,"Lakeland Industries, Inc. - Common Stock",Q,G,N,100.0,N,N,,LAKE,N,Consumer Cyclical,Yahoo Finance
+Y,LCII,LCI Industries,N, ,N,100.0,N,,LCII,LCII,N,Consumer Cyclical,Yahoo Finance
+Y,LCUT,"Lifetime Brands, Inc. - Common Stock",Q,Q,N,100.0,N,N,,LCUT,N,Consumer Cyclical,Yahoo Finance
+Y,LE,"Lands' End, Inc. - Common Stock",Q,S,N,100.0,N,N,,LE,N,Consumer Cyclical,Yahoo Finance
+Y,LEA,Lear Corporation Common Stock,N, ,N,100.0,N,,LEA,LEA,N,Consumer Cyclical,Yahoo Finance
+Y,LEG,"Leggett & Platt, Incorporated Common Stock",N, ,N,100.0,N,,LEG,LEG,N,Consumer Cyclical,Yahoo Finance
+Y,LEGH,Legacy Housing Corporation - Common Stock,Q,Q,N,100.0,N,N,,LEGH,N,Consumer Cyclical,Yahoo Finance
+Y,LEN,Lennar Corporation Class A Common Stock,N, ,N,100.0,N,,LEN,LEN,N,Consumer Cyclical,Yahoo Finance
+Y,LEVI,Levi Strauss & Co Class A Common Stock,N, ,N,100.0,N,,LEVI,LEVI,N,Consumer Cyclical,Yahoo Finance
+Y,LGIH,"LGI Homes, Inc. - Common Stock",Q,Q,N,100.0,N,N,,LGIH,N,Consumer Cyclical,Yahoo Finance
+Y,LIND,Lindblad Expeditions Holdings Inc.  - Common Stock,Q,S,N,100.0,N,N,,LIND,N,Consumer Cyclical,Yahoo Finance
+Y,LITB,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing 2 ordinary shares",N, ,N,100.0,N,,LITB,LITB,N,Consumer Cyclical,Yahoo Finance
+Y,LIVE,Live Ventures Incorporated - Common Stock,Q,S,N,100.0,N,E,,LIVE,N,Consumer Cyclical,Yahoo Finance
+Y,LKQ,LKQ Corporation - Common Stock,Q,Q,N,100.0,N,N,,LKQ,N,Consumer Cyclical,Yahoo Finance
+Y,LMPX,"LMP Automotive Holdings, Inc. - Common Stock",Q,S,N,100.0,N,N,,LMPX,N,Consumer Cyclical,Yahoo Finance
+Y,LOCO,"El Pollo Loco Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,LOCO,N,Consumer Cyclical,Yahoo Finance
+Y,LOGC,"LogicBio Therapeutics, Inc. - Common Stock",Q,G,N,100.0,N,N,,LOGC,N,Consumer Cyclical,Yahoo Finance
+Y,LOVE,The Lovesac Company - Common Stock,Q,G,N,100.0,N,N,,LOVE,N,Consumer Cyclical,Yahoo Finance
+Y,LOW,"Lowe's Companies, Inc. Common Stock",N, ,N,100.0,N,,LOW,LOW,N,Consumer Cyclical,Yahoo Finance
+Y,LQDT,"Liquidity Services, Inc. - Common Stock",Q,Q,N,100.0,N,N,,LQDT,N,Consumer Cyclical,Yahoo Finance
+Y,LULU,lululemon athletica inc. - Common Stock,Q,Q,N,100.0,N,N,,LULU,N,Consumer Cyclical,Yahoo Finance
+Y,LVS,Las Vegas Sands Corp. Common Stock,N, ,N,100.0,N,,LVS,LVS,N,Consumer Cyclical,Yahoo Finance
+Y,LZB,La-Z-Boy Incorporated Common Stock,N, ,N,100.0,N,,LZB,LZB,N,Consumer Cyclical,Yahoo Finance
+Y,M,Macy's Inc Common Stock,N, ,N,100.0,N,,M,M,N,Consumer Cyclical,Yahoo Finance
+Y,MAR,Marriott International - Class A Common Stock,Q,Q,N,100.0,N,N,,MAR,N,Consumer Cyclical,Yahoo Finance
+Y,MAT,"Mattel, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MAT,N,Consumer Cyclical,Yahoo Finance
+Y,MBUU,"Malibu Boats, Inc. - Common Stock",Q,G,N,100.0,N,N,,MBUU,N,Consumer Cyclical,Yahoo Finance
+Y,MCD,McDonald's Corporation Common Stock,N, ,N,100.0,N,,MCD,MCD,N,Consumer Cyclical,Yahoo Finance
+Y,MCFT,"MasterCraft Boat Holdings, Inc. - Common Stock",Q,G,N,100.0,N,N,,MCFT,N,Consumer Cyclical,Yahoo Finance
+Y,MCRI,"Monarch Casino & Resort, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MCRI,N,Consumer Cyclical,Yahoo Finance
+Y,MED,MEDIFAST INC Common Stock,N, ,N,100.0,N,,MED,MED,N,Consumer Cyclical,Yahoo Finance
+Y,MELI,"MercadoLibre, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MELI,N,Consumer Cyclical,Yahoo Finance
+Y,MGA,"Magna International, Inc. Common Stock",N, ,N,100.0,N,,MGA,MGA,N,Consumer Cyclical,Yahoo Finance
+Y,MGM,MGM Resorts International Common Stock,N, ,N,100.0,N,,MGM,MGM,N,Consumer Cyclical,Yahoo Finance
+Y,MHK,"Mohawk Industries, Inc. Common Stock",N, ,N,100.0,N,,MHK,MHK,N,Consumer Cyclical,Yahoo Finance
+Y,MHO,"M/I Homes, Inc. Common Stock",N, ,N,100.0,N,,MHO,MHO,N,Consumer Cyclical,Yahoo Finance
+Y,MLCO,Melco Resorts & Entertainment Limited - American Depositary Shares ,Q,Q,N,100.0,N,N,,MLCO,N,Consumer Cyclical,Yahoo Finance
+Y,MLR,"Miller Industries, Inc. Common Stock",N, ,N,100.0,N,,MLR,MLR,N,Consumer Cyclical,Yahoo Finance
+Y,MMYT,MakeMyTrip Limited - Ordinary Shares,Q,Q,N,100.0,N,N,,MMYT,N,Consumer Cyclical,Yahoo Finance
+Y,MNRO,"Monro, Inc.  - Common Stock",Q,Q,N,100.0,N,N,,MNRO,N,Consumer Cyclical,Yahoo Finance
+Y,MOD,Modine Manufacturing Company Common Stock,N, ,N,100.0,N,,MOD,MOD,N,Consumer Cyclical,Yahoo Finance
+Y,MOGU,MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares),N, ,N,100.0,N,,MOGU,MOGU,N,Consumer Cyclical,Yahoo Finance
+Y,MOV,Movado Group Inc. Common Stock,N, ,N,100.0,N,,MOV,MOV,N,Consumer Cyclical,Yahoo Finance
+Y,MPAA,"Motorcar Parts of America, Inc. - Common Stock",Q,Q,N,100.0,N,N,,MPAA,N,Consumer Cyclical,Yahoo Finance
+Y,MPX,Marine Products Corporation Common Stock,N, ,N,100.0,N,,MPX,MPX,N,Consumer Cyclical,Yahoo Finance
+Y,MSC,"Studio City International Holdings Limited American depositary shares, each representing four  Class A ordinary shares",N, ,N,100.0,N,,MSC,MSC,N,Consumer Cyclical,Yahoo Finance
+Y,MTH,Meritage Homes Corporation Common Stock,N, ,N,100.0,N,,MTH,MTH,N,Consumer Cyclical,Yahoo Finance
+Y,MTN,"Vail Resorts, Inc. Common Stock",N, ,N,100.0,N,,MTN,MTN,N,Consumer Cyclical,Yahoo Finance
+Y,MUSA,Murphy USA Inc. Common Stock,N, ,N,100.0,N,,MUSA,MUSA,N,Consumer Cyclical,Yahoo Finance
+Y,MYE,"Myers Industries, Inc. Common Stock",N, ,N,100.0,N,,MYE,MYE,N,Consumer Cyclical,Yahoo Finance
+Y,NATH,"Nathan's Famous, Inc. - Common Stock",Q,Q,N,100.0,N,N,,NATH,N,Consumer Cyclical,Yahoo Finance
+Y,NCLH,Norwegian Cruise Line Holdings Ltd. Ordinary Shares,N, ,N,100.0,N,,NCLH,NCLH,N,Consumer Cyclical,Yahoo Finance
+Y,NDLS,Noodles & Company - Common Stock,Q,Q,N,100.0,N,N,,NDLS,N,Consumer Cyclical,Yahoo Finance
+Y,NHTC,Natural Health Trends Corp. - Commn Stock,Q,S,N,100.0,N,N,,NHTC,N,Consumer Cyclical,Yahoo Finance
+Y,NIO,"NIO Inc. American depositary shares, each  representing one Class A ordinary share",N, ,N,100.0,N,,NIO,NIO,N,Consumer Cyclical,Yahoo Finance
+Y,NIU,Niu Technologies - American Depositary Shares,Q,G,N,100.0,N,N,,NIU,N,Consumer Cyclical,Yahoo Finance
+Y,NKE,"Nike, Inc. Common Stock",N, ,N,100.0,N,,NKE,NKE,N,Consumer Cyclical,Yahoo Finance
+Y,NTRP,"Neurotrope, Inc. - Common Stock",Q,S,N,100.0,N,N,,NTRP,N,Consumer Cyclical,Yahoo Finance
+Y,NTZ,"Natuzzi, S.p.A.",N, ,N,100.0,N,,NTZ,NTZ,N,Consumer Cyclical,Yahoo Finance
+Y,NVFY,"Nova Lifestyle, Inc - Common Stock",Q,S,N,100.0,N,N,,NVFY,N,Consumer Cyclical,Yahoo Finance
+Y,NVR,"NVR, Inc. Common Stock",N, ,N,10.0,N,,NVR,NVR,N,Consumer Cyclical,Yahoo Finance
+Y,ODP,"Office Depot, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ODP,N,Consumer Cyclical,Yahoo Finance
+Y,OI,"O-I Glass, Inc. Common Stock",N, ,N,100.0,N,,OI,OI,N,Consumer Cyclical,Yahoo Finance
+Y,ONEW,OneWater Marine Inc. - Class A Common Stock,Q,G,N,100.0,N,N,,ONEW,N,Consumer Cyclical,Yahoo Finance
+Y,ORLY,"O'Reilly Automotive, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ORLY,N,Consumer Cyclical,Yahoo Finance
+Y,OSW,OneSpaWorld Holdings Limited - Common Shares,Q,S,N,100.0,N,N,,OSW,N,Consumer Cyclical,Yahoo Finance
+Y,OXM,"Oxford Industries, Inc. Common Stock",N, ,N,100.0,N,,OXM,OXM,N,Consumer Cyclical,Yahoo Finance
+Y,PACK,Ranpak Holdings Corp Class A Common Stock,N, ,N,100.0,N,,PACK,PACK,N,Consumer Cyclical,Yahoo Finance
+Y,PAG,"Penske Automotive Group, Inc. Common Stock",N, ,N,100.0,N,,PAG,PAG,N,Consumer Cyclical,Yahoo Finance
+Y,PATK,"Patrick Industries, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PATK,N,Consumer Cyclical,Yahoo Finance
+Y,PBPB,Potbelly Corporation - Common Stock,Q,Q,N,100.0,N,N,,PBPB,N,Consumer Cyclical,Yahoo Finance
+Y,PDD,Pinduoduo Inc. - American Depositary Shares,Q,Q,N,100.0,N,N,,PDD,N,Consumer Cyclical,Yahoo Finance
+Y,PENN,"Penn National Gaming, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PENN,N,Consumer Cyclical,Yahoo Finance
+Y,PETZ,"TDH Holdings, Inc. - Common Shares",Q,S,N,100.0,N,N,,PETZ,N,Consumer Cyclical,Yahoo Finance
+Y,PHM,"PulteGroup, Inc. Common Stock",N, ,N,100.0,N,,PHM,PHM,N,Consumer Cyclical,Yahoo Finance
+Y,PII,Polaris Inc. Common Stock,N, ,N,100.0,N,,PII,PII,N,Consumer Cyclical,Yahoo Finance
+Y,PKG,Packaging Corporation of America Common Stock,N, ,N,100.0,N,,PKG,PKG,N,Consumer Cyclical,Yahoo Finance
+Y,PLCE,"Children's Place, Inc. (The) - Common Stock",Q,Q,N,100.0,N,N,,PLCE,N,Consumer Cyclical,Yahoo Finance
+Y,PLNT,"Planet Fitness, Inc. Common Stock",N, ,N,100.0,N,,PLNT,PLNT,N,Consumer Cyclical,Yahoo Finance
+Y,PLOW,"Douglas Dynamics, Inc. Common Stock",N, ,N,100.0,N,,PLOW,PLOW,N,Consumer Cyclical,Yahoo Finance
+Y,PRPL,"Purple Innovation, Inc. - Common Stock",Q,S,N,100.0,N,N,,PRPL,N,Consumer Cyclical,Yahoo Finance
+Y,PRTS,"U.S. Auto Parts Network, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PRTS,N,Consumer Cyclical,Yahoo Finance
+Y,PTON,"Peloton Interactive, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PTON,N,Consumer Cyclical,Yahoo Finance
+Y,PVH,PVH Corp. Common Stock,N, ,N,100.0,N,,PVH,PVH,N,Consumer Cyclical,Yahoo Finance
+Y,PZZA,"Papa John's International, Inc. - Common Stock",Q,Q,N,100.0,N,N,,PZZA,N,Consumer Cyclical,Yahoo Finance
+Y,QSR,Restaurant Brands International Inc. Common Shares,N, ,N,100.0,N,,QSR,QSR,N,Consumer Cyclical,Yahoo Finance
+Y,RACE,Ferrari N.V. Common Shares,N, ,N,100.0,N,,RACE,RACE,N,Consumer Cyclical,Yahoo Finance
+Y,RAVE,"Rave Restaurant Group, Inc. - Common Stock",Q,S,N,100.0,N,N,,RAVE,N,Consumer Cyclical,Yahoo Finance
+Y,RCKY,"Rocky Brands, Inc. - Common Stock",Q,Q,N,100.0,N,N,,RCKY,N,Consumer Cyclical,Yahoo Finance
+Y,RCL,Royal Caribbean Cruises Ltd. Common Stock,N, ,N,100.0,N,,RCL,RCL,N,Consumer Cyclical,Yahoo Finance
+Y,REAL,"The RealReal, Inc. - Common Stock",Q,Q,N,100.0,N,N,,REAL,N,Consumer Cyclical,Yahoo Finance
+Y,REYN,Reynolds Consumer Products Inc. - Common Stock,Q,Q,N,100.0,N,N,,REYN,N,Consumer Cyclical,Yahoo Finance
+Y,RGS,Regis Corporation Common Stock,N, ,N,100.0,N,,RGS,RGS,N,Consumer Cyclical,Yahoo Finance
+Y,RH,RH Common Stock,N, ,N,100.0,N,,RH,RH,N,Consumer Cyclical,Yahoo Finance
+Y,RICK,"RCI Hospitality Holdings, Inc. - Common Stock",Q,G,N,100.0,N,N,,RICK,N,Consumer Cyclical,Yahoo Finance
+Y,RL,Ralph Lauren Corporation Common Stock,N, ,N,100.0,N,,RL,RL,N,Consumer Cyclical,Yahoo Finance
+Y,ROL,"Rollins, Inc. Common Stock",N, ,N,100.0,N,,ROL,ROL,N,Consumer Cyclical,Yahoo Finance
+Y,ROST,"Ross Stores, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ROST,N,Consumer Cyclical,Yahoo Finance
+Y,RRGB,"Red Robin Gourmet Burgers, Inc. - Common Stock",Q,Q,N,100.0,N,N,,RRGB,N,Consumer Cyclical,Yahoo Finance
+Y,RRR,"Red Rock Resorts, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,RRR,N,Consumer Cyclical,Yahoo Finance
+Y,RUSHA,"Rush Enterprises, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,RUSHA,N,Consumer Cyclical,Yahoo Finance
+Y,RUSHB,"Rush Enterprises, Inc. - Class B Common Stock",Q,Q,N,100.0,N,N,,RUSHB,N,Consumer Cyclical,Yahoo Finance
+Y,RVLV,"Revolve Group, Inc. Class A Common Stock",N, ,N,100.0,N,,RVLV,RVLV,N,Consumer Cyclical,Yahoo Finance
+Y,SAH,"Sonic Automotive, Inc. Common Stock",N, ,N,100.0,N,,SAH,SAH,N,Consumer Cyclical,Yahoo Finance
+Y,SBH,"Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock",N, ,N,100.0,N,,SBH,SBH,N,Consumer Cyclical,Yahoo Finance
+Y,SBUX,Starbucks Corporation - Common Stock,Q,Q,N,100.0,N,N,,SBUX,N,Consumer Cyclical,Yahoo Finance
+Y,SCI,Service Corporation International Common Stock,N, ,N,100.0,N,,SCI,SCI,N,Consumer Cyclical,Yahoo Finance
+Y,SCS,Steelcase Inc. Common Stock,N, ,N,100.0,N,,SCS,SCS,N,Consumer Cyclical,Yahoo Finance
+Y,SCVL,"Shoe Carnival, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SCVL,N,Consumer Cyclical,Yahoo Finance
+Y,SE,"Sea Limited American Depositary Shares, each representing one Class A Ordinary Share",N, ,N,100.0,N,,SE,SE,N,Consumer Cyclical,Yahoo Finance
+Y,SEE,Sealed Air Corporation Common Stock,N, ,N,100.0,N,,SEE,SEE,N,Consumer Cyclical,Yahoo Finance
+Y,SES,"Synthesis Energy Systems, Inc. - Common Stock",Q,S,N,100.0,N,H,,SES,N,Consumer Cyclical,Yahoo Finance
+Y,SFIX,"Stitch Fix, Inc. - Class A Common Stock",Q,Q,N,100.0,N,N,,SFIX,N,Consumer Cyclical,Yahoo Finance
+Y,SG,"Sirius International Insurance Group, Ltd. - Common Share",Q,Q,N,100.0,N,N,,SG,N,Consumer Cyclical,Yahoo Finance
+Y,SGC,"Superior Group of Companies, Inc. - Common Stock",Q,G,N,100.0,N,N,,SGC,N,Consumer Cyclical,Yahoo Finance
+Y,SHAK,"Shake Shack, Inc. Class A Common Stock",N, ,N,100.0,N,,SHAK,SHAK,N,Consumer Cyclical,Yahoo Finance
+Y,SHOO,"Steven Madden, Ltd. - Common Stock",Q,Q,N,100.0,N,N,,SHOO,N,Consumer Cyclical,Yahoo Finance
+Y,SIG,Signet Jewelers Limited Common Shares,N, ,N,100.0,N,,SIG,SIG,N,Consumer Cyclical,Yahoo Finance
+Y,SKX,"Skechers U.S.A., Inc. Common Stock",N, ,N,100.0,N,,SKX,SKX,N,Consumer Cyclical,Yahoo Finance
+Y,SKY,Skyline Champion Corporation Common Stock,N, ,N,100.0,N,,SKY,SKY,N,Consumer Cyclical,Yahoo Finance
+Y,SLGN,Silgan Holdings Inc. - Common Stock,Q,Q,N,100.0,N,N,,SLGN,N,Consumer Cyclical,Yahoo Finance
+Y,SMP,"Standard Motor Products, Inc. Common Stock",N, ,N,100.0,N,,SMP,SMP,N,Consumer Cyclical,Yahoo Finance
+Y,SNBR,Sleep Number Corporation - Common Stock,Q,Q,N,100.0,N,N,,SNBR,N,Consumer Cyclical,Yahoo Finance
+Y,SON,Sonoco Products Company Common Stock,N, ,N,100.0,N,,SON,SON,N,Consumer Cyclical,Yahoo Finance
+Y,SPWH,"Sportsman's Warehouse Holdings, Inc. - Common Stock",Q,Q,N,100.0,N,N,,SPWH,N,Consumer Cyclical,Yahoo Finance
+Y,SRI,"Stoneridge, Inc. Common Stock",N, ,N,100.0,N,,SRI,SRI,N,Consumer Cyclical,Yahoo Finance
+Y,STKS,"The ONE Group Hospitality, Inc. - Common Stock",Q,S,N,100.0,N,N,,STKS,N,Consumer Cyclical,Yahoo Finance
+Y,STRT,STRATTEC SECURITY CORPORATION - Common Stock,Q,G,N,100.0,N,N,,STRT,N,Consumer Cyclical,Yahoo Finance
+Y,SYPR,"Sypris Solutions, Inc. - Common Stock",Q,G,N,100.0,N,D,,SYPR,N,Consumer Cyclical,Yahoo Finance
+Y,TCOM,Trip.com Group Limited - American Depositary Shares,Q,Q,N,100.0,N,N,,TCOM,N,Consumer Cyclical,Yahoo Finance
+Y,THO,"Thor Industries, Inc. Common Stock",N, ,N,100.0,N,,THO,THO,N,Consumer Cyclical,Yahoo Finance
+Y,THRM,Gentherm Inc - Common Stock,Q,Q,N,100.0,N,N,,THRM,N,Consumer Cyclical,Yahoo Finance
+Y,TILE,"Interface, Inc. - Common Stock",Q,Q,N,100.0,N,N,,TILE,N,Consumer Cyclical,Yahoo Finance
+Y,TJX,"TJX Companies, Inc. (The) Common Stock",N, ,N,100.0,N,,TJX,TJX,N,Consumer Cyclical,Yahoo Finance
+Y,TLF,"Tandy Leather Factory, Inc. - Common Stock",Q,G,N,100.0,N,E,,TLF,N,Consumer Cyclical,Yahoo Finance
+Y,TLYS,"Tilly's, Inc. Common Stock",N, ,N,100.0,N,,TLYS,TLYS,N,Consumer Cyclical,Yahoo Finance
+Y,TM,Toyota Motor Corporation Common Stock,N, ,N,100.0,N,,TM,TM,N,Consumer Cyclical,Yahoo Finance
+Y,TMHC,Taylor Morrison Home Corporation Common Stock,N, ,N,100.0,N,,TMHC,TMHC,N,Consumer Cyclical,Yahoo Finance
+Y,TOL,"Toll Brothers, Inc. Common Stock",N, ,N,100.0,N,,TOL,TOL,N,Consumer Cyclical,Yahoo Finance
+Y,TOUR,Tuniu Corporation - American Depositary Shares,Q,G,N,100.0,N,N,,TOUR,N,Consumer Cyclical,Yahoo Finance
+Y,TPH,"TRI Pointe Group, Inc. Common Stock",N, ,N,100.0,N,,TPH,TPH,N,Consumer Cyclical,Yahoo Finance
+Y,TPR,"Tapestry, Inc. Common Stock",N, ,N,100.0,N,,TPR,TPR,N,Consumer Cyclical,Yahoo Finance
+Y,TRIP,"TripAdvisor, Inc. - Common Stock",Q,Q,N,100.0,N,N,,TRIP,N,Consumer Cyclical,Yahoo Finance
+Y,TRS,TriMas Corporation - Common Stock,Q,Q,N,100.0,N,N,,TRS,N,Consumer Cyclical,Yahoo Finance
+Y,TSCO,Tractor Supply Company - Common Stock,Q,Q,N,100.0,N,N,,TSCO,N,Consumer Cyclical,Yahoo Finance
+Y,TSLA,"Tesla, Inc.  - Common Stock",Q,Q,N,100.0,N,N,,TSLA,N,Consumer Cyclical,Yahoo Finance
+Y,TXRH,"Texas Roadhouse, Inc. - Common Stock",Q,Q,N,100.0,N,N,,TXRH,N,Consumer Cyclical,Yahoo Finance
+Y,UA,"Under Armour, Inc. Class C Common Stock",N, ,N,100.0,N,,UA,UA,N,Consumer Cyclical,Yahoo Finance
+Y,UAA,"Under Armour, Inc. Class A Common Stock",N, ,N,100.0,N,,UAA,UAA,N,Consumer Cyclical,Yahoo Finance
+Y,UFI,"Unifi, Inc. New Common Stock",N, ,N,100.0,N,,UFI,UFI,N,Consumer Cyclical,Yahoo Finance
+Y,ULTA,"Ulta Beauty, Inc. - Common Stock",Q,Q,N,100.0,N,N,,ULTA,N,Consumer Cyclical,Yahoo Finance
+Y,URBN,"Urban Outfitters, Inc. - Common Stock",Q,Q,N,100.0,N,N,,URBN,N,Consumer Cyclical,Yahoo Finance
+Y,UXIN,Uxin Limited - American Depositary Shares,Q,Q,N,100.0,N,N,,UXIN,N,Consumer Cyclical,Yahoo Finance
+Y,VAC,Marriott Vacations Worldwide Corporation Common Stock,N, ,N,100.0,N,,VAC,VAC,N,Consumer Cyclical,Yahoo Finance
+Y,VC,Visteon Corporation - Common Stock,Q,Q,N,100.0,N,N,,VC,N,Consumer Cyclical,Yahoo Finance
+Y,VFC,V.F. Corporation Common Stock,N, ,N,100.0,N,,VFC,VFC,N,Consumer Cyclical,Yahoo Finance
+Y,VIOT,"Viomi Technology Co., Ltd - American Depositary Shares",Q,Q,N,100.0,N,N,,VIOT,N,Consumer Cyclical,Yahoo Finance
+Y,VIPS,"Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares",N, ,N,100.0,N,,VIPS,VIPS,N,Consumer Cyclical,Yahoo Finance
+Y,VIRC,Virco Manufacturing Corporation - Common Stock,Q,G,N,100.0,N,N,,VIRC,N,Consumer Cyclical,Yahoo Finance
+Y,VNCE,Vince Holding Corp. Common Stock,N, ,N,100.0,N,,VNCE,VNCE,N,Consumer Cyclical,Yahoo Finance
+Y,VRA,"Vera Bradley, Inc. - Common Stock",Q,Q,N,100.0,N,N,,VRA,N,Consumer Cyclical,Yahoo Finance
+Y,VVV,Valvoline Inc. Common Stock,N, ,N,100.0,N,,VVV,VVV,N,Consumer Cyclical,Yahoo Finance
+Y,W,Wayfair Inc. Class A Common Stock,N, ,N,100.0,N,,W,W,N,Consumer Cyclical,Yahoo Finance
+Y,WEN,Wendy's Company (The) - Common Stock,Q,Q,N,100.0,N,N,,WEN,N,Consumer Cyclical,Yahoo Finance
+Y,WEYS,"Weyco Group, Inc. - Common Stock",Q,Q,N,100.0,N,N,,WEYS,N,Consumer Cyclical,Yahoo Finance
+Y,WGO,"Winnebago Industries, Inc. Common Stock",N, ,N,100.0,N,,WGO,WGO,N,Consumer Cyclical,Yahoo Finance
+Y,WH,"Wyndham Hotels & Resorts, Inc. Common Stock ",N, ,N,100.0,N,,WH,WH,N,Consumer Cyclical,Yahoo Finance
+Y,WHR,Whirlpool Corporation Common Stock,N, ,N,100.0,N,,WHR,WHR,N,Consumer Cyclical,Yahoo Finance
+Y,WINA,Winmark Corporation - Common Stock,Q,G,N,100.0,N,N,,WINA,N,Consumer Cyclical,Yahoo Finance
+Y,WING,Wingstop Inc. - Common Stock,Q,Q,N,100.0,N,N,,WING,N,Consumer Cyclical,Yahoo Finance
+Y,WKHS,"Workhorse Group, Inc. - Common Stock",Q,S,N,100.0,N,N,,WKHS,N,Consumer Cyclical,Yahoo Finance
+Y,WPRT,Westport Fuel Systems Inc - Common Shares,Q,Q,N,100.0,N,N,,WPRT,N,Consumer Cyclical,Yahoo Finance
+Y,WSM,"Williams-Sonoma, Inc. Common Stock (DE)",N, ,N,100.0,N,,WSM,WSM,N,Consumer Cyclical,Yahoo Finance
+Y,WW,"WW International, Inc.  - Common Stock",Q,Q,N,100.0,N,N,,WW,N,Consumer Cyclical,Yahoo Finance
+Y,WWW,"Wolverine World Wide, Inc. Common Stock",N, ,N,100.0,N,,WWW,WWW,N,Consumer Cyclical,Yahoo Finance
+Y,WYNN,"Wynn Resorts, Limited - Common Stock",Q,Q,N,100.0,N,N,,WYNN,N,Consumer Cyclical,Yahoo Finance
+Y,XELB,"Xcel Brands, Inc - Common Stock",Q,G,N,100.0,N,N,,XELB,N,Consumer Cyclical,Yahoo Finance
+Y,XPEL,"XPEL, Inc. - Common Stock",Q,S,N,100.0,N,N,,XPEL,N,Consumer Cyclical,Yahoo Finance
+Y,YETI,"YETI Holdings, Inc. Common Stock",N, ,N,100.0,N,,YETI,YETI,N,Consumer Cyclical,Yahoo Finance
+Y,YJ,Yunji Inc. - American Depository Shares,Q,G,N,100.0,N,N,,YJ,N,Consumer Cyclical,Yahoo Finance
+Y,YTRA,"Yatra Online, Inc. - Ordinary Shares",Q,S,N,100.0,N,N,,YTRA,N,Consumer Cyclical,Yahoo Finance
+Y,YUM,"Yum! Brands, Inc.",N, ,N,100.0,N,,YUM,YUM,N,Consumer Cyclical,Yahoo Finance
+Y,YUMC,"Yum China Holdings, Inc. Common Stock",N, ,N,100.0,N,,YUMC,YUMC,N,Consumer Cyclical,Yahoo Finance
+Y,ZUMZ,Zumiez Inc. - Common Stock,Q,Q,N,100.0,N,N,,ZUMZ,N,Consumer Cyclical,Yahoo Finance

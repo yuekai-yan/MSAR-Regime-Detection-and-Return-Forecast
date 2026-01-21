@@ -1,0 +1,638 @@
+Symbol,Security Name,Listing Exchange,Market Category,ETF,Test Issue,Financial Status,CQS Symbol,NASDAQ Symbol,Industry
+AAXJ,iShares MSCI All Country Asia ex Japan Index Fund,Q,G,Y,N,N,,AAXJ,Pacific/Asia ex-Japan Stk
+ACSG,Xtrackers MSCI ACWI ex USA ESG Leaders Equity ETF,P, ,Y,N,,ACSG,ACSG,Unknown
+ACWF,iShares Edge MSCI Multifactor Global ETF,P, ,Y,N,,ACWF,ACWF,Unknown
+ACWI,iShares MSCI ACWI Index Fund,Q,G,Y,N,N,,ACWI,Global Large-Stock Blend
+ACWV,iShares Edge MSCI Min Vol Global ETF,Z, ,Y,N,,ACWV,ACWV,Global Large-Stock Blend
+ACWX,iShares MSCI ACWI ex US Index Fund,Q,G,Y,N,N,,ACWX,Foreign Large Blend
+AFK,VanEck Vectors-Africa Index ETF,P, ,Y,N,,AFK,AFK,Miscellaneous Region
+AFTY,Pacer CSOP FTSE China A50 ETF,P, ,Y,N,,AFTY,AFTY,China Region
+AGND,WisdomTree Barclays Negative Duration U.S. Aggregate Bond Fund,Q,G,Y,N,N,,AGND,Nontraditional Bond
+AGT,iShares MSCI Argentina and Global Exposure ETF,Z, ,Y,N,,AGT,AGT,Miscellaneous Region
+ALTS,ProShares Morningstar Alternatives Solution ETF,Z, ,Y,N,,ALTS,ALTS,Software - Application
+AMCA,iShares Russell 1000 Pure U.S. Revenue ETF,Q,G,Y,N,N,,AMCA,Large Value
+ARGT,Global X MSCI Argentina ETF,P, ,Y,N,,ARGT,ARGT,Miscellaneous Region
+ARMR,Exchange Listed Funds Trust Armor US Equity Index ETF,P, ,Y,N,,ARMR,ARMR,Large Blend
+ASEA,Global X FTSE Southeast Asia ETF,P, ,Y,N,,ASEA,ASEA,Pacific/Asia ex-Japan Stk
+ASET,FlexShares Real Assets Allocation Index Fund,Q,G,Y,N,N,,ASET,Global Large-Stock Value
+ASHR,Xtrackers Harvest CSI 300 China A-Shares ETF,P, ,Y,N,,ASHR,ASHR,China Region
+ASHS,Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF,P, ,Y,N,,ASHS,ASHS,China Region
+ASHX,Xtrackers MSCI China A Inclusion Equity ETF,P, ,Y,N,,ASHX,ASHX,China Region
+BBRE,JPMorgan BetaBuilders MSCI U.S. REIT ETF,Z, ,Y,N,,BBRE,BBRE,Real Estate
+BCD,Aberdeen Standard Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF,P, ,Y,N,,BCD,BCD,Commodities Broad Basket
+BCI,Aberdeen Standard Bloomberg All Commodity Strategy K-1 Free ETF,P, ,Y,N,,BCI,BCI,Commodities Broad Basket
+BICK,First Trust BICK Index Fund,Q,G,Y,N,N,,BICK,Diversified Emerging Mkts
+BIL,SPDR Bloomberg Barclays 1-3 Month T-Bill ETF,P, ,Y,N,,BIL,BIL,Ultrashort Bond
+BKF,iShares MSCI BRIC Index Fund,P, ,Y,N,,BKF,BKF,Diversified Emerging Mkts
+BTEC,Principal Healthcare Innovators Index ETF,Q,G,Y,N,N,,BTEC,Health
+BUY,USCF SummerHaven SHPEI Index Fund,P, ,Y,N,,BUY,BUY,Small Value
+BUYN,USCF SummerHaven SHPEN Index Fund,P, ,Y,N,,BUYN,BUYN,Natural Resources
+BWX,SPDR Bloomberg Barclays Intl Treasury Bd,P, ,Y,N,,BWX,BWX,Global Bond
+CARZ,First Trust NASDAQ Global Auto Index Fund,Q,G,Y,N,N,,CARZ,Consumer Cyclical
+CATH,Global X S&P 500 Catholic Values ETF,Q,G,Y,N,N,,CATH,Large Blend
+CGW,Invesco S&P Global Water Index ETF,P, ,Y,N,,CGW,CGW,Natural Resources
+CHIC,Global X Funds Global X MSCI China Communication Services ETF,P, ,Y,N,,CHIC,CHIC,China Region
+CHIE,Global X MSCI China Energy ETF,P, ,Y,N,,CHIE,CHIE,China Region
+CHIH,Global X Funds Global X MSCI China Health Care ETF,P, ,Y,N,,CHIH,CHIH,China Region
+CHII,Global X MSCI China Industrials ETF,P, ,Y,N,,CHII,CHII,China Region
+CHIK,Global X Funds Global X MSCI China Information Technology ETF,P, ,Y,N,,CHIK,CHIK,China Region
+CHIL,Global X Funds Global X MSCI China Large-Cap 50 ETF,P, ,Y,N,,CHIL,CHIL,China Region
+CHIM,Global X MSCI China Materials ETF,P, ,Y,N,,CHIM,CHIM,China Region
+CHIQ,Global X MSCI China Consumer Discretionary ETF,P, ,Y,N,,CHIQ,CHIQ,China Region
+CHIR,Global X Funds Global X MSCI China Real Estate ETF,P, ,Y,N,,CHIR,CHIR,China Region
+CHIS,Global X Funds Global X MSCI China Consumer Staples ETF,P, ,Y,N,,CHIS,CHIS,China Region
+CHIU,Global X Funds Global X MSCI China Utilities ETF,P, ,Y,N,,CHIU,CHIU,China Region
+CHIX,Global X MSCI China Financials ETF,P, ,Y,N,,CHIX,CHIX,China Region
+CMDY,iShares Bloomberg Roll Select Commodity Strategy ETF,P, ,Y,N,,CMDY,CMDY,Commodities Broad Basket
+CN,Xtrackers MSCI All China Equity ETF,P, ,Y,N,,CN,CN,China Region
+CNRG,SPDR S&P Kensho Clean Power ETF,P, ,Y,N,,CNRG,CNRG,Equity Energy
+CNYA,iShares MSCI China A ETF,Z, ,Y,N,,CNYA,CNYA,China Region
+COM,Direxion Auspice Broad Commodity Strategy ETF,P, ,Y,N,,COM,COM,Commodities Broad Basket
+COMB,GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF,P, ,Y,N,,COMB,COMB,Commodities Broad Basket
+CORP,Pimco Investment Grade Corporate Bond Index Exchange-Traded Fund,P, ,Y,N,,CORP,CORP,Corporate Bond
+CPER,United States Copper Index Fund ETV,P, ,Y,N,,CPER,CPER,Commodities Focused
+CRBN,iShares MSCI ACWI Low Carbon Target ETF,P, ,Y,N,,CRBN,CRBN,Global Large-Stock Blend
+CSD,Invesco S&P Spin-Off ETF,P, ,Y,N,,CSD,CSD,Mid-Cap Blend
+CUT,Invesco MSCI Global Timber ETF,P, ,Y,N,,CUT,CUT,Natural Resources
+CWB,SPDR Bloomberg Barclays Convertible Securities ETF,P, ,Y,N,,CWB,CWB,Convertibles
+CWI,SPDR MSCI ACWI ex-US ETF,P, ,Y,N,,CWI,CWI,Foreign Large Blend
+DBAW,Xtrackers MSCI All World ex US Hedged Equity ETF,P, ,Y,N,,DBAW,DBAW,Foreign Large Blend
+DBC,Invesco DB Commodity Index Tracking Fund,P, ,Y,N,,DBC,DBC,Commodities Broad Basket
+DBEF,Xtrackers MSCI EAFE Hedged Equity ETF,P, ,Y,N,,DBEF,DBEF,Foreign Large Blend
+DBEU,Xtrackers MSCI Europe Hedged Equity ETF,P, ,Y,N,,DBEU,DBEU,Europe Stock
+DBEZ,Xtrackers MSCI Eurozone Hedged Equity ETF,P, ,Y,N,,DBEZ,DBEZ,Europe Stock
+DBGR,Xtrackers MSCI Germany Hedged Equity ETF,P, ,Y,N,,DBGR,DBGR,Miscellaneous Region
+DBJP,Xtrackers MSCI Japan Hedged Equity ETF,P, ,Y,N,,DBJP,DBJP,Japan Stock
+DEEF,Xtrackers FTSE Developed ex US Comprehensive Factor ETF,P, ,Y,N,,DEEF,DEEF,Foreign Large Value
+DEFA,iShares Adaptive Currency Hedged MSCI EAFE ETF,Z, ,Y,N,,DEFA,DEFA,Foreign Large Blend
+DEUS,Xtrackers Russell 1000 Comprehensive Factor ETF,P, ,Y,N,,DEUS,DEUS,Mid-Cap Blend
+DIA,SPDR Dow Jones Industrial Average ETF,P, ,Y,N,,DIA,DIA,Large Value
+DJD,Invesco Dow Jones Industrial Average Dividend ETF,P, ,Y,N,,DJD,DJD,Large Value
+DRW,WisdomTree Global ex-US Real Estate Index,P, ,Y,N,,DRW,DRW,Global Real Estate
+DSI,iShares MSCI KLD 400 Social ETF,P, ,Y,N,,DSI,DSI,Large Blend
+DURA,VanEck Vectors Morningstar Durable Dividend ETF,Z, ,Y,N,,DURA,DURA,Large Value
+DVYA,iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund,P, ,Y,N,,DVYA,DVYA,Pacific/Asia ex-Japan Stk
+DWX,SPDR S&P International Dividend ETF,P, ,Y,N,,DWX,DWX,Foreign Large Value
+EASG,Xtrackers MSCI EAFE ESG Leaders Equity ETF,P, ,Y,N,,EASG,EASG,Foreign Large Blend
+ECH,iShares Inc. iShares MSCI Chile ETF,Z, ,Y,N,,ECH,ECH,Miscellaneous Region
+ECNS,iShares MSCI China Small-Cap ETF,P, ,Y,N,,ECNS,ECNS,China Region
+EEM,iShares MSCI Emerging Index Fund,P, ,Y,N,,EEM,EEM,Diversified Emerging Mkts
+EFA,iShares MSCI EAFE ETF,P, ,Y,N,,EFA,EFA,Foreign Large Blend
+EFAD,ProShares Trust ProShares MSCI EAFE Dividend Growers ETF,Z, ,Y,N,,EFAD,EFAD,Foreign Large Blend
+EFAS,Global X MSCI SuperDividend EAFE ETF,Q,G,Y,N,N,,EFAS,Foreign Large Value
+EFAV,iShares Edge MSCI Min Vol EAFE ETF,Z, ,Y,N,,EFAV,EFAV,Foreign Large Blend
+EFAX,SPDR MSCI EAFE Fossil Fuel Reserves Free ETF,P, ,Y,N,,EFAX,EFAX,Foreign Large Blend
+EFG,iShares MSCI EAFE Growth ETF,Z, ,Y,N,,EFG,EFG,Foreign Large Growth
+EFNL,iShares Inc iShares MSCI Finland ETF,Z, ,Y,N,,EFNL,EFNL,Miscellaneous Region
+EFV,iShares MSCI EAFE Value ETF,Z, ,Y,N,,EFV,EFV,Foreign Large Value
+EGPT,VanEck Vectors Egypt Index ETF,P, ,Y,N,,EGPT,EGPT,Miscellaneous Region
+EIDO,iShares MSCI Indonesia ETF,P, ,Y,N,,EIDO,EIDO,Miscellaneous Region
+EIRL,iShares Trust iShares MSCI Ireland ETF,P, ,Y,N,,EIRL,EIRL,Miscellaneous Region
+EIS,iShares Inc iShares MSCI Israel ETF,P, ,Y,N,,EIS,EIS,Miscellaneous Region
+EMFM,Global X MSCI Next Emerging & Frontier ETF,P, ,Y,N,,EMFM,EMFM,Diversified Emerging Mkts
+ENOR,iShares Inc iShares MSCI Norway ETF,Z, ,Y,N,,ENOR,ENOR,Miscellaneous Region
+ENZL,iShares MSCI New Zealand ETF,Q,G,Y,N,N,,ENZL,Miscellaneous Region
+EPHE,iShares MSCI Philippines ETF,P, ,Y,N,,EPHE,EPHE,Miscellaneous Region
+EPOL,iShares Trust iShares MSCI Poland ETF,P, ,Y,N,,EPOL,EPOL,Miscellaneous Region
+EPP,iShares MSCI Pacific Ex-Japan Index Fund,P, ,Y,N,,EPP,EPP,Pacific/Asia ex-Japan Stk
+EPRF,Innovator S&P Investment Grade Preferred ETF,Z, ,Y,N,,EPRF,EPRF,Preferred Stock
+EPU,iShares Trust iShares MSCI Peru ETF,P, ,Y,N,,EPU,EPU,Miscellaneous Region
+EQAL,Invesco Russell 1000 Equal Weight ETF,P, ,Y,N,,EQAL,EQAL,Mid-Cap Blend
+EQWL,Invesco S&P 100 Equal Weight ETF,P, ,Y,N,,EQWL,EQWL,Large Value
+ERUS,iShares MSCI iShares MSCI Russia ETF,P, ,Y,N,,ERUS,ERUS,Miscellaneous Region
+ESG,FlexShares Trust FlexShares STOXX US ESG Impact Index Fund,Z, ,Y,N,,ESG,ESG,Large Blend
+ESGD,iShares ESG MSCI EAFE ETF,Q,G,Y,N,N,,ESGD,Foreign Large Blend
+ESGE,iShares ESG MSCI EM ETF,Q,G,Y,N,N,,ESGE,Diversified Emerging Mkts
+ESGG,FlexShares Trust FlexShares STOXX Global ESG Impact Index Fund,Z, ,Y,N,,ESGG,ESGG,Global Large-Stock Blend
+ESGU,iShares ESG MSCI USA ETF,Q,G,Y,N,N,,ESGU,Large Blend
+ESML,iShares ESG MSCI USA Small-Cap ETF,Z, ,Y,N,,ESML,ESML,Small Blend
+ESNG,Direxion MSCI USA ESG - Leaders vs. Laggards ETF,P, ,Y,N,,ESNG,ESNG,Large Blend
+EUDV,ProShares MSCI Europe Dividend Growers ETF,Z, ,Y,N,,EUDV,EUDV,Europe Stock
+EUFN,iShares MSCI Europe Financials Sector Index Fund,Q,G,Y,N,N,,EUFN,Financial
+EUMV,iShares Edge MSCI Min Vol Europe ETF,P, ,Y,N,,EUMV,EUMV,Europe Stock
+EUSA,iShares MSCI USA Equal Weighted ETF,P, ,Y,N,,EUSA,EUSA,Mid-Cap Blend
+EVX,VanEck Vectors Environmental Services ETF,P, ,Y,N,,EVX,EVX,Industrials
+EWA,iShares MSCI Australia Index Fund,P, ,Y,N,,EWA,EWA,Miscellaneous Region
+EWC,iShares MSCI Canada Index Fund,P, ,Y,N,,EWC,EWC,Miscellaneous Region
+EWCO,Invesco S&P 500 Equal Weight Communication Services ETF,P, ,Y,N,,EWCO,EWCO,Communications
+EWD,iShares Inc iShares MSCI Sweden ETF,P, ,Y,N,,EWD,EWD,Miscellaneous Region
+EWG,iShares MSCI Germany Index Fund,P, ,Y,N,,EWG,EWG,Miscellaneous Region
+EWGS,Ishares MSCI Germany Small Cap ETF,Z, ,Y,N,,EWGS,EWGS,Miscellaneous Region
+EWH,iShares MSCI Hong Kong Index Fund,P, ,Y,N,,EWH,EWH,China Region
+EWI,iShares Inc iShares MSCI Italy ETF,P, ,Y,N,,EWI,EWI,Miscellaneous Region
+EWJ,iShares MSCI Japan Index Fund,P, ,Y,N,,EWJ,EWJ,Japan Stock
+EWJE,iShares MSCI Japan Equal Weighted ETF,Q,G,Y,N,N,,EWJE,Japan Stock
+EWJV,iShares MSCI Japan Value ETF,Q,G,Y,N,N,,EWJV,Japan Stock
+EWK,iShares Inc iShares MSCI Belgium ETF,P, ,Y,N,,EWK,EWK,Miscellaneous Region
+EWL,iShares Inc iShares MSCI Switzerland ETF,P, ,Y,N,,EWL,EWL,Miscellaneous Region
+EWM,iShares MSCI Malaysia Index Fund,P, ,Y,N,,EWM,EWM,Miscellaneous Region
+EWMC,Invesco S&P MidCap 400 Equal Weight ETF,P, ,Y,N,,EWMC,EWMC,Small Blend
+EWN,iShares MSCI Netherlands Index Fund,P, ,Y,N,,EWN,EWN,Miscellaneous Region
+EWO,iShares Inc iShares MSCI Austria ETF,P, ,Y,N,,EWO,EWO,Miscellaneous Region
+EWP,iShares Inc iShares MSCI Spain ETF,P, ,Y,N,,EWP,EWP,Miscellaneous Region
+EWQ,iShares MSCI France Index Fund,P, ,Y,N,,EWQ,EWQ,Miscellaneous Region
+EWRE,Invesco S&P 500 Equal Weight Real Estate ETF,P, ,Y,N,,EWRE,EWRE,Real Estate
+EWS,iShares Inc iShares MSCI Singapore ETF,P, ,Y,N,,EWS,EWS,Miscellaneous Region
+EWSC,Invesco S&P SmallCap 600 Equal Weight ETF,P, ,Y,N,,EWSC,EWSC,Small Blend
+EWT,iShares Inc iShares MSCI Taiwan ETF,P, ,Y,N,,EWT,EWT,China Region
+EWU,iShares MSCI United Kingdom ETF,P, ,Y,N,,EWU,EWU,Miscellaneous Region
+EWUS,Ishares MSCI United Kingdom Small Cap ETF,Z, ,Y,N,,EWUS,EWUS,Miscellaneous Region
+EWW,iShares Inc iShares MSCI Mexico ETF,P, ,Y,N,,EWW,EWW,Latin America Stock
+EWY,iShares Inc iShares MSCI South Korea ETF,P, ,Y,N,,EWY,EWY,Miscellaneous Region
+EWZ,iShares Inc iShares MSCI Brazil ETF,P, ,Y,N,,EWZ,EWZ,Latin America Stock
+EWZS,iShares MSCI Brazil Small-Cap ETF,Q,G,Y,N,N,,EWZS,Latin America Stock
+EZA,iShares MSCI South Africa Index Fund,P, ,Y,N,,EZA,EZA,Miscellaneous Region
+EZU,iShares MSCI Eurozone ETF,Z, ,Y,N,,EZU,EZU,Europe Stock
+FBT,First Trust Amex Biotech Index Fund,P, ,Y,N,,FBT,FBT,Health
+FCOM,Fidelity MSCI Communication Services Index ETF,P, ,Y,N,,FCOM,FCOM,Communications
+FDD,First Trust Dow Jones STOXX Select Dividend 30 Index Fund,P, ,Y,N,,FDD,FDD,Europe Stock
+FDIS,Fidelity MSCI Consumer Discretionary Index ETF,P, ,Y,N,,FDIS,FDIS,Consumer Cyclical
+FDL,First Trust Morningstar ETF,P, ,Y,N,,FDL,FDL,Large Value
+FDN,First Trust DJ Internet Index Fund,P, ,Y,N,,FDN,FDN,Technology
+FDNI,First Trust Dow Jones International Internet ETF,Q,G,Y,N,N,,FDNI,Diversified Emerging Mkts
+FENY,Fidelity MSCI Energy Index ETF,P, ,Y,N,,FENY,FENY,Equity Energy
+FFR,First Trust FTSE EPRA/NAREIT Global Real Estate Index Fund,P, ,Y,N,,FFR,FFR,Global Real Estate
+FHLC,Fidelity MSCI Health Care Index ETF,P, ,Y,N,,FHLC,FHLC,Health
+FID,First Trust S&P International Dividend Aristocrats ETF,Q,G,Y,N,N,,FID,Foreign Large Value
+FIDU,Fidelity MSCI Industrials Index ETF,P, ,Y,N,,FIDU,FIDU,Industrials
+FILL,iShares MSCI Global Energy Producers Fund,P, ,Y,N,,FILL,FILL,Equity Energy
+FITE,SPDR S&P Kensho Future Security ETF,P, ,Y,N,,FITE,FITE,Technology
+FLAU,Franklin FTSE Australia ETF,P, ,Y,N,,FLAU,FLAU,Miscellaneous Region
+FLAX,Franklin FTSE Asia ex Japan ETF,P, ,Y,N,,FLAX,FLAX,Pacific/Asia ex-Japan Stk
+FLBR,Franklin FTSE Brazil ETF,P, ,Y,N,,FLBR,FLBR,Latin America Stock
+FLCA,Franklin FTSE Canada ETF,P, ,Y,N,,FLCA,FLCA,Miscellaneous Region
+FLCH,Franklin FTSE China ETF,P, ,Y,N,,FLCH,FLCH,China Region
+FLEE,Franklin FTSE Europe ETF,P, ,Y,N,,FLEE,FLEE,Europe Stock
+FLEH,Franklin FTSE Europe Hedged ETF,P, ,Y,N,,FLEH,FLEH,Europe Stock
+FLFR,Franklin FTSE France ETF,P, ,Y,N,,FLFR,FLFR,Miscellaneous Region
+FLGB,Franklin FTSE United Kingdom ETF,P, ,Y,N,,FLGB,FLGB,Miscellaneous Region
+FLGR,Franklin FTSE Germany ETF,P, ,Y,N,,FLGR,FLGR,Miscellaneous Region
+FLHK,Franklin FTSE Hong Kong ETF,P, ,Y,N,,FLHK,FLHK,China Region
+FLIN,Franklin FTSE India ETF,P, ,Y,N,,FLIN,FLIN,India Equity
+FLIY,Franklin FTSE Italy ETF,P, ,Y,N,,FLIY,FLIY,Miscellaneous Region
+FLJH,Franklin FTSE Japan Hedged ETF,P, ,Y,N,,FLJH,FLJH,Japan Stock
+FLJP,Franklin FTSE Japan ETF,P, ,Y,N,,FLJP,FLJP,Japan Stock
+FLKR,Franklin FTSE South Korea ETF,P, ,Y,N,,FLKR,FLKR,Miscellaneous Region
+FLLA,Franklin FTSE Latin America ETF,P, ,Y,N,,FLLA,FLLA,Latin America Stock
+FLMX,Franklin FTSE Mexico ETF,P, ,Y,N,,FLMX,FLMX,Latin America Stock
+FLRN,SPDR Bloomberg Barclays Investment Grade Floating Rate ETF,P, ,Y,N,,FLRN,FLRN,Ultrashort Bond
+FLRU,Franklin FTSE Russia ETF,P, ,Y,N,,FLRU,FLRU,Miscellaneous Region
+FLSA,Franklin FTSE Saudi Arabia ETF,P, ,Y,N,,FLSA,FLSA,Miscellaneous Region
+FLSW,Franklin FTSE Switzerland ETF,P, ,Y,N,,FLSW,FLSW,Miscellaneous Region
+FLTW,Franklin FTSE Taiwan ETF,P, ,Y,N,,FLTW,FLTW,China Region
+FLZA,Franklin FTSE South Africa ETF,P, ,Y,N,,FLZA,FLZA,Miscellaneous Region
+FM,iShares MSCI Frontier 100 Fund,P, ,Y,N,,FM,FM,Diversified Emerging Mkts
+FMAT,Fidelity MSCI Materials Index ETF,P, ,Y,N,,FMAT,FMAT,Natural Resources
+FNCL,Fidelity MSCI Financials Index ETF,P, ,Y,N,,FNCL,FNCL,Financial
+FNDA,Schwab Fundamental U.S. Small Company Index ETF,P, ,Y,N,,FNDA,FNDA,Small Blend
+FNDC,Schwab Fundamental International Small Company Index ETF,P, ,Y,N,,FNDC,FNDC,Foreign Small/Mid Value
+FNDF,Schwab Fundamental International Large Company Index ETF,P, ,Y,N,,FNDF,FNDF,Foreign Large Value
+FNDX,Schwab Fundamental U.S. Large Company Index ETF,P, ,Y,N,,FNDX,FNDX,Large Value
+FREL,Fidelity MSCI Real Estate Index ETF,P, ,Y,N,,FREL,FREL,Real Estate
+FRI,First Trust S&P REIT Index Fund,P, ,Y,N,,FRI,FRI,Real Estate
+FSTA,Fidelity MSCI COnsumer Staples Index ETF,P, ,Y,N,,FSTA,FSTA,Consumer Defensive
+FTEC,Fidelity MSCI Information Technology Index ETF,P, ,Y,N,,FTEC,FTEC,Technology
+FUTY,Fidelity MSCI Utilities Index ETF,P, ,Y,N,,FUTY,FUTY,Utilities
+GCC,WisdomTree Continuous Commodity Index Fund,P, ,Y,N,,GCC,GCC,Commodities Broad Basket
+GENY,Principal Millennials Index ETF,Q,G,Y,N,N,,GENY,Global Large-Stock Growth
+GII,SPDR S&P Global Infrastructure ETF,P, ,Y,N,,GII,GII,Infrastructure
+GMF,SPDR S&P Emerging Asia Pacific ETF,P, ,Y,N,,GMF,GMF,Pacific/Asia ex-Japan Stk
+GNR,SPDR S&P Global Natural Resources ETF,P, ,Y,N,,GNR,GNR,Natural Resources
+GOAT,VanEck Vectors Morningstar Global Wide Moat ETF,Z, ,Y,N,,GOAT,GOAT,Global Large-Stock Blend
+GQRE,FlexShares Global Quality Real Estate Index Fund,P, ,Y,N,,GQRE,GQRE,Global Real Estate
+GREK,Global X MSCI Greece ETF,P, ,Y,N,,GREK,GREK,Miscellaneous Region
+GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,Q,G,Y,N,N,,GRID,Infrastructure
+GSG,iShares GSCI Commodity-Indexed Trust Fund,P, ,Y,N,,GSG,GSG,Commodities Broad Basket
+GUNR,FlexShares Global Upstream Natural Resources Index Fund ETF,P, ,Y,N,,GUNR,GUNR,Natural Resources
+GURU,Global X Guru Index ETF,P, ,Y,N,,GURU,GURU,Large Blend
+GWX,SPDR S&P International SmallCap ETF,P, ,Y,N,,GWX,GWX,Foreign Small/Mid Blend
+GXC,SPDR S&P China ETF,P, ,Y,N,,GXC,GXC,China Region
+GXF,Global X FTSE Nordic Region ETF,P, ,Y,N,,GXF,GXF,Miscellaneous Region
+GXG,Global X MSCI Colombia ETF,P, ,Y,N,,GXG,GXG,Miscellaneous Region
+GYLD,Arrow Dow Jones Global Yield ETF ETF,P, ,Y,N,,GYLD,GYLD,Global Moderate Allocation
+HAIL,SPDR S&P Kensho Smart Mobility ETF,P, ,Y,N,,HAIL,HAIL,Technology
+HAUD,iShares Currency Hedged MSCI Australia ETF,P, ,Y,N,,HAUD,HAUD,Miscellaneous Region
+HAWX,iShares Currency Hedged MSCI ACWI ex U.S. ETF,P, ,Y,N,,HAWX,HAWX,Foreign Large Blend
+HDAW,Xtrackers MSCI All World ex US High Dividend Yield Equity ETF,P, ,Y,N,,HDAW,HDAW,Foreign Large Value
+HDEF,Xtrackers MSCI EAFE High Dividend Yield Equity ETF,P, ,Y,N,,HDEF,HDEF,Foreign Large Value
+HEFA,iShares Currency Hedged MSCI EAFE ETF,Z, ,Y,N,,HEFA,HEFA,Foreign Large Blend
+HEWC,iShares Currency Hedged MSCI Canada ETF,P, ,Y,N,,HEWC,HEWC,Miscellaneous Region
+HEWG,iShares Currency Hedged MSCI Germany ETF,Q,G,Y,N,N,,HEWG,Miscellaneous Region
+HEWI,iShares Currency Hedged MSCI Italy ETF,P, ,Y,N,,HEWI,HEWI,Miscellaneous Region
+HEWJ,iShares Currency Hedged MSCI Japan ETF,P, ,Y,N,,HEWJ,HEWJ,Japan Stock
+HEWL,iShares Currency Hedged MSCI Switzerland ETF,P, ,Y,N,,HEWL,HEWL,Miscellaneous Region
+HEWP,iShares Currency Hedged MSCI Spain,P, ,Y,N,,HEWP,HEWP,Miscellaneous Region
+HEWU,iShares Currency Hedged MSCI United Kingdom ETF,P, ,Y,N,,HEWU,HEWU,Miscellaneous Region
+HEWW,iShares Currency Hedged MSCI Mexico ETF,P, ,Y,N,,HEWW,HEWW,Miscellaneous Region
+HEWY,iShares Currency Hedged MSCI South Korea ETF,P, ,Y,N,,HEWY,HEWY,Miscellaneous Region
+HEZU,iShares Currency Hedged MSCI Eurozone ETF,P, ,Y,N,,HEZU,HEZU,Europe Stock
+HFXE,IQ 50 Percent Hedged FTSE Europe ETF,P, ,Y,N,,HFXE,HFXE,Europe Stock
+HFXI,IQ 50 Percent Hedged FTSE International ETF,P, ,Y,N,,HFXI,HFXI,Foreign Large Blend
+HFXJ,IQ 50 Percent Hedged FTSE Japan ETF,P, ,Y,N,,HFXJ,HFXJ,Japan Stock
+HLAL,Wahed FTSE USA Shariah ETF,Q,G,Y,N,N,,HLAL,Large Blend
+HNDL,Strategy Shares Nasdaq 7HANDL Index ETF,Q,G,Y,N,N,,HNDL,Moderately Conservative Allocation
+HSCZ,iShares Currency Hedged MSCI EAFE Small-Cap ETF,P, ,Y,N,,HSCZ,HSCZ,Foreign Small/Mid Blend
+HYD,VanEck Vectors High Yield Municipal Index ETF,Z, ,Y,N,,HYD,HYD,High Yield Muni
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,P, ,Y,N,,HYG,HYG,Unknown
+HYGV,FlexShares High Yield Value-Scored Bond Index Fund,P, ,Y,N,,HYGV,HYGV,High Yield Bond
+HYLV,IndexIQ ETF Trust IQ S&P High Yield Low Volatility Bond ETF,P, ,Y,N,,HYLV,HYLV,High Yield Bond
+HYMB,SPDR Nuveen Bloomberg Barclays High Yield Municipal Bond ETF,P, ,Y,N,,HYMB,HYMB,High Yield Muni
+HYS,PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund,P, ,Y,N,,HYS,HYS,High Yield Bond
+IBB,iShares Nasdaq Biotechnology Index Fund,Q,G,Y,N,N,,IBB,Health
+IBND,SPDR Bloomberg Barclays International Corporate Bond ETF,P, ,Y,N,,IBND,IBND,Global Bond
+ICLN,iShares S&P Global Clean Energy Index Fund,Q,G,Y,N,N,,ICLN,Miscellaneous Sector
+ICOL,iShares Inc iShares MSCI Colombia ETF,P, ,Y,N,,ICOL,ICOL,Miscellaneous Region
+IDHD,Invesco S&P International Developed High Dividend Low Volatility ETF,Z, ,Y,N,,IDHD,IDHD,Foreign Large Value
+IDHQ,Invesco S&P International Developed Quality ETF,P, ,Y,N,,IDHQ,IDHQ,Foreign Large Growth
+IDLB,Invesco FTSE International Low Beta Equal Weight ETF,Q,G,Y,N,N,,IDLB,Foreign Large Blend
+IDLV,Invesco S&P International Developed Low Volatility ETF,P, ,Y,N,,IDLV,IDLV,Foreign Large Blend
+IDMO,Invesco S&P International Developed Momentum ETF,P, ,Y,N,,IDMO,IDMO,Foreign Large Blend
+IDX,VanEck Vectors Indonesia Index ETF,P, ,Y,N,,IDX,IDX,Miscellaneous Region
+IEFA,iShares Core MSCI EAFE ETF,Z, ,Y,N,,IEFA,IEFA,Foreign Large Blend
+IEUR,iShares Core MSCI Europe ETF,P, ,Y,N,,IEUR,IEUR,Europe Stock
+IEUS,iShares MSCI Europe Small-Cap ETF,Q,G,Y,N,N,,IEUS,Europe Stock
+IFEU,iShares FTSE EPRA/NAREIT Europe Index Fund,Q,G,Y,N,N,,IFEU,Global Real Estate
+IFGL,iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund,Q,G,Y,N,N,,IFGL,Global Real Estate
+IHI,iShares U.S. Medical Devices ETF,P, ,Y,N,,IHI,IHI,Health
+IJH,iShares Core S&P Mid-Cap ETF,P, ,Y,N,,IJH,IJH,Mid-Cap Blend
+IJJ,iShares S&P Mid-Cap 400 Value ETF,P, ,Y,N,,IJJ,IJJ,Small Value
+IJK,iShares S&P Mid-Cap 400 Growth ETF,P, ,Y,N,,IJK,IJK,Mid-Cap Growth
+IJR,iShares Core S&P Small-Cap ETF,P, ,Y,N,,IJR,IJR,Small Blend
+IJS,iShares S&P SmallCap 600 Value ETF,P, ,Y,N,,IJS,IJS,Small Value
+IJT,iShares S&P Small-Cap 600 Growth ETF,Q,G,Y,N,N,,IJT,Small Growth
+IMTM,iShares Edge MSCI Intl Momentum Factor ETF,P, ,Y,N,,IMTM,IMTM,Foreign Large Blend
+INDA,Ishares MSCI India ETF,Z, ,Y,N,,INDA,INDA,India Equity
+INDY,iShares S&P India Nifty 50 Index Fund,Q,G,Y,N,N,,INDY,India Equity
+INTF,iShares Edge MSCI Multifactor Intl ETF,P, ,Y,N,,INTF,INTF,Foreign Large Blend
+IPAC,iShares Core MSCI Pacific ETF,P, ,Y,N,,IPAC,IPAC,Diversified Pacific/Asia
+IPB,"Merrill Lynch & Co., Inc. 6.0518% Index Plus Trust Certificates Series 2003-1",A, ,Y,N,,IPB,IPB,Unknown
+IQDE,FlexShares International Quality Dividend Defensive Index Fund,P, ,Y,N,,IQDE,IQDE,Foreign Large Value
+IQDF,FlexShares International Quality Dividend Index Fund,P, ,Y,N,,IQDF,IQDF,Unknown
+IQDY,FlexShares International Quality Dividend Dynamic Index Fund,P, ,Y,N,,IQDY,IQDY,Foreign Large Value
+IQLT,iShares Edge MSCI Intl Quality Factor ETF,P, ,Y,N,,IQLT,IQLT,Foreign Large Blend
+ISCF,iShares Edge MSCI Intl Size Factor ETF,P, ,Y,N,,ISCF,ISCF,Foreign Small/Mid Blend
+ISZE,iShares Edge MSCI Intl Size Factor ETF,P, ,Y,N,,ISZE,ISZE,Foreign Large Blend
+ITM,VanEck Vectors AMT-Free Intermediate Municipal Index ETF,Z, ,Y,N,,ITM,ITM,Muni National Interm
+IUSG,iShares Core S&P U.S. Growth ETF,Q,G,Y,N,N,,IUSG,Large Growth
+IUSV,iShares Core S&P U.S. Value ETF,Q,G,Y,N,N,,IUSV,Large Value
+IVE,iShares S&P 500 Value ETF,P, ,Y,N,,IVE,IVE,Large Value
+IVLU,iShares Edge MSCI Intl Value Factor ETF,P, ,Y,N,,IVLU,IVLU,Foreign Large Value
+IVOG,Vanguard S&P Mid-Cap 400 Growth ETF,P, ,Y,N,,IVOG,IVOG,Mid-Cap Growth
+IVOO,Vanguard S&P Mid-Cap 400 ETF,P, ,Y,N,,IVOO,IVOO,Mid-Cap Blend
+IVOV,Vanguard S&P Mid-Cap 400 Value ETF,P, ,Y,N,,IVOV,IVOV,Small Value
+IVV,iShares Core S&P 500 ETF,P, ,Y,N,,IVV,IVV,Large Blend
+IVW,iShares S&P 500 Growth ETF,P, ,Y,N,,IVW,IVW,Large Growth
+IWB,iShares Russell 1000 ETF,P, ,Y,N,,IWB,IWB,Large Blend
+IWD,iShares Russell 1000 Value ETF,P, ,Y,N,,IWD,IWD,Large Value
+IWF,iShares Russell 1000 Growth ETF,P, ,Y,N,,IWF,IWF,Large Growth
+IWL,iShares Russell Top 200 ETF,P, ,Y,N,,IWL,IWL,Large Blend
+IWM,iShares Russell 2000 ETF,P, ,Y,N,,IWM,IWM,Small Blend
+IWN,iShares Russell 2000 Value ETF,P, ,Y,N,,IWN,IWN,Small Value
+IWO,iShares Russell 2000 Growth ETF,P, ,Y,N,,IWO,IWO,Small Growth
+IWP,iShares Russell Midcap Growth ETF,P, ,Y,N,,IWP,IWP,Mid-Cap Growth
+IWR,iShares Russell Mid-Cap ETF,P, ,Y,N,,IWR,IWR,Mid-Cap Blend
+IWS,iShares Russell Mid-cap Value ETF,P, ,Y,N,,IWS,IWS,Mid-Cap Value
+IWV,iShares Russell 3000 ETF,P, ,Y,N,,IWV,IWV,Large Blend
+IWX,iShares Russell Top 200 Value ETF,P, ,Y,N,,IWX,IWX,Large Value
+IWY,iShares Russell Top 200 Growth ETF,P, ,Y,N,,IWY,IWY,Large Growth
+IXP,iShares Global Comm Services ETF,P, ,Y,N,,IXP,IXP,Communications
+IXUS,iShares Core MSCI Total International Stock ETF,Q,G,Y,N,N,,IXUS,Foreign Large Blend
+IYC,iShares U.S. Consumer Services ETF,P, ,Y,N,,IYC,IYC,Consumer Cyclical
+IYG,iShares U.S. Financial Services ETF,P, ,Y,N,,IYG,IYG,Financial
+IYLD,iShares Morningstar Multi-Asset Income ETF,Z, ,Y,N,,IYLD,IYLD,Global Moderately Conservative Allocation
+IYY,iShares Dow Jones U.S. ETF,P, ,Y,N,,IYY,IYY,Large Blend
+JKD,iShares Morningstar Large-Cap ETF,P, ,Y,N,,JKD,JKD,Unknown
+JKE,iShares Morningstar Large-Cap Growth ETF,P, ,Y,N,,JKE,JKE,Unknown
+JKF,iShares Morningstar Large-Cap  Value ETF,P, ,Y,N,,JKF,JKF,Unknown
+JKG,iShares Morningstar Mid-Cap ETF,P, ,Y,N,,JKG,JKG,Unknown
+JKH,iShares Morningstar Mid-Cap Growth ETF,P, ,Y,N,,JKH,JKH,Unknown
+JKI,iShares Morningstar Mid-Cap ETF,Q,G,Y,N,N,,JKI,Unknown
+JKJ,iShares Morningstar Small-Cap ETF,P, ,Y,N,,JKJ,JKJ,Unknown
+JKK,iShares Morningstar Small-Cap Growth ETF,P, ,Y,N,,JKK,JKK,Unknown
+JKL,iShares Morningstar Small-Cap Value ETFnd,P, ,Y,N,,JKL,JKL,Unknown
+JNK,SPDR Bloomberg Barclays High Yield Bond ETF,P, ,Y,N,,JNK,JNK,High Yield Bond
+JPMV,iShares Edge MSCI Min Vol Japan ETF,P, ,Y,N,,JPMV,JPMV,Japan Stock
+KALL,KraneShares MSCI All China Index ETF,P, ,Y,N,,KALL,KALL,China Region
+KARS,KraneShares Electric Vehicles and Future Mobility Index ETF,P, ,Y,N,,KARS,KARS,Industrials
+KBA,KraneShares Bosera MSCI China A ETF,P, ,Y,N,,KBA,KBA,China Region
+KBE,SPDR S&P Bank ETF,P, ,Y,N,,KBE,KBE,Financial
+KCCB,KraneShares CCBS China Corporate High Yield Bond USD Index ETF,P, ,Y,N,,KCCB,KCCB,Unknown
+KFYP,KraneShares CICC China Leaders 100 Index ETF,P, ,Y,N,,KFYP,KFYP,China Region
+KGRN,KraneShares MSCI China Environment Index ETF,P, ,Y,N,,KGRN,KGRN,China Region
+KIE,SPDR S&P Insurance ETF,P, ,Y,N,,KIE,KIE,Financial
+KLCD,KFA Large Cap Quality Dividend Index ETF,P, ,Y,N,,KLCD,KLCD,Large Blend
+KNG,ETF Series Solutions ETF Cboe Vest S&P 500 Dividend Aristocrats Target Income ETF,Z, ,Y,N,,KNG,KNG,Derivative Income
+KOMP,SPDR S&P Kensho New Economies Composite ETF,P, ,Y,N,,KOMP,KOMP,Mid-Cap Growth
+KRE,SPDR S&P Regional Banking ETF,P, ,Y,N,,KRE,KRE,Financial
+KSA,iShares Trust iShares MSCI Saudi Arabia ETF,P, ,Y,N,,KSA,KSA,Miscellaneous Region
+KSCD,KFA Small Cap Quality Dividend Index ETF,P, ,Y,N,,KSCD,KSCD,Small Blend
+KURE,KraneShares MSCI All China Health Care Index ETF,P, ,Y,N,,KURE,KURE,China Region
+KWEB,KraneShares Trust KraneShares CSI China Internet ETF,P, ,Y,N,,KWEB,KWEB,China Region
+LDEM,iShares ESG MSCI EM Leaders ETF,Q,G,Y,N,N,,LDEM,Diversified Emerging Mkts
+LGH,HCM Defender 500 Index ETF,P, ,Y,N,,LGH,LGH,Large Blend
+LGLV,SPDR SSGA US Large Cap Low Volatility Index ETF,P, ,Y,N,,LGLV,LGLV,Large Blend
+LKOR,FlexShares Trust FlexShares Credit-Scored US Long Corporate Bond Index Fund,Z, ,Y,N,,LKOR,LKOR,Long-Term Bond
+LOWC,SPDR MSCI ACWI Low Carbon Target ETF,P, ,Y,N,,LOWC,LOWC,Global Large-Stock Blend
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,P, ,Y,N,,LQD,LQD,Corporate Bond
+LRGF,iShares Edge MSCI Multifactor USA ETF,P, ,Y,N,,LRGF,LRGF,Large Blend
+LTPZ,Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund,P, ,Y,N,,LTPZ,LTPZ,Inflation-Protected Bond
+MBSD,FlexShares Disciplined Duration MBS Index Fund,Q,G,Y,N,N,,MBSD,Intermediate Government
+MCHI,iShares MSCI China ETF,Q,G,Y,N,N,,MCHI,China Region
+MDIV,First Trust Multi-Asset Diversified Income Index Fund,Q,G,Y,N,N,,MDIV,Aggressive Allocation
+MDYG,SPDR S&P 400 Mid Cap Growth ETF (based on S&P MidCap 400 Growth Index--symbol: MUV),P, ,Y,N,,MDYG,MDYG,Mid-Cap Growth
+MDYV,SPDR S&P 400 Mid Cap Value ETF (based on S&P MidCap 400 Value Index--symbol: MGD,P, ,Y,N,,MDYV,MDYV,Small Value
+MIDF,iShares Edge MSCI Multifactor USA Mid-Cap ETF,P, ,Y,N,,MIDF,MIDF,Mid-Cap Blend
+MLN,VanEck Vectors AMT-Free Long Municipal Index ETF,Z, ,Y,N,,MLN,MLN,Muni National Long
+MMTM,SPDR S&P 1500 Momentum Tilt ETF,P, ,Y,N,,MMTM,MMTM,Large Blend
+MOAT,VanEck Vectors Morningstar Wide Moat ETF,Z, ,Y,N,,MOAT,MOAT,Large Blend
+MOTI,VanEck Vectors Morningstar International Moat ETF,Z, ,Y,N,,MOTI,MOTI,Foreign Large Value
+MTUM,iShares Edge MSCI USA Momentum Factor ETF,Z, ,Y,N,,MTUM,MTUM,Large Blend
+NANR,SPDR S&P North American Natural Resources ETF,P, ,Y,N,,NANR,NANR,Natural Resources
+NFRA,FlexShares STOXX Global Broad Infrastructure Index Fund,P, ,Y,N,,NFRA,NFRA,Infrastructure
+NGE,Global X MSCI Nigeria ETF,P, ,Y,N,,NGE,NGE,Miscellaneous Region
+NOBL,ProShares S&P 500 Dividend Aristocrats ETF,Z, ,Y,N,,NOBL,NOBL,Large Value
+NORW,Global X MSCI Norway ETF,P, ,Y,N,,NORW,NORW,Miscellaneous Region
+NUGT,Direxion Daily Gold Miners Index Bull 2XShares,P, ,Y,N,,NUGT,NUGT,Trading--Leveraged Equity
+OBOR,KraneShares MSCI One Belt One Road Index ETF,P, ,Y,N,,OBOR,OBOR,Infrastructure
+OEF,iShares S&P 100 ETF,P, ,Y,N,,OEF,OEF,Large Blend
+OEUR,O'Shares FTSE Europe Quality Dividend ETF,P, ,Y,N,,OEUR,OEUR,Europe Stock
+OMFL,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco Russell 1000 Dynamic Multifactor ETF,Z, ,Y,N,,OMFL,OMFL,Large Blend
+OMFS,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco Russell 2000 Dynamic Multifactor ETF,Z, ,Y,N,,OMFS,OMFS,Small Blend
+ONEO,SPDR Russell 1000 Momentum Focus ETF,P, ,Y,N,,ONEO,ONEO,Mid-Cap Blend
+ONEQ,Fidelity Nasdaq Composite Index Tracking Stock,Q,G,Y,N,N,,ONEQ,Large Growth
+ONEV,SPDR Russell 1000 Low Volatility Focus ETF,P, ,Y,N,,ONEV,ONEV,Mid-Cap Value
+ONEY,SPDR Russell 1000 Yield Focus ETF,P, ,Y,N,,ONEY,ONEY,Mid-Cap Value
+OUSA,O'Shares FTSE U.S. Quality Dividend ETF,P, ,Y,N,,OUSA,OUSA,Large Value
+OUSM,O'Shares FTSE Russell Small Cap Quality Dividend ETF,P, ,Y,N,,OUSM,OUSM,Small Blend
+PACA,Xtrackers MSCI Latin America Pacific Alliance ETF,P, ,Y,N,,PACA,PACA,Latin America Stock
+PAK,Global X MSCI Pakistan ETF,P, ,Y,N,,PAK,PAK,Miscellaneous Region
+PBDM,Invesco PureBeta FTSE Developed ex-North America ETF,Z, ,Y,N,,PBDM,PBDM,Foreign Large Blend
+PBSM,Invesco PureBeta MSCI USA Small Cap ETF,Z, ,Y,N,,PBSM,PBSM,Small Blend
+PBUS,Invesco PureBeta MSCI USA ETF,Z, ,Y,N,,PBUS,PBUS,Large Blend
+PCEF,Invesco CEF Income Composite ETF,P, ,Y,N,,PCEF,PCEF,Global Moderate Allocation
+PDEV,Principal International Multi-Factor Core Index ETF,Q,G,Y,N,N,,PDEV,Foreign Large Blend
+PEK,VanEck Vectors ChinaAMC CSI 3000 ETF,P, ,Y,N,,PEK,PEK,Unknown
+PGAL,Global X MSCI Portugal ETF,P, ,Y,N,,PGAL,PGAL,Miscellaneous Region
+PHDG,Invesco S&P 500 Downside Hedged ETF,P, ,Y,N,,PHDG,PHDG,Equity Hedged
+PICK,iShares MSCI Global Select Metals & Mining Producers Fund,Z, ,Y,N,,PICK,PICK,Natural Resources
+PLC,Principal U.S. Large-Cap Multi-Factor Core Index ETF,Q,G,Y,N,N,,PLC,Large Blend
+PMOM,Principal Sustainable Momentum Index ETF,Q,G,Y,N,N,,PMOM,Large Growth
+PPLC,PortfolioPlus S&P 500 ETF,P, ,Y,N,,PPLC,PPLC,Trading--Leveraged Equity
+PPMC,PortfolioPlus S&P Mid Cap ETF,P, ,Y,N,,PPMC,PPMC,Trading--Leveraged Equity
+PPSC,PortfolioPlus S&P Small Cap ETF,P, ,Y,N,,PPSC,PPSC,Trading--Leveraged Equity
+PRF,Invesco FTSE RAFI US 1000 ETF,P, ,Y,N,,PRF,PRF,Large Value
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,Q,G,Y,N,N,,PRFZ,Small Blend
+PSC,Principal U.S. Small-Cap Multi-Factor Index ETF,Q,G,Y,N,N,,PSC,Small Blend
+PSCC,Invesco S&P SmallCap Consumer Staples ETF,Q,G,Y,N,N,,PSCC,Consumer Defensive
+PSCD,Invesco S&P SmallCap Consumer Discretionary ETF,Q,G,Y,N,N,,PSCD,Consumer Cyclical
+PSCE,Invesco S&P SmallCap Energy ETF,Q,G,Y,N,N,,PSCE,Equity Energy
+PSCF,Invesco S&P SmallCap Financials ETF,Q,G,Y,N,N,,PSCF,Financial
+PSCH,Invesco S&P SmallCap Health Care ETF,Q,G,Y,N,N,,PSCH,Health
+PSCI,Invesco S&P SmallCap Industrials ETF,Q,G,Y,N,N,,PSCI,Industrials
+PSCM,Invesco S&P SmallCap Materials ETF,Q,G,Y,N,N,,PSCM,Natural Resources
+PSCT,Invesco S&P SmallCap Information Technology ETF,Q,G,Y,N,N,,PSCT,Technology
+PSCU,Invesco S&P SmallCap Utilities & Communication Services ETF,Q,G,Y,N,N,,PSCU,Utilities
+PSET,Principal Price Setters Index ETF,Q,G,Y,N,N,,PSET,Large Blend
+PSM,Principal U.S. Small-MidCap Multi-Factor Core Index ETF,Q,G,Y,N,N,,PSM,Mid-Cap Blend
+PTEU,Pacer TrendpilotTM European Index ETF,Z, ,Y,N,,PTEU,PTEU,Europe Stock
+PUTW,WisdomTree CBOE S&P 500 PutWrite Strategy Fund,P, ,Y,N,,PUTW,PUTW,Derivative Income
+PVAL,Principal Contrarian Value Index ETF,Q,G,Y,N,N,,PVAL,Large Value
+PY,Principal Shareholder Yield Index ETF,Q,G,Y,N,N,,PY,Large Value
+QABA,First Trust NASDAQ ABA Community Bank Index Fund,Q,G,Y,N,N,,QABA,Financial
+QARP,Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF,P, ,Y,N,,QARP,QARP,Large Blend
+QAT,iShares MSCI Qatar ETF,Q,G,Y,N,N,,QAT,Miscellaneous Region
+QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,Q,G,Y,N,N,,QCLN,Miscellaneous Sector
+QDEF,FlexShares Quality Dividend Defensive Index Fund,P, ,Y,N,,QDEF,QDEF,Large Value
+QDF,FlexShares Quality Dividend Index Fund,P, ,Y,N,,QDF,QDF,Large Value
+QDIV,Global X S&P 500 Quality Dividend ETF,P, ,Y,N,,QDIV,QDIV,Large Value
+QDYN,FlexShares Quality Dynamic Index Fund,P, ,Y,N,,QDYN,QDYN,Large Value
+QEFA,SPDR MSCI EAFE StrategicFactors ETF,P, ,Y,N,,QEFA,QEFA,Foreign Large Blend
+QLC,FlexShares Trust FlexShares US Quality Large Cap Index Fund,Z, ,Y,N,,QLC,QLC,Large Blend
+QLV,FlexShares US Quality Low Volatility Index Fund,P, ,Y,N,,QLV,QLV,Large Blend
+QMJ,Direxion S&P 500 High minus Low Quality ETF,P, ,Y,N,,QMJ,QMJ,Large Blend
+QQEW,First Trust NASDAQ-100 Equal Weighted Index Fund,Q,G,Y,N,N,,QQEW,Large Growth
+QQH,HCM Defender 100 Index ETF,P, ,Y,N,,QQH,QQH,Large Growth
+QQQE,Direxion NASDAQ-100 Equal Weighted Index Shares,P, ,Y,N,,QQQE,QQQE,Large Growth
+QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,Q,G,Y,N,N,,QQXT,Large Blend
+QTEC,First Trust NASDAQ-100- Technology Index Fund,Q,G,Y,N,N,,QTEC,Technology
+QUAL,iShares Edge MSCI USA Quality Factor ETF,Z, ,Y,N,,QUAL,QUAL,Large Blend
+QUS,SPDR MSCI USA StrategicFactors ETF,P, ,Y,N,,QUS,QUS,Large Blend
+QWLD,SPDR MSCI World StrategicFactors ETF,P, ,Y,N,,QWLD,QWLD,Global Large-Stock Blend
+RCD,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,P, ,Y,N,,RCD,RCD,Unknown
+REGL,ProShares S&P MidCap 400 Dividend Aristocrats ETF,Z, ,Y,N,,REGL,REGL,Small Value
+RFG,Invesco S&P Midcap 400 Pure Growth ETF,P, ,Y,N,,RFG,RFG,Mid-Cap Growth
+RFV,Invesco S&P Midcap 400 Pure Value ETF,P, ,Y,N,,RFV,RFV,Small Value
+RGI,Invesco S&P 500 Equal Weight Industrials Portfolio,P, ,Y,N,,RGI,RGI,Industrials
+RHS,Invesco S&P 500 Equal Weight Consumer Staples ETF,P, ,Y,N,,RHS,RHS,Consumer Defensive
+RING,iShares MSCI Global Gold Miners ETF,Q,G,Y,N,N,,RING,Equity Precious Metals
+ROBO,Exchange Traded Concepts Trust ROBO Global Robotics and Automation Index ETF,P, ,Y,N,,ROBO,ROBO,Global Small/Mid Stock
+ROKT,SPDR S&P Kensho Final Frontiers ETF,P, ,Y,N,,ROKT,ROKT,Industrials
+RPG,Invesco S&P 500 Pure Growth ETF,P, ,Y,N,,RPG,RPG,Large Growth
+RPV,Invesco S&P 500 Pure Value ETF,P, ,Y,N,,RPV,RPV,Mid-Cap Value
+RSP,Invesco S&P 500 Equal Weight ETF,P, ,Y,N,,RSP,RSP,Large Blend
+RTM,Invesco S&P 500 Equal Weight Materials ETF,P, ,Y,N,,RTM,RTM,Natural Resources
+RWCD,Direxion MSCI Cyclicals Over Defensives ETF,P, ,Y,N,,RWCD,RWCD,Consumer Cyclical
+RWDC,Direxion MSCI Defensives Over Cyclicals ETF,P, ,Y,N,,RWDC,RWDC,Consumer Defensive
+RWGV,Direxion Russell 1000 Growth Over Value ETF,P, ,Y,N,,RWGV,RWGV,Large Growth
+RWIU,Direxion FTSE Russell International Over US ETF,P, ,Y,N,,RWIU,RWIU,Foreign Large Blend
+RWJ,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap 600 Revenue ETF,P, ,Y,N,,RWJ,RWJ,Small Value
+RWK,Invesco Exchange-Traded Fund Trust II Invesco S&P MidCap 400 Revenue ETF,P, ,Y,N,,RWK,RWK,Mid-Cap Value
+RWL,Invesco Exchange-Traded Fund Trust II Invesco S&P 500 Revenue ETF,P, ,Y,N,,RWL,RWL,Large Value
+RWLS,Direxion Russell Large Over Small Cap ETF,P, ,Y,N,,RWLS,RWLS,Large Blend
+RWSL,Direxion Russell Small Over Large Cap ETF,P, ,Y,N,,RWSL,RWSL,Small Blend
+RWUI,Direxion FTSE Russell US Over International ETF,P, ,Y,N,,RWUI,RWUI,Large Blend
+RWVG,Direxion Russell 1000 Value Over Growth ETF,P, ,Y,N,,RWVG,RWVG,Large Value
+RYE,Invesco S&P 500 Equal Weight Energy ETF,P, ,Y,N,,RYE,RYE,Equity Energy
+RYF,Invesco S&P 500 Equal Weight Financial ETF,P, ,Y,N,,RYF,RYF,Financial
+RYH,Invesco S&P 500 Equal Weight Health Care ETF,P, ,Y,N,,RYH,RYH,Health
+RYT,Invesco S&P 500 Equal Weight Technology ETF,P, ,Y,N,,RYT,RYT,Technology
+RYU,Invesco S&P 500 Equal Weight Utilities ETF,P, ,Y,N,,RYU,RYU,Utilities
+RZG,Invesco S&P Smallcap 600 Pure Growth ETF,P, ,Y,N,,RZG,RZG,Small Growth
+RZV,Invesco S&P Smallcap 600 Pure Value ETF,P, ,Y,N,,RZV,RZV,Small Value
+SCHK,Schwab 1000 Index ETF,P, ,Y,N,,SCHK,SCHK,Large Blend
+SCIF,VanEck Vectors India Small-Cap Index ETF,P, ,Y,N,,SCIF,SCIF,Unknown
+SCJ,iShares MSCI Japan Sm Cap,P, ,Y,N,,SCJ,SCJ,Japan Stock
+SCZ,iShares MSCI EAFE Small-Cap ETF,Q,G,Y,N,N,,SCZ,Foreign Small/Mid Blend
+SDG,iShares MSCI Global Impact ETF,Q,G,Y,N,N,,SDG,Global Large-Stock Blend
+SDY,SPDR S&P Dividend ETF,P, ,Y,N,,SDY,SDY,Mid-Cap Value
+SHE,SPDR Series Trust SPDR SSGA Gender Diversity Index ETF,P, ,Y,N,,SHE,SHE,Large Blend
+SIMS,SPDR S&P Kensho Intelligent Structures ETF,P, ,Y,N,,SIMS,SIMS,Infrastructure
+SIZE,iShares Edge MSCI USA Size Factor ETF,P, ,Y,N,,SIZE,SIZE,Mid-Cap Blend
+SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,Q,G,Y,N,N,,SKOR,Corporate Bond
+SLVP,iShares MSCI Global Silver Miners Fund,Z, ,Y,N,,SLVP,SLVP,Equity Precious Metals
+SLY,SPDR S&P 600 Small Cap ETF (based on S&P SmallCap 600 Index -- symbol SML),P, ,Y,N,,SLY,SLY,Small Blend
+SLYG,SPDR S&P 600 Small Cap Growth ETF (based on S&P SmallCap 600 Growth Index --symbol CGK),P, ,Y,N,,SLYG,SLYG,Small Growth
+SLYV,SPDR S&P 600 Small Cap Value ETF (based on S&P SmallCap Value Index--symbol--CVK,P, ,Y,N,,SLYV,SLYV,Small Value
+SMDV,ProShares Russell 2000 Dividend Growers ETF,Z, ,Y,N,,SMDV,SMDV,Small Value
+SMIN,Ishares MSCI India Small Cap ETF,Z, ,Y,N,,SMIN,SMIN,India Equity
+SMLF,iShares Edge MSCI Multifactor USA Small-Cap ETF,P, ,Y,N,,SMLF,SMLF,Small Blend
+SMLV,SPDR SSGA US Small Cap Low Volatility Index ETF,P, ,Y,N,,SMLV,SMLV,Small Value
+SMMD,iShares Trust iShares Russell 2500 ETF,Z, ,Y,N,,SMMD,SMMD,Small Blend
+SNLN,Highland/iBoxx Senior Loan ETF,Q,G,Y,N,N,,SNLN,Bank Loan
+SNPE,Xtrackers S&P 500 ESG ETF,P, ,Y,N,,SNPE,SNPE,Large Blend
+SOXX,iShares PHLX SOX Semiconductor Sector Index Fund,Q,G,Y,N,N,,SOXX,Technology
+SPDV,AAM S&P 500 High Dividend Value ETF,P, ,Y,N,,SPDV,SPDV,Mid-Cap Value
+SPGP,Invesco S&P 500 GARP ETF,P, ,Y,N,,SPGP,SPGP,Large Value
+SPHB,Invesco S&P 500 High Beta ETF,P, ,Y,N,,SPHB,SPHB,Mid-Cap Blend
+SPHD,Invesco S&P 500 High Dividend Low Volatility ETF,P, ,Y,N,,SPHD,SPHD,Large Value
+SPHQ,Invesco S&P 500 Quality ETF,P, ,Y,N,,SPHQ,SPHQ,Large Blend
+SPLG,SPDR Portfolio S&P 500 ETF,P, ,Y,N,,SPLG,SPLG,Large Blend
+SPLV,Invesco S&P 500 Low Volatility ETF,P, ,Y,N,,SPLV,SPLV,Large Value
+SPMD,SPDR Portfolio S&P 400 Mid Cap ETF,P, ,Y,N,,SPMD,SPMD,Mid-Cap Blend
+SPMO,Invesco S&P 500 Momentum ETF,P, ,Y,N,,SPMO,SPMO,Large Blend
+SPMV,Invesco S&P 500 Minimum Variance ETF,Z, ,Y,N,,SPMV,SPMV,Large Blend
+SPSK,Tidal ETF Trust SP Funds Dow Jones Global Sukuk ETF,P, ,Y,N,,SPSK,SPSK,Global Bond
+SPSM,SPDR Portfolio S&P 600 Small Cap ETF,P, ,Y,N,,SPSM,SPSM,Small Blend
+SPUS,SP Funds S&P 500 Sharia Industry Exclusions ETF,P, ,Y,N,,SPUS,SPUS,Large Growth
+SPVM,Invesco S&P 500 Value with Momentum ETF,P, ,Y,N,,SPVM,SPVM,Mid-Cap Value
+SPVU,Invesco S&P 500 Enhanced Value ETF,P, ,Y,N,,SPVU,SPVU,Large Value
+SPXB,ProShares S&P 500 Bond ETF,P, ,Y,N,,SPXB,SPXB,Corporate Bond
+SPXE,ProShares S&P 500 Ex-Energy ETF,P, ,Y,N,,SPXE,SPXE,Large Blend
+SPXN,ProShares S&P 500 Ex-Financials ETF,P, ,Y,N,,SPXN,SPXN,Large Blend
+SPXT,ProShares S&P 500 Ex-Technology ETF,P, ,Y,N,,SPXT,SPXT,Large Blend
+SPXV,ProShares S&P 500 Ex-Health Care ETF,P, ,Y,N,,SPXV,SPXV,Large Blend
+SPY,SPDR S&P 500,P, ,Y,N,,SPY,SPY,Large Blend
+SPYB,SPDR S&P 500 Buyback ETF,P, ,Y,N,,SPYB,SPYB,Unknown
+SPYD,SPDR Series Trust SPDR Portfolio S&P 500 High Dividend ETF,P, ,Y,N,,SPYD,SPYD,Mid-Cap Value
+SPYG,SPDR Series Trust SPDR Portfolio S&P 500 Growth ETF,P, ,Y,N,,SPYG,SPYG,Large Growth
+SPYV,SPDR Series Trust SPDR Portfolio S&P 500 Value ETF,P, ,Y,N,,SPYV,SPYV,Large Value
+SPYX,SPDR S&P 500 Fossil Fuel Reserves Free ETF,P, ,Y,N,,SPYX,SPYX,Large Blend
+STPZ,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund,P, ,Y,N,,STPZ,STPZ,Short-Term Inflation-Protected Bond
+SUSA,iShares MSCI USA ESG Select ETF,P, ,Y,N,,SUSA,SUSA,Large Blend
+SUSL,iShares ESG MSCI USA Leaders ETF,Q,G,Y,N,N,,SUSL,Large Blend
+TDIV,First Trust NASDAQ Technology Dividend Index Fund,Q,G,Y,N,N,,TDIV,Technology
+TDTF,FlexShares iBoxx 5 Year Target Duration TIPS Index Fund,P, ,Y,N,,TDTF,TDTF,Inflation-Protected Bond
+TDTT,FlexShares iBoxx 3 Year Target Duration TIPS Index Fund,P, ,Y,N,,TDTT,TDTT,Short-Term Inflation-Protected Bond
+TDV,ProShares S&P Technology Dividend Aristocrats ETF,Z, ,Y,N,,TDV,TDV,Technology
+TFI,SPDR Nuveen Bloomberg Barclays Municipal Bond ETF,P, ,Y,N,,TFI,TFI,Muni National Long
+THD,iShares Inc iShares MSCI Thailand ETF,P, ,Y,N,,THD,THD,Miscellaneous Region
+TIPX,SPDR Bloomberg Barclays 1-10 Year TIPS,P, ,Y,N,,TIPX,TIPX,Short-Term Inflation-Protected Bond
+TIPZ,PIMCO Broad U.S. TIPS Index Exchange-Traded Fund,P, ,Y,N,,TIPZ,TIPZ,Inflation-Protected Bond
+TLDH,FlexShares Currency Hedged Morningstar DM ex-US Factor Tilt Index Fund,P, ,Y,N,,TLDH,TLDH,Foreign Large Value
+TLEH,FlexShares Currency Hedged Morningstar EM Factor Tilt Index Fund,P, ,Y,N,,TLEH,TLEH,Diversified Emerging Mkts
+TMDV,ProShares Russell US Dividend Growers ETF,Z, ,Y,N,,TMDV,TMDV,Mid-Cap Value
+TMFC,Motley Fool 100 Index ETF ETF,Z, ,Y,N,,TMFC,TMFC,Large Growth
+TOK,iShares MSCI Kokusai ETF,P, ,Y,N,,TOK,TOK,Global Large-Stock Blend
+TUR,iShares MSCI Turkey ETF,Q,G,Y,N,N,,TUR,Miscellaneous Region
+UAE,iShares MSCI UAE ETF,Q,G,Y,N,N,,UAE,Miscellaneous Region
+UIVM,VictoryShares USAA MSCI International Value Momentum ETF,P, ,Y,N,,UIVM,UIVM,Foreign Large Value
+ULVM,VictoryShares USAA MSCI USA Value Momentum ETF,P, ,Y,N,,ULVM,ULVM,Large Value
+URTH,Ishares MSCI World Index Fund,P, ,Y,N,,URTH,URTH,Global Large-Stock Blend
+USCI,United States Commodity Index Fund ETV,P, ,Y,N,,USCI,USCI,Commodities Broad Basket
+USDU,WisdomTree Bloomberg U.S. Dollar Bullish Fund,P, ,Y,N,,USDU,USDU,Trading--Miscellaneous
+USEQ,Invesco Russell 1000 Enhanced Equal Weight ETF,Z, ,Y,N,,USEQ,USEQ,Mid-Cap Blend
+USLB,Invesco Russell 1000 Low Beta Equal Weight ETF,Q,G,Y,N,N,,USLB,Mid-Cap Blend
+USMC,Principal U.S. Mega-Cap Multi-Factor Index ETF,Q,G,Y,N,N,,USMC,Large Blend
+USMV,iShares Edge MSCI Min Vol USA ETF,Z, ,Y,N,,USMV,USMV,Large Blend
+USSG,Xtrackers MSCI USA ESG Leaders Equity ETF,P, ,Y,N,,USSG,USSG,Large Blend
+USVM,VictoryShares USAA MSCI USA Small Cap Value Momentum ETF,P, ,Y,N,,USVM,USVM,Small Value
+UUP,Invesco DB USD Index Bullish Fund ETF,P, ,Y,N,,UUP,UUP,Trading--Miscellaneous
+VEGI,iShares MSCI Agriculture Producers Fund,P, ,Y,N,,VEGI,VEGI,Natural Resources
+VEGN,US Vegan Climate Index,P, ,Y,N,,VEGN,VEGN,Large Growth
+VEU,Vanguard FTSE All World Ex US ETF,P, ,Y,N,,VEU,VEU,Foreign Large Blend
+VGK,Vanguard FTSEEuropean ETF,P, ,Y,N,,VGK,VGK,Europe Stock
+VIOG,Vanguard S&P Small-Cap 600 Growth ETF,P, ,Y,N,,VIOG,VIOG,Small Growth
+VIOO,Vanguard S&P Small-Cap 600 ETF,P, ,Y,N,,VIOO,VIOO,Small Blend
+VIOV,Vanguard S&P Small-Cap 600 Value ETF,P, ,Y,N,,VIOV,VIOV,Small Value
+VLU,SPDR S&P 1500 Value Tilt ETF,P, ,Y,N,,VLU,VLU,Large Value
+VLUE,iShares Edge MSCI USA Value Factor ETF,Z, ,Y,N,,VLUE,VLUE,Large Value
+VONE,Vanguard Russell 1000 ETF,Q,G,Y,N,N,,VONE,Large Blend
+VONG,Vanguard Russell 1000 Growth ETF,Q,G,Y,N,N,,VONG,Large Growth
+VONV,Vanguard Russell 1000 Value ETF,Q,G,Y,N,N,,VONV,Large Value
+VOO,Vanguard S&P 500 ETF,P, ,Y,N,,VOO,VOO,Large Blend
+VOOG,Vanguard S&P 500 Growth ETF,P, ,Y,N,,VOOG,VOOG,Large Growth
+VOOV,Vanguard S&P 500 Value ETF,P, ,Y,N,,VOOV,VOOV,Large Value
+VOX,Vanguard Communication Services  ETF,P, ,Y,N,,VOX,VOX,Communications
+VPL,Vanguard FTSE Pacific ETF,P, ,Y,N,,VPL,VPL,Diversified Pacific/Asia
+VSS,Vanguard FTSE All-Wld ex-US SmCp Idx ETF,P, ,Y,N,,VSS,VSS,Foreign Small/Mid Blend
+VT,Vanguard Total World Stock Index ETF,P, ,Y,N,,VT,VT,Global Large-Stock Blend
+VTHR,Vanguard Russell 3000 ETF,Q,G,Y,N,N,,VTHR,Large Blend
+VTWG,Vanguard Russell 2000 Growth ETF,Q,G,Y,N,N,,VTWG,Small Growth
+VTWO,Vanguard Russell 2000 ETF,Q,G,Y,N,N,,VTWO,Small Blend
+VTWV,Vanguard Russell 2000 Value ETF,Q,G,Y,N,N,,VTWV,Small Value
+WCHN,WisdomTree ICBCCS S&P China 500 Fund,P, ,Y,N,,WCHN,WCHN,China Region
+WDIV,SPDR S&P Global Dividend,P, ,Y,N,,WDIV,WDIV,Global Large-Stock Value
+WIP,SPDR FTSE International Government Inflation-Protected Bond ETF,P, ,Y,N,,WIP,WIP,Global Bond
+WOOD,iShares S&P Global Timber & Forestry Index Fund,Q,G,Y,N,N,,WOOD,Natural Resources
+XAR,SPDR S&P Aerospace & Defense ETF,P, ,Y,N,,XAR,XAR,Industrials
+XBI,SPDR Series Trust  SPDR S&P Biotech ETF,P, ,Y,N,,XBI,XBI,Health
+XHE,SPDR S&P Health Care Equipment,P, ,Y,N,,XHE,XHE,Health
+XHS,SPDR S&P Health Care Services ETF,P, ,Y,N,,XHS,XHS,Health
+XLC,The Communication Services Select Sector SPDR Fund,P, ,Y,N,,XLC,XLC,Communications
+XLG,Invesco S&P 500 Top 50 ETF,P, ,Y,N,,XLG,XLG,Large Blend
+XME,SPDR S&P Metals & Mining ETF,P, ,Y,N,,XME,XME,Natural Resources
+XMHQ,Invesco S&P MidCap Quality ETF,P, ,Y,N,,XMHQ,XMHQ,Mid-Cap Blend
+XMLV,Invesco S&P MidCap Low Volatility ETF,P, ,Y,N,,XMLV,XMLV,Small Blend
+XMMO,Invesco S&P MidCap Momentum ETF,P, ,Y,N,,XMMO,XMMO,Mid-Cap Blend
+XMVM,Invesco S&P MidCap Value with Momentum ETF,P, ,Y,N,,XMVM,XMVM,Small Value
+XNTK,SPDR NYSE Technology ETF,P, ,Y,N,,XNTK,XNTK,Technology
+XPH,SPDR S&P Pharmaceuticals ETF,P, ,Y,N,,XPH,XPH,Health
+XRLV,Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF,P, ,Y,N,,XRLV,XRLV,Large Value
+XRT,SPDR S&P Retail ETF,P, ,Y,N,,XRT,XRT,Consumer Cyclical
+XSD,SPDR S&P Semiconductor ETF,P, ,Y,N,,XSD,XSD,Technology
+XSHD,Invesco S&P SmallCap High Dividend Low Volatility ETF,Z, ,Y,N,,XSHD,XSHD,Small Value
+XSHQ,Invesco S&P SmallCap Quality ETF,Z, ,Y,N,,XSHQ,XSHQ,Small Blend
+XSLV,Invesco S&P SmallCap Low Volatility ETF,P, ,Y,N,,XSLV,XSLV,Small Blend
+XSMO,Invesco S&P SmallCap Momentum ETF,P, ,Y,N,,XSMO,XSMO,Small Blend
+XSVM,Invesco S&P SmallCap Value with Momentum ETF,P, ,Y,N,,XSVM,XSVM,Small Value
+XSW,SPDR S&P Software & Services ETF,P, ,Y,N,,XSW,XSW,Technology
+XTH,SPDR S&P Technology Hardware ETF,P, ,Y,N,,XTH,XTH,Technology
+XTL,SPDR S&P Telecom ETF,P, ,Y,N,,XTL,XTL,Communications
+XTN,SPDR S&P Transportation ETF,P, ,Y,N,,XTN,XTN,Industrials
+XWEB,SPDR S&P Internet ETF,P, ,Y,N,,XWEB,XWEB,Technology
+ZMLP,Direxion Zacks MLP High Income Index Shares,P, ,Y,N,,ZMLP,ZMLP,Energy Limited Partnership
+ZROZ,PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,P, ,Y,N,,ZROZ,ZROZ,Long Government
+ADRE,Invesco BLDRS Emerging Markets 50 ADR Index Fund,Q,G,Y,N,N,,ADRE,Diversified Emerging Mkts
+BWZ,SPDR Bloomberg Barclays Short Term International Treasury Bond ETF,P, ,Y,N,,BWZ,BWZ,Global Bond
+DBEM,Xtrackers MSCI Emerging Markets Hedged Equity ETF,P, ,Y,N,,DBEM,DBEM,Diversified Emerging Mkts
+DMDV,AAM S&P Developed Markets High Dividend Value ETF,P, ,Y,N,,DMDV,DMDV,Foreign Large Value
+DMRE,DeltaShares S&P EM 100 & Managed Risk ETF,P, ,Y,N,,DMRE,DMRE,Diversified Emerging Mkts
+DMRI,DeltaShares S&P International Managed Risk ETF,P, ,Y,N,,DMRI,DMRI,Foreign Large Blend
+DMRL,DeltaShares S&P 500 Managed Risk ETF,P, ,Y,N,,DMRL,DMRL,Moderately Aggressive Allocation
+DMRM,DeltaShares S&P 400 Managed Risk ETF,P, ,Y,N,,DMRM,DMRM,Moderate Allocation
+DMRS,DeltaShares S&P 600 Managed Risk ETF,P, ,Y,N,,DMRS,DMRS,Moderate Allocation
+DVYE,iShares Emerging Markets Dividend Index Fund Exchange Traded Fund,P, ,Y,N,,DVYE,DVYE,Diversified Emerging Mkts
+EBND,SPDR Bloomberg Barclays Emerging Markets Local Bond ETF,P, ,Y,N,,EBND,EBND,Emerging-Markets Local-Currency Bond
+EDEN,iShares Inc iShares MSCI Denmark ETF,Z, ,Y,N,,EDEN,EDEN,Miscellaneous Region
+EDIV,SPDR S&P Emerging Markets Dividend ETF,P, ,Y,N,,EDIV,EDIV,Diversified Emerging Mkts
+EELV,Invesco S&P Emerging Markets Low Volatility ETF,P, ,Y,N,,EELV,EELV,Diversified Emerging Mkts
+EEMA,iShares MSCI Emerging Markets Asia ETF,Q,G,Y,N,N,,EEMA,Pacific/Asia ex-Japan Stk
+EEMD,AAM S&P Emerging Markets High Dividend Value ETF,P, ,Y,N,,EEMD,EEMD,Diversified Emerging Mkts
+EEMO,Invesco S&P Emerging Markets Momentum ETF,P, ,Y,N,,EEMO,EEMO,Diversified Emerging Mkts
+EEMS,Ishares MSCI Emerging Markets Small Cap Index Fund,P, ,Y,N,,EEMS,EEMS,Diversified Emerging Mkts
+EEMV,iShares Edge MSCI Min Vol Emerging Markets ETF,Z, ,Y,N,,EEMV,EEMV,Diversified Emerging Mkts
+EEMX,SPDR MSCI Emerging Markets Fuel Reserves Free ETF,P, ,Y,N,,EEMX,EEMX,Diversified Emerging Mkts
+EMGF,iShares Edge MSCI Multifactor Emerging Markets ETF,Z, ,Y,N,,EMGF,EMGF,Diversified Emerging Mkts
+EMSG,Xtrackers MSCI Emerging Markets ESG Leaders Equity ETF,P, ,Y,N,,EMSG,EMSG,Diversified Emerging Mkts
+EWX,SPDR S&P Emerging Markets Small Cap ETF,P, ,Y,N,,EWX,EWX,Diversified Emerging Mkts
+FLEU,Barclays ETN  FI Enhanced Europe 50 ETN Series B,P, ,Y,N,,FLEU,FLEU,Europe Stock
+FNDB,Schwab Fundamental U.S. Broad Market Index ETF,P, ,Y,N,,FNDB,FNDB,Large Value
+FNDE,Schwab Fundamental Emerging Markets Large Company Index ETF,P, ,Y,N,,FNDE,FNDE,Diversified Emerging Mkts
+HEEM,iShares Currency Hedged MSCI Emerging Markets ETF,Z, ,Y,N,,HEEM,HEEM,Diversified Emerging Mkts
+HYXE,iShares iBoxx $ High Yield ex Oil & Gas Corporate Bond ETF,Q,G,Y,N,N,,HYXE,Unknown
+IDEV,iShares Core MSCI International Developed Markets ETF,P, ,Y,N,,IDEV,IDEV,Foreign Large Blend
+IEMG,iShares Core MSCI Emerging Markets ETF,P, ,Y,N,,IEMG,IEMG,Diversified Emerging Mkts
+INDS,Pacer Benchmark Industrial Real Estate SCTR ETF,P, ,Y,N,,INDS,INDS,Real Estate
+KCE,SPDR S&P Capital Markets ETF,P, ,Y,N,,KCE,KCE,Financial
+KEMQ,KraneShares Emerging Markets Consumer Technology Index ETF,P, ,Y,N,,KEMQ,KEMQ,Diversified Emerging Mkts
+KEMX,KraneShares MSCI Emerging Markets ex China Index ETF,P, ,Y,N,,KEMX,KEMX,Diversified Emerging Mkts
+KMED,KraneShares Trust KraneShares Emerging Markets Healthcare Index ETF,P, ,Y,N,,KMED,KMED,Diversified Emerging Mkts
+PBEE,Invesco PureBeta FTSE Emerging Markets ETF,Z, ,Y,N,,PBEE,PBEE,Diversified Emerging Mkts
+PBP,Invesco S&P 500 BuyWrite ETF,P, ,Y,N,,PBP,PBP,Derivative Income
+PDN,Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF,P, ,Y,N,,PDN,PDN,Foreign Small/Mid Value
+PXF,Invesco FTSE RAFI Developed Markets ex-U.S. ETF,P, ,Y,N,,PXF,PXF,Foreign Large Value
+PXH,Invesco FTSE RAFI Emerging Markets ETF,P, ,Y,N,,PXH,PXH,Diversified Emerging Mkts
+QEMM,SPDR MSCI Emerging Markets StrategicFactors ETF,P, ,Y,N,,QEMM,QEMM,Diversified Emerging Mkts
+QLVD,FlexShares Developed Markets ex-US Quality Low Volatility Index Fund,P, ,Y,N,,QLVD,QLVD,Foreign Large Blend
+QLVE,FlexShares Emerging Markets  Quality Low Volatility Index Fund,P, ,Y,N,,QLVE,QLVE,Diversified Emerging Mkts
+QYLD,Global X NASDAQ-100 Covered Call ETF,Q,G,Y,N,N,,QYLD,Derivative Income
+RDIV,Invesco Exchange-Traded Fund Trust II Invesco S&P Ultra Dividend Revenue ETF,P, ,Y,N,,RDIV,RDIV,Mid-Cap Value
+RTL,Pacer Benchmark Retail Real Estate SCTR ETF,P, ,Y,N,,RTL,RTL,Unknown
+SPEM,SPDR Index Shares Fund SPDR Portfolio Emerging Markets ETF,P, ,Y,N,,SPEM,SPEM,Diversified Emerging Mkts
+SPGM,SPDR Portfolio MSCI Global Stock Market ETF,P, ,Y,N,,SPGM,SPGM,Global Large-Stock Blend
+SPTM,SPDR Portfolio S&P 1500 Composite Stock Market ETF,P, ,Y,N,,SPTM,SPTM,Large Blend
+SRVR,Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF,P, ,Y,N,,SRVR,SRVR,Real Estate
+TILT,FlexShares Mornigstar US Market Factors Tilt Index Fund ETF,Z, ,Y,N,,TILT,TILT,Large Blend
+TLTD,FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund,P, ,Y,N,,TLTD,TLTD,Foreign Large Value
+TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,P, ,Y,N,,TLTE,TLTE,Diversified Emerging Mkts
+ZHOK,SPDR Solactive Hong Kong ETF,P, ,Y,N,,ZHOK,ZHOK,China Region

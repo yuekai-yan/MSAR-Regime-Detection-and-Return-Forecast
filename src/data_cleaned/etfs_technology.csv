@@ -1,0 +1,15 @@
+Symbol,Security Name,Listing Exchange,Market Category,ETF,Test Issue,Financial Status,CQS Symbol,NASDAQ Symbol,Industry
+FDN,First Trust DJ Internet Index Fund,P, ,Y,N,,FDN,FDN,Technology
+FITE,SPDR S&P Kensho Future Security ETF,P, ,Y,N,,FITE,FITE,Technology
+FTEC,Fidelity MSCI Information Technology Index ETF,P, ,Y,N,,FTEC,FTEC,Technology
+HAIL,SPDR S&P Kensho Smart Mobility ETF,P, ,Y,N,,HAIL,HAIL,Technology
+PSCT,Invesco S&P SmallCap Information Technology ETF,Q,G,Y,N,N,,PSCT,Technology
+QTEC,First Trust NASDAQ-100- Technology Index Fund,Q,G,Y,N,N,,QTEC,Technology
+RYT,Invesco S&P 500 Equal Weight Technology ETF,P, ,Y,N,,RYT,RYT,Technology
+SOXX,iShares PHLX SOX Semiconductor Sector Index Fund,Q,G,Y,N,N,,SOXX,Technology
+TDIV,First Trust NASDAQ Technology Dividend Index Fund,Q,G,Y,N,N,,TDIV,Technology
+XNTK,SPDR NYSE Technology ETF,P, ,Y,N,,XNTK,XNTK,Technology
+XSD,SPDR S&P Semiconductor ETF,P, ,Y,N,,XSD,XSD,Technology
+XSW,SPDR S&P Software & Services ETF,P, ,Y,N,,XSW,XSW,Technology
+XTH,SPDR S&P Technology Hardware ETF,P, ,Y,N,,XTH,XTH,Technology
+XWEB,SPDR S&P Internet ETF,P, ,Y,N,,XWEB,XWEB,Technology
